@@ -8,6 +8,6 @@ When predicting the next word, if we use traditional method `Greedy sampling`, t
 
 The `temperature value` is applied to the "raw logits" before applying `softmax()` function.
 
-<img width="300" alt="Image" src="2026-01-08T22-43-51_What is temperature in LLM_files/img_01.png" />
+![Image](2026-01-08T22-43-51_What is temperature in LLM_files/img_01.png)
 
-<img width="300" alt="Image" src="2026-01-08T22-43-51_What is temperature in LLM_files/img_02.png" />
+![Image](2026-01-08T22-43-51_What is temperature in LLM_files/img_02.png)
