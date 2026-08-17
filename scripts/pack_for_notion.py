@@ -146,49 +146,67 @@ def main():
             parent.setdefault(img, img)
             union(md, img)
 
+    # topic = top-level subfolder name (relative to REPO); root-level notes
+    # fall into a catch-all 'root' topic. Zips are grouped by topic so each
+    # zip's contents come from one subject folder.
+    def topic_of(md):
+        rel = md.relative_to(REPO).parts
+        return rel[0] if len(rel) > 1 else 'root'
+
     groups = {}
     for md in md_files:
-        g = groups.setdefault(find(md), {'files': [], 'size': 0})
+        g = groups.setdefault(find(md), {'files': [], 'size': 0, 'topics': set()})
         flat = md_flat_name[md]
         g['files'].append(flat)
         g['size'] += (OUT / flat).stat().st_size
+        g['topics'].add(topic_of(md))
     for src, flat in img_flat_name.items():
-        g = groups.setdefault(find(src), {'files': [], 'size': 0})
+        g = groups.setdefault(find(src), {'files': [], 'size': 0, 'topics': set()})
         if flat not in g['files']:
             g['files'].append(flat)
             g['size'] += (OUT / flat).stat().st_size
 
-    units = sorted(groups.values(), key=lambda g: g['size'], reverse=True)
+    # group units by topic (a group spanning >1 topic, from a shared image,
+    # is filed under its first topic — sorted so this is deterministic)
+    by_topic = {}
+    for g in groups.values():
+        t = sorted(g['topics'])[0] if g['topics'] else 'root'
+        by_topic.setdefault(t, []).append(g)
 
-    bins = []
-    oversized = 0
-    for u in units:
-        if u['size'] > PACK_TARGET:
-            oversized += 1
-            bins.append({'size': u['size'], 'files': list(u['files'])})
-            continue
-        for b in bins:
-            if b['size'] + u['size'] <= PACK_TARGET:
-                b['size'] += u['size']
-                b['files'].extend(u['files'])
-                break
-        else:
-            bins.append({'size': u['size'], 'files': list(u['files'])})
+    total_bins = 0
+    over_cap_total = 0
+    all_sizes = []
+    for topic in sorted(by_topic):
+        units = sorted(by_topic[topic], key=lambda g: g['size'], reverse=True)
+        bins = []
+        for u in units:
+            if u['size'] > PACK_TARGET:
+                bins.append({'size': u['size'], 'files': list(u['files'])})
+                continue
+            for b in bins:
+                if b['size'] + u['size'] <= PACK_TARGET:
+                    b['size'] += u['size']
+                    b['files'].extend(u['files'])
+                    break
+            else:
+                bins.append({'size': u['size'], 'files': list(u['files'])})
 
-    width = len(str(len(bins)))
-    sizes = []
-    for i, b in enumerate(bins, 1):
-        zpath = ZIPDIR / f'notion-import-{i:0{width}d}.zip'
-        with zipfile.ZipFile(zpath, 'w', zipfile.ZIP_DEFLATED) as zf:
-            for fn in b['files']:
-                zf.write(OUT / fn, arcname=fn)
-        sizes.append(zpath.stat().st_size)
+        topic_dir = ZIPDIR / topic
+        topic_dir.mkdir(parents=True, exist_ok=True)
+        width = len(str(len(bins)))
+        for i, b in enumerate(bins, 1):
+            zpath = topic_dir / f'notion-import-{i:0{width}d}.zip'
+            with zipfile.ZipFile(zpath, 'w', zipfile.ZIP_DEFLATED) as zf:
+                for fn in b['files']:
+                    zf.write(OUT / fn, arcname=fn)
+            all_sizes.append(zpath.stat().st_size)
+        total_bins += len(bins)
 
-    over_cap = sum(1 for s in sizes if s > ZIP_HARD_CAP)
+    over_cap_total = sum(1 for s in all_sizes if s > ZIP_HARD_CAP)
     print(f'notes={len(md_files)} images={len(img_flat_name)} (failed_shrink={len(failed)}) '
           f'export_total={total/1024/1024:.0f}MB')
-    print(f'zips={len(bins)} over_5MB_cap={over_cap} '
-          f'min={min(sizes)/1024/1024:.2f}MB max={max(sizes)/1024/1024:.2f}MB avg={sum(sizes)/len(sizes)/1024/1024:.2f}MB')
+    print(f'topics={len(by_topic)} zips={total_bins} over_5MB_cap={over_cap_total} '
+          f'min={min(all_sizes)/1024/1024:.2f}MB max={max(all_sizes)/1024/1024:.2f}MB avg={sum(all_sizes)/len(all_sizes)/1024/1024:.2f}MB')
     print(f'-> {ZIPDIR}')
 
 
