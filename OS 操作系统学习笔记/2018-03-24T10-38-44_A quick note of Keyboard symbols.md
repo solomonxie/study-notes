@@ -5,5 +5,5 @@
 - `!`, **Exclaimation mark**
 - `^`, **Caret**
 - `*`, **Asterisk**
-[More Details](https://user-images.githubusercontent.com/14041622/35766438-ab7f0fa6-0913-11e8-84a0-3f064dd87102.png)
+![More Details](2018-03-24T10-38-44_A quick note of Keyboard symbols_files/img_01.png)
 
