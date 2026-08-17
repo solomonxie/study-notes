@@ -39,9 +39,9 @@ The -1 determinant means the matrix was flipped around from originally `right-ha
 
 How to see this process intuitively? 
 Think about the famous paint [_The Ambassadors (Holbein) - Wikipedia_](https://en.wikipedia.org/wiki/The_Ambassadors_(Holbein))
-![image](20180508062613_❖-Orthogonal-Matrix_files/img_01.png)
+![image](20180508062613_❖-Orthogonal-Matrix_img_01.png)
 The skull in the paint is so hard to recognize because it's in some "funny" basis, we need to transform it into our world basis, the `Orthonormal basis`, so that we could see it as below:
-![image](20180508062613_❖-Orthogonal-Matrix_files/img_02.png)
+![image](20180508062613_❖-Orthogonal-Matrix_img_02.png)
 
 
 ### How to 「Orthogonalize basis」
@@ -51,5 +51,5 @@ Refer to video by Trefor Bazett:
 [Full example: using Gram-Schmidt](https://www.youtube.com/watch?v=zti01DiImiQ&index=71&t=0s&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
 [The geometric view on orthogonal projections](https://www.youtube.com/watch?v=2dGXQwYDaqU&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&index=66)
 
-![gram-schmidt_orthonormalization_process](20180508062613_❖-Orthogonal-Matrix_files/img_03.gif)
+![gram-schmidt_orthonormalization_process](20180508062613_❖-Orthogonal-Matrix_img_03.gif)
 

@@ -13,7 +13,7 @@
 
 ## 项目结构
 
-![image](20181127152529_❖-Python-Unit-Test-单元测试-DRAFT_files/img_01.png)
+![image](20181127152529_❖-Python-Unit-Test-单元测试-DRAFT_img_01.png)
 
 
 ## 断言 Assertion
@@ -98,7 +98,7 @@ class MyTest(unittest.TestCase):
 
 ## 运行测试
 
-![image](20181127152529_❖-Python-Unit-Test-单元测试-DRAFT_files/img_02.png)
+![image](20181127152529_❖-Python-Unit-Test-单元测试-DRAFT_img_02.png)
 
 
 ### 调用全部测试

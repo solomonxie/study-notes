@@ -4,7 +4,7 @@
 
 The probability of multiple events occur at the same time is the multiplication of their probabilities. 
 
-![image](20180811160039_❖-Probability-Rules_files/img_01.png)
+![image](20180811160039_❖-Probability-Rules_img_01.png)
 
 
 
@@ -16,13 +16,13 @@ The formula is:
 
 [Refer to Khan academy: Addition rule for probability](https://www.khanacademy.org/math/ap-statistics/probability-ap/modal/v/addition-rule-for-probability)
 
-![image](20180811160039_❖-Probability-Rules_files/img_02.png)
+![image](20180811160039_❖-Probability-Rules_img_02.png)
 
 
 ### Example
-![image](20180811160039_❖-Probability-Rules_files/img_03.png)
+![image](20180811160039_❖-Probability-Rules_img_03.png)
 Solve:
-![image](20180811160039_❖-Probability-Rules_files/img_04.png)
+![image](20180811160039_❖-Probability-Rules_img_04.png)
 
 
 
@@ -31,10 +31,10 @@ Solve:
 Mutually exclusive events cannot happen at the same time.
 
 #### Example
-![image](20180811160039_❖-Probability-Rules_files/img_05.png)
+![image](20180811160039_❖-Probability-Rules_img_05.png)
 
 #### Example
-![image](20180811160039_❖-Probability-Rules_files/img_06.png)
+![image](20180811160039_❖-Probability-Rules_img_06.png)
 Solve:
 - Females=22, Chocolate=33, Overlaps=15
 - The probability is: `(22+33-15)/50`
@@ -47,14 +47,14 @@ Solve:
 
 The formula of `Compound probability of independent events` is the same with **multiplication rule**.
 
-![image](20180811160039_❖-Probability-Rules_files/img_07.png)
+![image](20180811160039_❖-Probability-Rules_img_07.png)
 
 Example: Flipping a coin three times, what's the probability of getting a tail, head and tail ? 
 
-![image](20180811160039_❖-Probability-Rules_files/img_08.png)
+![image](20180811160039_❖-Probability-Rules_img_08.png)
 
 
 ## 「At least one」 probability
 
-![image](20180811160039_❖-Probability-Rules_files/img_09.png)
+![image](20180811160039_❖-Probability-Rules_img_09.png)
 

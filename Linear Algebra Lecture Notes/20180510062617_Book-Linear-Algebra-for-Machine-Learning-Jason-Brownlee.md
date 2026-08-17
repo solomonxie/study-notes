@@ -6,23 +6,23 @@ Check [THIS LINK](https://www.scribd.com/document/371769141/Jason-Brownlee-Basic
 
 ## Linear Algebra Is Important in Machine Learning
 
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_01.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_01.png)
 
 ## Study Linear Algebra Too Early
 
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_02.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_02.png)
 
 ## Study Too Much Linear Algebra
 
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_03.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_03.png)
 
 ## Study Linear Algebra Wrong
 
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_04.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_04.png)
 
 ## A Bette Way To Study Linear Algebra
 
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_05.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_05.png)
 
 ## What will be learnt in this book
 
@@ -61,8 +61,8 @@ In practice, most large matrices are sparse — almost all entries are zeros.
 
 ## Matrix Decompositions
 
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_06.png)
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_07.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_06.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_07.png)
 
 
 Most common types of matrix decomposition:
@@ -76,22 +76,22 @@ Most common types of matrix decomposition:
 
 #### LUP Decomposition
 
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_08.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_08.png)
 
 
 ### QR Decomposition
 
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_09.png)
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_10.png)
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_11.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_09.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_10.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_11.png)
 
 ### Cholesky Decomposition
 
 The Cholesky decomposition is for square symmetric matrices where all values are greater than zero, so-called positive deﬁnite matrices. 
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_12.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_12.png)
 Where L is the Lower triangular matrix, and Lᵀ is its transpose.
 Or
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_13.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_13.png)
 Where U is the Upper Triangular matrix, and Uᵀ is its tranpose.
 
 
@@ -101,40 +101,40 @@ Where U is the Upper Triangular matrix, and Uᵀ is its tranpose.
 matrix into a set of eigenvectors and eigenvalues.
 One of the most widely used kinds of matrix decomposition is called eigendecomposition, in which we decompose a matrix into a set of eigenvectors and eigenvalues.
 
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_14.png)
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_15.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_14.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_15.png)
 > Not all square matrices can be decomposed into eigenvectors and eigenvalues
 
 The parent matrix can be shown to be a product of the eigenvectors and eigenvalues:
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_16.png)
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_17.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_16.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_17.png)
 
 > Almost all vectors change direction, when they are multiplied by A. 
 Certain exceptional vectors x are in the same direction as Ax. 
 Those are the “eigenvectors”.
 
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_18.png)
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_19.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_18.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_19.png)
 
 
 ## Singular Value Decomposition (SVD)
 
 > The Singular Value Decomposition is a highlight of linear algebra.
 
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_20.png)
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_21.png)
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_22.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_20.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_21.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_22.png)
 
 > The singular value decomposition (SVD) provides another way to factorize a matrix, into singular vectors and singular values. The SVD allows us to discover some of the same kind of information as the eigendecomposition. However, the SVD is more generally applicable.
 
 
 ## Pseudoinverse
 
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_23.png)
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_24.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_23.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_24.png)
 
 
 ## Dimensionality Reduction
 
-![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_files/img_25.png)
+![image](20180510062617_Book-Linear-Algebra-for-Machine-Learning-Jason-Brownlee_img_25.png)
 

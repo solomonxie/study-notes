@@ -1,6 +1,6 @@
 # `Cain’s psychology, biology and genealogy` Genesis 4
 
-![Giovanni Domenico Ferretti, Cain and Abel, 1740](20180316030346_Cain’s-psychology-biology-and-genealogy-Genesis-4_files/img_01.png)
+![Giovanni Domenico Ferretti, Cain and Abel, 1740](20180316030346_Cain’s-psychology-biology-and-genealogy-Genesis-4_img_01.png)
 
 
 ### Genesis 4:1

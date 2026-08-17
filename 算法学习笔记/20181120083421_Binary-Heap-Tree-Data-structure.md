@@ -1,6 +1,6 @@
 # `Binary Heap Tree` (Data structure)
 
-![image](20181120083421_Binary-Heap-Tree-Data-structure_files/img_01.png)
+![image](20181120083421_Binary-Heap-Tree-Data-structure_img_01.png)
 
 It's similar to Binary Tree, but different with order.
 Its **goal** is to make a `complete tree`, which in `Max Heap` the father node is always greater child node, and new node will fill up the same level regardless of the order and then reach to a deeper level.
@@ -33,5 +33,5 @@ OPERATIONS:
 
 ## ANALYSIS
 
-![image](20181120083421_Binary-Heap-Tree-Data-structure_files/img_02.png)
+![image](20181120083421_Binary-Heap-Tree-Data-structure_img_02.png)
 

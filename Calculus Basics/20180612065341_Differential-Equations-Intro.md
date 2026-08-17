@@ -1,14 +1,14 @@
 # Differential Equations Intro
 
-![image](20180612065341_Differential-Equations-Intro_files/img_01.png)
+![image](20180612065341_Differential-Equations-Intro_img_01.png)
 
 ### Example
-![image](20180612065341_Differential-Equations-Intro_files/img_02.png)
+![image](20180612065341_Differential-Equations-Intro_img_02.png)
 Solve:
-![image](20180612065341_Differential-Equations-Intro_files/img_03.png)
+![image](20180612065341_Differential-Equations-Intro_img_03.png)
 
 ### Example
-![image](20180612065341_Differential-Equations-Intro_files/img_04.png)
+![image](20180612065341_Differential-Equations-Intro_img_04.png)
 Solve:
 - Just for reminder: the `Inversely proportional` means `y = k/x` where `k` is constant. Jump back to previous note: [Proportional Relationship](https://github.com/solomonxie/solomonxie.github.io/issues/44#issuecomment-371403947).
 - Assume the function of distance is `S(t) = v · t`.
@@ -18,7 +18,7 @@ Solve:
 
 
 ### Example
-![image](20180612065341_Differential-Equations-Intro_files/img_05.png)
+![image](20180612065341_Differential-Equations-Intro_img_05.png)
 Solve:
 - Assume the amount of medication is `M(t)`.
 - Now all the informations we have are:

@@ -4,7 +4,7 @@
 
 [参考官网：Awesome Window Manager](https://awesomewm.org/)
 
-![image](20180929170635_Awesome-Window-Manager-超帅Linux新型桌面-DRAFT_files/img_01.png)
+![image](20180929170635_Awesome-Window-Manager-超帅Linux新型桌面-DRAFT_img_01.png)
 
 ## 安装
 

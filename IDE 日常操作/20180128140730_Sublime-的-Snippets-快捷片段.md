@@ -4,7 +4,7 @@
 [官网说明链接。](http://sublimetext.info/docs/en/extensibility/snippets.html)
 方法如下：
 1. 打开Sublime菜单Tool -> New Snippets. 最新Mac版的，是在Tool -> Developer -> New Snippets.
-![image](20180128140730_Sublime-的-Snippets-快捷片段_files/img_01.png)
+![image](20180128140730_Sublime-的-Snippets-快捷片段_img_01.png)
 2. 在弹出的XML格式文档中，找到<content>标签下的<![CDATA[...]]>标签中，把要生成的内容粘贴进来，比如一段HTML代码。
 3. 解除下面的<tabTrigger>标签注释，在里面写一个`触发键`，越简单越好，比如hello。
 4. [可选] 设置生效范围Scope。解除<scope>标签注释，填上目标文件种类的生效范围。这个不能随便写，需要对照[这个链接](https://gist.github.com/J2TeaM/a54bafb082f90c0f20c9)找到html, js等分别对应的scope码。或者更简单的是在目标文件里按`Ctrl+Alt+P`，就会弹出该文件的Scope码，把它填进<scope>标签即可。

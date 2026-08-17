@@ -11,8 +11,8 @@ and `f( -x ) = f( x )`.
 and `f( -x ) = - f( x )`.
 
 `Even function`:
-![image](20180320105748_Even-odd-functions_files/img_01.png)
+![image](20180320105748_Even-odd-functions_img_01.png)
 
 `Odd function`:
-![image](20180320105748_Even-odd-functions_files/img_02.png)
+![image](20180320105748_Even-odd-functions_img_02.png)
 

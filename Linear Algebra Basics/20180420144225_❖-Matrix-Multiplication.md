@@ -8,7 +8,7 @@ But if you'd like to understand it, then prepare yourself for a couple of hours 
 
 
 > It's necessary to make you confused with the operation below. Because that's most teachers start with to teach you how to multiply matrices. Don't worry, we're to skip this one and find a better perspective to solve it.
-![image](20180420144225_❖-Matrix-Multiplication_files/img_01.png)
+![image](20180420144225_❖-Matrix-Multiplication_img_01.png)
 
 
 [Refer to Khan academy article: Multiplying matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/a/multiplying-matrices)
@@ -42,7 +42,7 @@ Before we start, let's make things clear:
 - Matrix-vector product: Matrix * Vector
 - Matrix-Matrix product: Matrix * Matrix
 
-![image](20180420144225_❖-Matrix-Multiplication_files/img_02.png)
+![image](20180420144225_❖-Matrix-Multiplication_img_02.png)
 
 
 Refer to Khan lecture video: [Matrix vector products as linear transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/matrix-vector-products-as-linear-transformations)
@@ -78,7 +78,7 @@ Once you digest the idea, you’re in a great position to understand the linear 
 
 
 **YOU JUST HAVE TO MEMORISE THIS EQUATION AND GET THE IDEA. THAT IS GONNA HELP YOU OUT FROM ALL THE IDEAS AND PROBLEMS IN LINEAR ALGEBRA.**
-![image](20180420144225_❖-Matrix-Multiplication_files/img_03.png)
+![image](20180420144225_❖-Matrix-Multiplication_img_03.png)
 
 
 ## Change the 「basis」
@@ -100,10 +100,10 @@ By telling where the `unit vectors` are to go, we can create a pattern, a mappin
 
 Another example: 
 Assume there's a vector `v=(5,7)`, and let the unit vector `i=(3,-2)` and `j=(2,1)`, and present this **`TRANSFORM PATTERN`** as below:
-![image](20180420144225_❖-Matrix-Multiplication_files/img_04.png)
+![image](20180420144225_❖-Matrix-Multiplication_img_04.png)
 
 And we present this `Applying a transformation to a vector` in the form below:
-![image](20180420144225_❖-Matrix-Multiplication_files/img_05.png)
+![image](20180420144225_❖-Matrix-Multiplication_img_05.png)
 
 **SO WHENEVER YOU ENCOUNTER MATRIX MULTIPLICATION AGAIN, NEVER READ IT AS TWO VECTORS OR TWO MATRICES MULTIPLYING TOGETHER!**
 
@@ -126,25 +126,25 @@ SO ALL YOU NEED TO DO, IS JUST TO APPLY THOSE RULES ONE BY ONE, `LEFT BY RIGHT`,
 
 For example, we apply two transform rules to a vector `(x, y)`:
 
-![image](20180420144225_❖-Matrix-Multiplication_files/img_06.png)
+![image](20180420144225_❖-Matrix-Multiplication_img_06.png)
 
 It's exactly same with the function principles: `Shear( Rotate(x, y) )`.
 
-![image](20180420144225_❖-Matrix-Multiplication_files/img_07.png)
+![image](20180420144225_❖-Matrix-Multiplication_img_07.png)
 
 
 
 ## Break up the Matrices with its 「Geometric」 meaning
 
 In the `transform rule` as below:
-![image](20180420144225_❖-Matrix-Multiplication_files/img_08.png)
+![image](20180420144225_❖-Matrix-Multiplication_img_08.png)
 
 **WE HAVE TO BREAK THE MATRICES INTO SINGLE PARTS BEFORE WE DO THE CALCULATION.** 
 
-![image](20180420144225_❖-Matrix-Multiplication_files/img_09.png)
+![image](20180420144225_❖-Matrix-Multiplication_img_09.png)
 
 And since we made the rule for `i & j`, so let's apply the `unit vector` to `the Graph`:
-![image](20180420144225_❖-Matrix-Multiplication_files/img_10.png)
+![image](20180420144225_❖-Matrix-Multiplication_img_10.png)
 
 Note that: 
 - The original graph is `v = 5i + 7j`, so after applying the new rule of `i & j`, we get: 
@@ -158,12 +158,12 @@ Note that:
 
 
 ### Example
-![image](20180420144225_❖-Matrix-Multiplication_files/img_11.png)
+![image](20180420144225_❖-Matrix-Multiplication_img_11.png)
 Solve:
 - It seems a `Matrix Multiplication` problem
 - First we need to form the original matrix by identifying all vertices:
-![image](20180420144225_❖-Matrix-Multiplication_files/img_12.png)
+![image](20180420144225_❖-Matrix-Multiplication_img_12.png)
 - Transform the matrix by multiplying the `Coordinate Matrix`:
-![image](20180420144225_❖-Matrix-Multiplication_files/img_13.png)
+![image](20180420144225_❖-Matrix-Multiplication_img_13.png)
 - Draw it out by the result matrix
 

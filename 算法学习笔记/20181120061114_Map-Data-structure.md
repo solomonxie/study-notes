@@ -2,7 +2,7 @@
 
 A map is sometimes called an associative array or dictionary. 
 
-![image](20181120061114_Map-Data-structure_files/img_01.png)
+![image](20181120061114_Map-Data-structure_img_01.png)
 
 
 ## ADT DEFINITION

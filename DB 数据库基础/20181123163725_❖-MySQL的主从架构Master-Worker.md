@@ -7,7 +7,7 @@
 
 所以一般商业网站，最少要有2台电脑，一台Master，一台Worker。因为主从在同一台机器上，是完全没有意义的。
 
-![image](20181123163725_❖-MySQL的主从架构Master-Worker_files/img_01.png)
+![image](20181123163725_❖-MySQL的主从架构Master-Worker_img_01.png)
 
 
 整个数据库的备份与修复：
@@ -74,7 +74,7 @@ START SLAVE ;
 -- 查看Worker从属的状态 （自己的状态）
 SHOW SLAVE STATUS \G ; 
 ```
-![image](20181123163725_❖-MySQL的主从架构Master-Worker_files/img_02.png)
+![image](20181123163725_❖-MySQL的主从架构Master-Worker_img_02.png)
 
 只有以上标注的两个Yes后，才证明同步成功。
 
@@ -84,7 +84,7 @@ SHOW SLAVE STATUS \G ;
 -- 查看Master主人的状态 （自己的状态）
 SHOW MASTER STATUS ;
 ```
-![image](20181123163725_❖-MySQL的主从架构Master-Worker_files/img_03.png)
+![image](20181123163725_❖-MySQL的主从架构Master-Worker_img_03.png)
 
 
 此时，任何在Master主机上的修改，立刻就会同步更新到Worker从服务器。

@@ -2,7 +2,7 @@
 
 [参考：Overview](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
 
-![image](20190121122501_❖-「JupyterLab」-Jupyter-Notebook-新生代IDE模式页面_files/img_01.png)
+![image](20190121122501_❖-「JupyterLab」-Jupyter-Notebook-新生代IDE模式页面_img_01.png)
 
 安装：
 ```sh
@@ -18,7 +18,7 @@ $ jupyter lab
 
 CSV数据显示效果：
 
-![image](20190121122501_❖-「JupyterLab」-Jupyter-Notebook-新生代IDE模式页面_files/img_02.png)
+![image](20190121122501_❖-「JupyterLab」-Jupyter-Notebook-新生代IDE模式页面_img_02.png)
 
 
 ## 安装插件
@@ -54,5 +54,5 @@ jupyter serverextension enable --py lantern
 优选插件效果如下：
 
 jupyterlab_voyager:
-![image](20190121122501_❖-「JupyterLab」-Jupyter-Notebook-新生代IDE模式页面_files/img_03.png)
+![image](20190121122501_❖-「JupyterLab」-Jupyter-Notebook-新生代IDE模式页面_img_03.png)
 

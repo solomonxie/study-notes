@@ -64,7 +64,7 @@ Link: https://notebooks.azure.com/Microsoft/libraries/samples
 P2 instances also offer GPUDirect™ (peer-to-peer GPU communication) capabilities for up to 16 GPUs, so that multiple GPUs can work together within a single host.
 
 
-![image](20180823163751_Hardwares-for-Deep-Learning_files/img_01.png)
+![image](20180823163751_Hardwares-for-Deep-Learning_img_01.png)
 
 
 ## DIY

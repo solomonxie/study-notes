@@ -18,10 +18,10 @@ $ diskutil erasevolume HFS+ 'RAM Disk' `hdiutil attach -nomount ram://204800`
 
 其中`ram://00000`是代表分配的内存大小，以byte为单位。2048byte为1MB。
 
-![image](20181121163308_❖-LinuxMac-创建Ram-Disk内存盘_files/img_01.png)
+![image](20181121163308_❖-LinuxMac-创建Ram-Disk内存盘_img_01.png)
 
 安装完后就会看到文件夹中多出一个磁盘：
-![image](20181121163308_❖-LinuxMac-创建Ram-Disk内存盘_files/img_02.png)
+![image](20181121163308_❖-LinuxMac-创建Ram-Disk内存盘_img_02.png)
 
 尝试拷贝个文件后发现：100MB的文件拷贝进去只是一瞬间，连进度条都没有出现！
 
@@ -31,7 +31,7 @@ $ diskutil erasevolume HFS+ 'RAM Disk' `hdiutil attach -nomount ram://204800`
 ```sh
 hdiutil detach disk5
 ```
-![image](20181121163308_❖-LinuxMac-创建Ram-Disk内存盘_files/img_03.png)
+![image](20181121163308_❖-LinuxMac-创建Ram-Disk内存盘_img_03.png)
 
 如果报busy，那么就用各种方法关闭相关的文件夹、终端shell等，再来执行。
 
@@ -53,7 +53,7 @@ sudo umount ~/ramdisk
 其中`tmpfs`是内存，我们随便创建了一个文件夹就可以挂载上去。
 
 可以看到，我们从内存中分了200MB出来作为本地磁盘使用：
-![image](20181121163308_❖-LinuxMac-创建Ram-Disk内存盘_files/img_04.png)
+![image](20181121163308_❖-LinuxMac-创建Ram-Disk内存盘_img_04.png)
 
 Linux分配内存盘实在太方便了。
 

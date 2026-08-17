@@ -16,7 +16,7 @@ jupyter contrib nbextension install
 pip install jupyterthemes
 ```
 
-![image](20190121122519_❖-Jupyter-Notebook-安装插件_files/img_01.png)
+![image](20190121122519_❖-Jupyter-Notebook-安装插件_img_01.png)
 
 
 ## 1. 安装插件管理器 Jupyter Nbextensions Configurator
@@ -30,7 +30,7 @@ $ pip install jupyter_nbextensions_configurator
 $ jupyter nbextensions_configurator enable --user
 ```
 装好后，输入`jupyter notebook`命令打开网页，就会发现多出一个栏目：
-![image](20190121122519_❖-Jupyter-Notebook-安装插件_files/img_02.png)
+![image](20190121122519_❖-Jupyter-Notebook-安装插件_img_02.png)
 
 ## 2. 安装插件包 Jupyter-extensions
 

@@ -1,6 +1,6 @@
 # `Linked List` (Data structure)
 
-![Linked list representation](20181119105248_Linked-List-Data-structure_files/img_01.png)
+![Linked list representation](20181119105248_Linked-List-Data-structure_img_01.png)
 
 ## ADT DEFINITION
 
@@ -79,5 +79,5 @@ DATA:
 
 ## ANALYSIS
 
-![image](20181119105248_Linked-List-Data-structure_files/img_02.png)
+![image](20181119105248_Linked-List-Data-structure_img_02.png)
 

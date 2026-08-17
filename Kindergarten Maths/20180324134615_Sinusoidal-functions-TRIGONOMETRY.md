@@ -2,11 +2,11 @@
 
 `Trig functions` like `sine` and `cosine` have `periodic graphs` which we called **`Sinusoidal Graph`**, or **`Sine wave`**.
 
-![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_files/img_01.png)
+![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_img_01.png)
 
 Every period of `sine wave` is a whole unit circle:
 
-![400px-complexsininatimeaxe](20180324134615_Sinusoidal-functions-TRIGONOMETRY_files/img_02.gif)
+![400px-complexsininatimeaxe](20180324134615_Sinusoidal-functions-TRIGONOMETRY_img_02.gif)
 
 
 ## `Sinusoidal graphs`
@@ -15,13 +15,13 @@ Every period of `sine wave` is a whole unit circle:
 [Symbolab example.](https://www.symbolab.com/solver/step-by-step/shift%20y%3Dsin%5Cleft(2x%2B3%5Cright)%2B10)
 
 Graph of `unit sine & cosine function`:
-![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_files/img_03.png)
+![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_img_03.png)
 
 
 ## `Midline, amplitude and period` 
 > They're three features of `sinusoidal graphs`.
 
-![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_files/img_04.png)
+![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_img_04.png)
 
 - `Midline`: is the **horizontal line** that passes exactly in the **middle** between the graph's **maximum** and **minimum** points.
 - `Amplitude`: is the **vertical distance** between the **midline** and one of the **extremum points**.
@@ -48,7 +48,7 @@ With these information above, we could figure out all other informations about t
 
 `Starting point` of the `flipped S` is its **`Midpoint`**, at `(0,0)`, 
 `Full period` is `2π`, `Midline` at `y=0`, `Range` is `[1,-1]`.
-![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_files/img_05.png)
+![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_img_05.png)
 
 ### `Initial period of cos(x)`:
 
@@ -56,7 +56,7 @@ With these information above, we could figure out all other informations about t
 
  `Starting point` of the `bow` is its **`Peak`**,   at `(0,1)`, 
 `Full period` is `2π`, `Midline` at `y=0`, `Range` is `[1,-1]`.
-![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_files/img_06.png)
+![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_img_06.png)
 
 
 ## `Phase shift of trig functions`
@@ -116,13 +116,13 @@ Initial_peak + n*(Period_length)
 ```
 
 Example:
-![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_files/img_07.png)
+![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_img_07.png)
 **Find the value of `t` when it's at the function's lowest point.**
 Solve:
 - `Max point` of `-sin(u)` is the `Min point`.
 - X-position of the function at Initial Period is `u=π/2`
 - Solve the equation `u=π/2` to get `t`:
-![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_files/img_08.png)
+![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_img_08.png)
 
 
 ## Informations of Sinusoidal functions
@@ -151,7 +151,7 @@ f(x) = - 2sin(2x + 3) + 10
 - Horizontal shift: set `2x+3=0`, get `x=-3/2`, so it's shifting `-3/2` from origin.
 
 Example 2:
-![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_files/img_09.png)
+![image](20180324134615_Sinusoidal-functions-TRIGONOMETRY_img_09.png)
 Solve:
 - Midline: `y=2.5`
 - Amplitude: `|6-2.5|=3.5`

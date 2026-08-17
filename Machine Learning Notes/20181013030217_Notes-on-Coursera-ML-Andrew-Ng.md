@@ -23,27 +23,27 @@ Octave is much more faster to implement a prototype than other languages. We can
 
 
 ### Linear regression model
-![image](20181013030217_Notes-on-Coursera-ML-Andrew-Ng_files/img_01.png)
+![image](20181013030217_Notes-on-Coursera-ML-Andrew-Ng_img_01.png)
 
 
 ### Cost function
-![image](20181013030217_Notes-on-Coursera-ML-Andrew-Ng_files/img_02.png)
+![image](20181013030217_Notes-on-Coursera-ML-Andrew-Ng_img_02.png)
 
 
 ### Contour Plot
-![image](20181013030217_Notes-on-Coursera-ML-Andrew-Ng_files/img_03.png)
+![image](20181013030217_Notes-on-Coursera-ML-Andrew-Ng_img_03.png)
 
 
 ### Gradient Descent intuition
-![image](20181013030217_Notes-on-Coursera-ML-Andrew-Ng_files/img_04.png)
+![image](20181013030217_Notes-on-Coursera-ML-Andrew-Ng_img_04.png)
 
 ### Gradient descent algorithm
 The gradient descent algorithm is: **repeat until convergence:**
-![image](20181013030217_Notes-on-Coursera-ML-Andrew-Ng_files/img_05.png)
+![image](20181013030217_Notes-on-Coursera-ML-Andrew-Ng_img_05.png)
 where `j=0,1` represents the feature index number.
 
 simultaneously update the parameters θ1, θ2...
-![image](20181013030217_Notes-on-Coursera-ML-Andrew-Ng_files/img_06.png)
+![image](20181013030217_Notes-on-Coursera-ML-Andrew-Ng_img_06.png)
 
 
 ### "Batch" Gradient descent

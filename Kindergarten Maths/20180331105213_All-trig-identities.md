@@ -82,6 +82,6 @@ csc(θ) = sec(π/2 - θ)
 
 
 ### `Half angle identities`
-![image](20180331105213_All-trig-identities_files/img_01.png)
+![image](20180331105213_All-trig-identities_img_01.png)
 
 

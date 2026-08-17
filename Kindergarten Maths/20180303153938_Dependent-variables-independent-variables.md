@@ -7,4 +7,4 @@ Understand:
 - `Independent variables`: **_Input_** value of a function. (usually x)
 - `Dependent variables`: **_Output_** value of a function. (usually y)
 
-![image](20180303153938_Dependent-variables-independent-variables_files/img_01.png)
+![image](20180303153938_Dependent-variables-independent-variables_img_01.png)

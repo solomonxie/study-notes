@@ -1,7 +1,7 @@
 # Intro to Probability
 > It's easy but always confusing if you haven't yet totally understood it in the first place.
 
-![image](20180312062717_Intro-to-Probability_files/img_01.png)
+![image](20180312062717_Intro-to-Probability_img_01.png)
 
 
 The very first thing to do for solving a probability problem, is to CATEGORISE the problem and apply different formula.
@@ -11,7 +11,7 @@ The very first thing to do for solving a probability problem, is to CATEGORISE t
 - Independent events in sequence
 
 ## `ONE event`
-![image](20180312062717_Intro-to-Probability_files/img_02.png)
+![image](20180312062717_Intro-to-Probability_img_02.png)
 
 - The probability of an event can only be **0 to 1**  (or 0% to 100%).
 - The probability of event **`A`** is often written as **`P(A)`**.
@@ -62,14 +62,14 @@ A dummy method,  just to draw a table or a tree shows every outcome it could be,
 
 
 ### Example:
-![image](20180312062717_Intro-to-Probability_files/img_03.png)
+![image](20180312062717_Intro-to-Probability_img_03.png)
 First to notice that, it's **ONE** event. 
 
 
 ### Example:
-![image](20180312062717_Intro-to-Probability_files/img_04.png)
+![image](20180312062717_Intro-to-Probability_img_04.png)
 
 
 ### Example:
-![image](20180312062717_Intro-to-Probability_files/img_05.png)
+![image](20180312062717_Intro-to-Probability_img_05.png)
 

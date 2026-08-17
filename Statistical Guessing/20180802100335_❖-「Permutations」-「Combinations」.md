@@ -34,7 +34,7 @@ the `combination` is just one: `123`.
 
 
 ### Notation
-![image](20180802100335_❖-「Permutations」-「Combinations」_files/img_01.png)
+![image](20180802100335_❖-「Permutations」-「Combinations」_img_01.png)
 (Read as **N pick K**)
 
 ### Understanding 「Permutations」
@@ -54,9 +54,9 @@ And just to logically think about it, we should MULTIPLY them together to get AL
 ### Formula
 
 - Full Permutations: (5 people sitting in 5 chairs)
-![image](20180802100335_❖-「Permutations」-「Combinations」_files/img_02.png)
+![image](20180802100335_❖-「Permutations」-「Combinations」_img_02.png)
 - Pick Permutations (3 people sitting in 5 chairs):
-![image](20180802100335_❖-「Permutations」-「Combinations」_files/img_03.png)
+![image](20180802100335_❖-「Permutations」-「Combinations」_img_03.png)
 
 
 
@@ -68,11 +68,11 @@ Based on permutations, we **filter out** the same combinations by dividing `k!` 
 
 
 ### Notation
-![image](20180802100335_❖-「Permutations」-「Combinations」_files/img_04.png)
+![image](20180802100335_❖-「Permutations」-「Combinations」_img_04.png)
 (Read as **N choose R**)
 
 
 ### Formula
 
-![image](20180802100335_❖-「Permutations」-「Combinations」_files/img_05.png)
+![image](20180802100335_❖-「Permutations」-「Combinations」_img_05.png)
 

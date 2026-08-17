@@ -22,7 +22,7 @@ We write a `swagger.yaml`, and the java based tool `swagger-codegen` will genera
 
 ## What can Swagger do?
 
-![image](20190309093300_❖-Swagger-Like-A-Boss-DRAFT_files/img_01.png)
+![image](20190309093300_❖-Swagger-Like-A-Boss-DRAFT_img_01.png)
 
 
 
@@ -32,7 +32,7 @@ We write a `swagger.yaml`, and the java based tool `swagger-codegen` will genera
 
 To build API for our product, we need to go through these stages: `Design`, `Build`, `Documentation`, `Test` and `Standardize`. And Swagger provides tools for all the stages above.
 
-![image](20190309093300_❖-Swagger-Like-A-Boss-DRAFT_files/img_02.png)
+![image](20190309093300_❖-Swagger-Like-A-Boss-DRAFT_img_02.png)
 
 Let's go through how Swagger will help with those stages:
 - `Design`: The online `Swagger Editor` is really convenient for composing `swagger.yaml` which shows you in real-time the API and syntax errors by the time you type.
@@ -53,7 +53,7 @@ Before composing definitions in that file, we'd like to know some basic syntax.
 
 For manually composing _swagger specs_, you might want to do the composing on [Swagger Editor (Online)](https://editor.swagger.io/) which gives you the instant result on your API definitions in a clear visual mode and shows you all suggestions or syntax errors if they exist.
 
-![image](20190309093300_❖-Swagger-Like-A-Boss-DRAFT_files/img_03.png)
+![image](20190309093300_❖-Swagger-Like-A-Boss-DRAFT_img_03.png)
 
 
 ### The Structure of Swagger definitions [DRAFT]
@@ -63,7 +63,7 @@ In the `swagger.yaml`, there're 3 major sections:
 - API Request
 - API Response
 
-![image](20190309093300_❖-Swagger-Like-A-Boss-DRAFT_files/img_04.png)
+![image](20190309093300_❖-Swagger-Like-A-Boss-DRAFT_img_04.png)
 
 
 ### Definition: API Metadata [DRAFT]

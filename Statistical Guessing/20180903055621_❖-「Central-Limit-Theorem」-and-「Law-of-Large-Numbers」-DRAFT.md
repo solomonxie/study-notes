@@ -30,12 +30,12 @@ That being said:
 
 ### 「Skewness」
 
-![image](20180903055621_❖-「Central-Limit-Theorem」-and-「Law-of-Large-Numbers」-DRAFT_files/img_01.png)
+![image](20180903055621_❖-「Central-Limit-Theorem」-and-「Law-of-Large-Numbers」-DRAFT_img_01.png)
 
 
 ### 「Kurtosis」 Tailedness
 
-![image](20180903055621_❖-「Central-Limit-Theorem」-and-「Law-of-Large-Numbers」-DRAFT_files/img_02.png)
+![image](20180903055621_❖-「Central-Limit-Theorem」-and-「Law-of-Large-Numbers」-DRAFT_img_02.png)
 
 
 ### 『Standard Deviation』
@@ -51,7 +51,7 @@ The SD tends to be smaller and smaller as the Sample Size increases or the more 
 It is saying:
 The average of the results obtained from a large number of trials should be close to the expected value, and will tend to become closer as more trials are performed.
 
-![image](20180903055621_❖-「Central-Limit-Theorem」-and-「Law-of-Large-Numbers」-DRAFT_files/img_03.png)
+![image](20180903055621_❖-「Central-Limit-Theorem」-and-「Law-of-Large-Numbers」-DRAFT_img_03.png)
 
 
 ### Strong 「Law of large numbers」

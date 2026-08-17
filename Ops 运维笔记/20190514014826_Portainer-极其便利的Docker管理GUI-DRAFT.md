@@ -9,5 +9,5 @@ $ docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v por
 ```
 
 
-![image](20190514014826_Portainer-极其便利的Docker管理GUI-DRAFT_files/img_01.png)
+![image](20190514014826_Portainer-极其便利的Docker管理GUI-DRAFT_img_01.png)
 

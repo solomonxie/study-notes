@@ -16,13 +16,13 @@ $ brew upgrade python
 #python 2.7.14_3 -> 3.6.5
 ```
 然后很快就安装成果，并显示如下：
-![image](20180510071030_❖-Virtualenv创建Python3环境_files/img_01.png)
+![image](20180510071030_❖-Virtualenv创建Python3环境_img_01.png)
 
 这个时候在命令行里输入`python`，就会直接跳入python3的编程环境了。
-![image](20180510071030_❖-Virtualenv创建Python3环境_files/img_02.png)
+![image](20180510071030_❖-Virtualenv创建Python3环境_img_02.png)
 
 然后我们通过`which`命令，得知两种版本python的位置，便于之后virtualenv的设置：
-![image](20180510071030_❖-Virtualenv创建Python3环境_files/img_03.png)
+![image](20180510071030_❖-Virtualenv创建Python3环境_img_03.png)
 
 ## 安装Python3环境的Virtualenv
 这个时候已经保证了本机同时存在Python2.7和Python3，那么安装虚拟环境就简单多了：
@@ -49,7 +49,7 @@ Python3的环境下，是需要用`pip3`来安装各种包的。
 Mac中升级到Python3后，原本的`python`命令行关键字被直接指定为`python3`，而原有的python2需要通过`python2.7`来进入python2.
 
 ### 原来Virtualvenv的Python2环境下无法用pip安装包
-![image](20180510071030_❖-Virtualenv创建Python3环境_files/img_04.png)
+![image](20180510071030_❖-Virtualenv创建Python3环境_img_04.png)
 错误原文如下：
 ```shell
 $ pip install requests

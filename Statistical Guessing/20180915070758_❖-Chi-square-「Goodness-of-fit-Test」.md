@@ -22,7 +22,7 @@ and _Observed frequencies_ are the _Alternative Hypothesis_ against the null in 
 
 
 ### Example
-![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_files/img_01.png)
+![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_img_01.png)
 Solve:
 - Since the _null hypothesis_ is 4 feeders has "equally likely" chance to feed the bird,
 - so the supposed chance for each feeder would be `350/4 = 87.5`
@@ -32,38 +32,38 @@ Solve:
 ## Test statistic 「𝐗²」
 
 Chi-squared Test statistic Formula:
-![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_files/img_02.png)
+![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_img_02.png)
 
 
 **To calculate 𝐗², we need to COMPLETE the _Frequency Table_, with both Expected and Observed values**:
-![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_files/img_03.png)
+![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_img_03.png)
 
 Or you can see it as:
-![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_files/img_04.png)
+![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_img_04.png)
 
 
 
 ## 「P-value」
 
 To calculate `P-value` we need the 𝐗² and _DF_:
-![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_files/img_05.png)
+![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_img_05.png)
 
 For instance, it observes 3 prices for a fruit: prices of apple, orange, banana. Then there are **3 categories**, or **3 variables**. Therefore the _DF_ (Degree of freedom) is `(3-1)=2`
 
 Get an [`online chi-squared calculator`](https://surfstat.anu.edu.au/surfstat-home/tables/chi.php), input the test statistic 𝐗² and DF, we'll get its P-value, like this:
 
-![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_files/img_06.png)
+![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_img_06.png)
 
 
 ### Example
-![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_files/img_07.png)
+![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_img_07.png)
 Solve:
 - Calculate the expected frequencies for each data:
-![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_files/img_08.png)
+![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_img_08.png)
 - Compare Observed and expected, to get Chi-squared:
-![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_files/img_09.png)
+![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_img_09.png)
 - Get a P-value calculator, input test statistic `𝐗²=10.5` and Degree of freedom `df= 4-1 = 3`:
-![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_files/img_10.png)
+![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_img_10.png)
 
 ## Making conclusions in a 「goodness-of-fit Test」
 
@@ -73,6 +73,6 @@ But there's another type of conclusion we can make: which **component** contribu
 The way to do it, is simply look at each **component's** value, the bigger component the more it contributes.
 
 ### Example
-![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_files/img_11.png)
+![image](20180915070758_❖-Chi-square-「Goodness-of-fit-Test」_img_11.png)
 Solve:
 District B has the largest component because its observed count was farthest away from its expected count (relative to the expected count). So we can say that District B contributed the most to the  𝐗² test-statistic.

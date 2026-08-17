@@ -8,7 +8,7 @@ db.collection1.find().explain('executionStats');
 ```
 然后会返回一个非常详尽的执行信息，其中的`ExecutionTimeMillis`代表语句的执行时间，`Millis`代表`milliseconds`毫秒。
 
-![image](20181124131648_❖-MongoDB-Indexing-索引-DRAFT_files/img_01.png)
+![image](20181124131648_❖-MongoDB-Indexing-索引-DRAFT_img_01.png)
 
 
 ## 建立索引

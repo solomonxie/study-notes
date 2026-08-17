@@ -11,21 +11,21 @@ It's quite simple to apply and very convenient to solve some problems.
 From my experience, the L'Hopital's Rule is so often been used that we didn't even realize. Actually it's been used almost every time when we are to evaluate the **LIMITS OF RATIONAL EXPRESSIONS**.
 
 
-![image](20180523101340_❖-LHopitals-Rule-DRAFT_files/img_01.png)
+![image](20180523101340_❖-LHopitals-Rule-DRAFT_img_01.png)
 
 
 ### Example of 「0/0」
 
 ### Example of 「∞/∞」
 1. Find the limit:
-![image](20180523101340_❖-LHopitals-Rule-DRAFT_files/img_02.png)
+![image](20180523101340_❖-LHopitals-Rule-DRAFT_img_02.png)
 Solve:
-![image](20180523101340_❖-LHopitals-Rule-DRAFT_files/img_03.png)
+![image](20180523101340_❖-LHopitals-Rule-DRAFT_img_03.png)
 
 2. Find the limit:
-![image](20180523101340_❖-LHopitals-Rule-DRAFT_files/img_04.png)
+![image](20180523101340_❖-LHopitals-Rule-DRAFT_img_04.png)
 Solve:
-![image](20180523101340_❖-LHopitals-Rule-DRAFT_files/img_05.png)
+![image](20180523101340_❖-LHopitals-Rule-DRAFT_img_05.png)
 
 
 ### Example of 「1^∞」
@@ -35,16 +35,16 @@ Solve:
 ## L'Hopital Rule for 「Composite functions」
 
 ### Example of composite exponential function
-![image](20180523101340_❖-LHopitals-Rule-DRAFT_files/img_06.png)
+![image](20180523101340_❖-LHopitals-Rule-DRAFT_img_06.png)
 Solve:
 - Direct plug in the `x=2` and get `limit = 1^∞`, which is an indeterminate form
 - So we're gonna apply the `Log Power Rule` to take down the power:
-![image](20180523101340_❖-LHopitals-Rule-DRAFT_files/img_07.png)
+![image](20180523101340_❖-LHopitals-Rule-DRAFT_img_07.png)
 - We use **Natural Log** for doing this:
-![image](20180523101340_❖-LHopitals-Rule-DRAFT_files/img_08.png)
+![image](20180523101340_❖-LHopitals-Rule-DRAFT_img_08.png)
 - And now we can apply the `L'Hopital Rule` for `ln(y)`:
-![image](20180523101340_❖-LHopitals-Rule-DRAFT_files/img_09.png)
+![image](20180523101340_❖-LHopitals-Rule-DRAFT_img_09.png)
 - From `ln(y)` we could get `limit of y`:
-![image](20180523101340_❖-LHopitals-Rule-DRAFT_files/img_10.png)
+![image](20180523101340_❖-LHopitals-Rule-DRAFT_img_10.png)
 
 

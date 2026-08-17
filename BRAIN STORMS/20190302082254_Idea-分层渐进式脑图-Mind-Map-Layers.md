@@ -5,11 +5,11 @@
 也就是先了解所有内容的浅层，再逐步针对某个或各个内容进行深入，达到一定水平或完成这一层面知识理解后，再深入下一层理解。
 这才是正确和健康的学习顺序。
 
-![image](20190302082254_Idea-分层渐进式脑图-Mind-Map-Layers_files/img_01.png)
+![image](20190302082254_Idea-分层渐进式脑图-Mind-Map-Layers_img_01.png)
 
 或
 
-![image](20190302082254_Idea-分层渐进式脑图-Mind-Map-Layers_files/img_02.png)
+![image](20190302082254_Idea-分层渐进式脑图-Mind-Map-Layers_img_02.png)
 
  应该从上往下一层一层来。
 

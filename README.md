@@ -12,8 +12,8 @@ dragged straight into Notion (or read as-is).
 - Each `.md` file inside is one note (used to be one comment on that issue)
 - Files are named `<datetime>_<note title>.md`, timestamped to when the note was
   originally written
-- Images referenced in notes are downloaded locally, next to the note, in a matching
-  `<note title>_files/` folder
+- Images referenced in notes are downloaded locally, next to the note, prefixed
+  with the note's filename (e.g. `<note title>_img_01.png`)
 - `scripts/` holds the tooling used to do the export itself (not a notes topic)
 
 ## Notes on the notes

@@ -1,6 +1,6 @@
 # `Binary Search Tree` (Data structure)
 
-![image](20181120072657_Binary-Search-Tree-Data-structure_files/img_01.png)
+![image](20181120072657_Binary-Search-Tree-Data-structure_img_01.png)
 
 
 A `tree` is a data structure composed of nodes It has the following characteristics:
@@ -84,5 +84,5 @@ Binary search trees allow **fast lookup, addition and removal** of items.
 The way that they are set up means that, on average, each comparison allows the operations to skip about `half of the tree`, 
 so that each lookup, insertion or deletion takes time proportional to the `logarithm of the number of items` stored in the tree.
 
-![image](20181120072657_Binary-Search-Tree-Data-structure_files/img_02.png)
+![image](20181120072657_Binary-Search-Tree-Data-structure_img_02.png)
 

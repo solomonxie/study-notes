@@ -17,15 +17,15 @@ Random Variables are denoted by capital letters: **_X, Y, Z_**
 
 
 ### Example
-![image](20180815084835_❖-What-is-「Random-Variable」_files/img_01.png)
+![image](20180815084835_❖-What-is-「Random-Variable」_img_01.png)
 Solve:
-![image](20180815084835_❖-What-is-「Random-Variable」_files/img_02.png)
+![image](20180815084835_❖-What-is-「Random-Variable」_img_02.png)
 
 
 ### Example
-![image](20180815084835_❖-What-is-「Random-Variable」_files/img_03.png)
+![image](20180815084835_❖-What-is-「Random-Variable」_img_03.png)
 Solve:
-![image](20180815084835_❖-What-is-「Random-Variable」_files/img_04.png)
+![image](20180815084835_❖-What-is-「Random-Variable」_img_04.png)
 
 
 ## Types of 「Random Variable」

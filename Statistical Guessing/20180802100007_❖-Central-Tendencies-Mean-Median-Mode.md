@@ -10,9 +10,9 @@
 - `Median` is the middle positioned number in a ordered `number set` (means no duplicates). If there're two middles, then average them to get a median number.
 - `Mode` is the number shows up most times in a list.
 
-![image](20180802100007_❖-Central-Tendencies-Mean-Median-Mode_files/img_01.png)
+![image](20180802100007_❖-Central-Tendencies-Mean-Median-Mode_img_01.png)
 
-![image](20180802100007_❖-Central-Tendencies-Mean-Median-Mode_files/img_02.png)
+![image](20180802100007_❖-Central-Tendencies-Mean-Median-Mode_img_02.png)
 
 
 ## Impact on median & mean

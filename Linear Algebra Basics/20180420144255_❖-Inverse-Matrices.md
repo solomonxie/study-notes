@@ -7,7 +7,7 @@ Refer to 3Blue1Brown: [Inverse matrices, column space and null space ](https://w
 
 **SPOILER ALERT: EVEN 3x3 MATRIX INVERSE IS ALREADY TOO HEAVY TO CALCULATE, SO BETTER JUST TO MEMORISE THE 2x2  AND LET COMPUTER DO ALL THE HIGHER DIMENSIONS.**
 
-![image](20180420144255_❖-Inverse-Matrices_files/img_01.png)
+![image](20180420144255_❖-Inverse-Matrices_img_01.png)
 
 ## Understand the 「Inverse Matrix」
 
@@ -16,19 +16,19 @@ Refer to 3Blue1Brown: [Inverse matrices, column space and null space ](https://w
 
 **It makes lots more sense in geometric meanings, that an Inverse Matrix just to RECOVER the transformation of a graph back to before.**
 
-![image](20180420144255_❖-Inverse-Matrices_files/img_02.png)
+![image](20180420144255_❖-Inverse-Matrices_img_02.png)
 
-![image](20180420144255_❖-Inverse-Matrices_files/img_03.png)
+![image](20180420144255_❖-Inverse-Matrices_img_03.png)
 
-![image](20180420144255_❖-Inverse-Matrices_files/img_04.png)
+![image](20180420144255_❖-Inverse-Matrices_img_04.png)
 
-![image](20180420144255_❖-Inverse-Matrices_files/img_05.png)
+![image](20180420144255_❖-Inverse-Matrices_img_05.png)
 
 ### Why is the 「Inverse Matrix」 at the Left of Vector
 
 Because Matrix `A` is always as a `"Coefficient"` to the vector, or as a `transformation rule` to the vector, so it's always on the left of the vector ( or the graph).
 
-![image](20180420144255_❖-Inverse-Matrices_files/img_06.png)
+![image](20180420144255_❖-Inverse-Matrices_img_06.png)
 
 
 
@@ -37,14 +37,14 @@ Because Matrix `A` is always as a `"Coefficient"` to the vector, or as a `transf
 > It's a simple yet important notation for doing dividing a matrix.
 
 The `Identity Matrix` is the matrix equals to the number of `1`:
-![image](20180420144255_❖-Inverse-Matrices_files/img_07.png)
+![image](20180420144255_❖-Inverse-Matrices_img_07.png)
 
 > It's very much more intuitive to think a `identity matrix` as **`one unit vector`**.
 - 1-Dimension: `x = 1`
 - 2-Dimensions: `v = (1, 1)`
 - 3-Dimensions: `v = (1, 1, 1)`
 
-![image](20180420144255_❖-Inverse-Matrices_files/img_08.png)
+![image](20180420144255_❖-Inverse-Matrices_img_08.png)
 
 
 ### The features of 「Identity Matrix」
@@ -56,7 +56,7 @@ The `Identity Matrix` is the matrix equals to the number of `1`:
 
 More importantly, **IT CAN SWITCH SIDE WHEN MULTIPLYING ANOTHER MATIRX!**
 It's very special, and is the **ONLY** matrix can IGNORE the order when multiplying another matrix.
-![image](20180420144255_❖-Inverse-Matrices_files/img_09.png)
+![image](20180420144255_❖-Inverse-Matrices_img_09.png)
 
 ## 「Not Invertible」 Matirces
 
@@ -64,7 +64,7 @@ Two conditions make a matrix NOT invertible:
 - The matrix is not a `Square Matrix` (m×m matrix).
 - The `Determinant` is **ZERO**. Such matrix is also called a **`Singular matrix`**
 
-![image](20180420144255_❖-Inverse-Matrices_files/img_10.png)
+![image](20180420144255_❖-Inverse-Matrices_img_10.png)
 
 ## 「Adjugate Matrix」
 
@@ -74,14 +74,14 @@ Refer to maths is fun: [Inverse of a Matrix using Minors, Cofactors and Adjugate
 
 ### 「Adjugate」 of 2x2 Matrix
 
-![image](20180420144255_❖-Inverse-Matrices_files/img_11.png)
+![image](20180420144255_❖-Inverse-Matrices_img_11.png)
 
 
 ## Calculate the 「Inverse」 of a 「Matrix」
 
 > "Calculating it for a 2x2 is fairly straightforward, 3x3 becomes a little bit hairy, 4x4 will take you all day, 5x5 you're almost definitely gonna do a careless mistake if you do an inverse of matrix." - Sal Khan
 
-![image](20180420144255_❖-Inverse-Matrices_files/img_12.png)
+![image](20180420144255_❖-Inverse-Matrices_img_12.png)
 
 ### 2x2 Matrix inverse
 
@@ -89,7 +89,7 @@ Refer to maths is fun: [Inverse of a Matrix using Minors, Cofactors and Adjugate
 
 [Refer to Khan lecture.](https://www.khanacademy.org/math/precalculus/precalc-matrices/modal/v/inverse-of-a-2x2-matrix)
 
-![image](20180420144255_❖-Inverse-Matrices_files/img_13.png)
+![image](20180420144255_❖-Inverse-Matrices_img_13.png)
 
 
 ### 3x3 Matrix inverse
@@ -104,14 +104,14 @@ We can calculate the Inverse of a Matrix by:
 
 
 ### Example
-![image](20180420144255_❖-Inverse-Matrices_files/img_14.png)
+![image](20180420144255_❖-Inverse-Matrices_img_14.png)
 
 Solve:
 - The formula for Inverse Matrix is `Adjugate(A) / Determinant(A)`.
 - The Determinant of A is `-3*-5 - 2*6 = 3`
 - The Adjugate of A is `[(-5, -2), (-6, -3)]`
 - So the answer is :
-![image](20180420144255_❖-Inverse-Matrices_files/img_15.png)
+![image](20180420144255_❖-Inverse-Matrices_img_15.png)
 
 
 
@@ -119,5 +119,5 @@ Solve:
 
 [Khan lecture: Solving linear systems with matrix equations](https://www.khanacademy.org/math/precalculus/precalc-matrices/modal/v/solving-matrix-equation)
 
-![image](20180420144255_❖-Inverse-Matrices_files/img_16.png)
+![image](20180420144255_❖-Inverse-Matrices_img_16.png)
 

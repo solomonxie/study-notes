@@ -13,7 +13,7 @@ It's just taking out the **parameters**(Mean/SD..) from different samples of the
 
 Example:
 The dotplots below show an approximation to the sampling distribution for three different estimators of the same population parameter, and the **actual value** of the population parameter is 2.
-![image](20180827074912_❖-Sampling-Distribution_files/img_01.png)
+![image](20180827074912_❖-Sampling-Distribution_img_01.png)
 
 
 ## 「Shape」 of Sample Distribution
@@ -32,7 +32,7 @@ But under some **extreme conditions** it can also be **skewed**:
 
 
 ### Example
-![image](20180827074912_❖-Sampling-Distribution_files/img_02.png)
+![image](20180827074912_❖-Sampling-Distribution_img_02.png)
 Solve:
 
 

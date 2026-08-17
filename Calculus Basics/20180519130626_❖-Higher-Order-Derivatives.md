@@ -10,8 +10,8 @@ The second derivative of a function is simply the derivative of the function's d
 
 Notation:
 Leibniz's notation for second derivative is:
-![image](20180519130626_❖-Higher-Order-Derivatives_files/img_01.png)
-![image](20180519130626_❖-Higher-Order-Derivatives_files/img_02.png)
+![image](20180519130626_❖-Higher-Order-Derivatives_img_01.png)
+![image](20180519130626_❖-Higher-Order-Derivatives_img_02.png)
 
 
 
@@ -24,20 +24,20 @@ Leibniz's notation for second derivative is:
 
 
 ### Example
-![image](20180519130626_❖-Higher-Order-Derivatives_files/img_03.png)
+![image](20180519130626_❖-Higher-Order-Derivatives_img_03.png)
 Solve:
-![image](20180519130626_❖-Higher-Order-Derivatives_files/img_04.png)
+![image](20180519130626_❖-Higher-Order-Derivatives_img_04.png)
 
 
 
 ### Example
-![image](20180519130626_❖-Higher-Order-Derivatives_files/img_05.png)
+![image](20180519130626_❖-Higher-Order-Derivatives_img_05.png)
 Solve:
 - The first derivative is:
-![image](20180519130626_❖-Higher-Order-Derivatives_files/img_06.png)
+![image](20180519130626_❖-Higher-Order-Derivatives_img_06.png)
 - The second derivative is:
-![image](20180519130626_❖-Higher-Order-Derivatives_files/img_07.png)
+![image](20180519130626_❖-Higher-Order-Derivatives_img_07.png)
 - Plug in `y=1`, and get:
-![image](20180519130626_❖-Higher-Order-Derivatives_files/img_08.png)
+![image](20180519130626_❖-Higher-Order-Derivatives_img_08.png)
 
 

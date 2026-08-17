@@ -11,7 +11,7 @@ Compare how we handle the composite functions with derivatives & integrals:
 [Refer to Khan academy: 𝘶-substitution: defining 𝘶](https://www.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/modal/v/u-substitution-defining-u)
 
 We use `u-substitution` when we need to integrate an expression of the form of:
-![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_files/img_01.png)
+![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_img_01.png)
 
 
 Strategy:
@@ -21,7 +21,7 @@ Strategy:
 - Rewrite the Integral in term of `u`, and calculate the integral
 - Back substitute the function of `u` back to the result.
 
-![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_files/img_02.png)
+![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_img_02.png)
 
 
 
@@ -30,7 +30,7 @@ Strategy:
 Selecting `u` is the most tricky part here.
 
 ### Example
-![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_files/img_03.png)
+![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_img_03.png)
 Solve:
 - Apparently, we ignore the wrapper `sin()` here.
 - We notice that the derivative of `-x+2` is `-1` which we could find it at outside.
@@ -39,7 +39,7 @@ Solve:
 - It looks quite neat, so the `u = -x+2` is alright.
 
 ### Example
-![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_files/img_04.png)
+![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_img_04.png)
 Solve:
 - Apparently it's in form of `ʃ u'/u · dx`
 - So that we can make `u'·dx = du` and the integral becomes `ʃ 1/u · du`
@@ -48,33 +48,33 @@ Solve:
 ## How to calculate 「Indefinite Integral」 with u-substitution
 
 ### Example
-![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_files/img_05.png)
+![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_img_05.png)
 Solve:
 - With a real quick eyeballing, we see it's in form of `ʃ u' · u⁶ · dx`
 - So with `u' · dx = du` we will get the simplified form `ʃ u⁶ · du = u⁷/7`
 - Back substitute function of u back to get the result:
-![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_files/img_06.png)
+![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_img_06.png)
 
 
 ## How to calculate 「Definite Integral」 with u-substitution
 
 ### Example
-![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_files/img_07.png)
+![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_img_07.png)
 Solve:
-![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_files/img_08.png)
+![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_img_08.png)
 
 
 ### Example (self-made u')
-![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_files/img_09.png)
+![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_img_09.png)
 Solve:
-![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_files/img_10.png)
+![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_img_10.png)
 
 
 ### Example (Inverse Trig Rule)
-![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_files/img_11.png)
+![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_img_11.png)
 Solve:
 - Notice this radical form should directly use the Reversed Inverse Trig Rule:
-![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_files/img_12.png)
+![image](20180608074340_❖-「U-substitution」-→-Chain-Rule_img_12.png)
 - So that we assume `a = 1 & u = 3x`.
 - Since `u' = 3` so we need to make a `3` from nowhere.
 - Rewrite the formula to: `1/3 ʃ 3/(1+u²) ·dx = 1/3 ʃ 1/(1+u²) ·du`

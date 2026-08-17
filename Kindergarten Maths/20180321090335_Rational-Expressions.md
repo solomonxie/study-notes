@@ -5,7 +5,7 @@
 > Or called `Rational functions`. It's a `fraction of two polynomials`. And a fraction of two constant numbers will also be fine, because a polynomial could be a constant number.
 We call the numerator the **`TOP`**, and the dominator the **`BOTTOM`**
 
-![image](20180321090335_Rational-Expressions_files/img_01.png)
+![image](20180321090335_Rational-Expressions_img_01.png)
 
 ## `End Behaviour` of rational functions
 
@@ -22,7 +22,7 @@ For example, `f(x) = 1/x`, the `x` MUSTN'T be `zero`, so the domain of this func
 
 Another example,
 
-![image](20180321090335_Rational-Expressions_files/img_02.png)
+![image](20180321090335_Rational-Expressions_img_02.png)
 
 We know that in the `dominator`, the `x` can't be `-6` or `-4` because the dominator mustn't be zero. And `-6 and -4` makes **`discontinuities`** of the function.
 
@@ -31,16 +31,16 @@ And this makes `(x+4)` REMOVABLE, so that the `-4` become a **`Removable discont
 
 Now what's left here is this fraction:
 
-![image](20180321090335_Rational-Expressions_files/img_03.png)
+![image](20180321090335_Rational-Expressions_img_03.png)
 
 We see the `-6` still makes the whole function `undefined`, and makes `discontinuity`.
 
-![image](20180321090335_Rational-Expressions_files/img_04.png)
+![image](20180321090335_Rational-Expressions_img_04.png)
 
 So at the moment, we could DRAW a `vertical line` through the `-6` point, that the function could never touch.
 So we call this line a **`vertical asymptote`**.
 
-![image](20180321090335_Rational-Expressions_files/img_05.png)
+![image](20180321090335_Rational-Expressions_img_05.png)
 
 1.
 > So for the conclusion, a solution for the `x` that makes the function `undefined`, 

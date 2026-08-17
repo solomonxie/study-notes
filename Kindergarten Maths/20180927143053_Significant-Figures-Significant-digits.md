@@ -5,7 +5,7 @@
 [Refer to Khan academy: Intro to significant figures](https://www.khanacademy.org/math/arithmetic-home/arith-review-decimals/modal/v/significant-figures)
 
 
-![image](20180927143053_Significant-Figures-Significant-digits_files/img_01.png)
+![image](20180927143053_Significant-Figures-Significant-digits_img_01.png)
 
 ## Rules of Significant figures
 
@@ -18,5 +18,5 @@
 
 
 
-![image](20180927143053_Significant-Figures-Significant-digits_files/img_02.png)
+![image](20180927143053_Significant-Figures-Significant-digits_img_02.png)
 

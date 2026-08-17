@@ -2,7 +2,7 @@
 
 [Refer to wiki: Queue (abstract data type)](https://www.wikiwand.com/en/Queue_(abstract_data_type))
 
-![image](20181119152149_Queue-Data-structure_files/img_01.png)
+![image](20181119152149_Queue-Data-structure_img_01.png)
 
 
 ## ADT DEFINITION
@@ -49,5 +49,5 @@ DATA:
 
 ## ANALYSIS
 
-![image](20181119152149_Queue-Data-structure_files/img_02.png)
+![image](20181119152149_Queue-Data-structure_img_02.png)
 

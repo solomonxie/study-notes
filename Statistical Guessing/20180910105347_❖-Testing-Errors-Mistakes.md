@@ -1,6 +1,6 @@
 #  ❖ Testing Errors (Mistakes)
 
-![image](20180910105347_❖-Testing-Errors-Mistakes_files/img_01.png)
+![image](20180910105347_❖-Testing-Errors-Mistakes_img_01.png)
 
 ## 「Type 𝐈 Errors」 & 「Type 𝐈𝐈 Errors」`
 
@@ -28,7 +28,7 @@ Although both of them are **mistakes** for doing the right thing, but they're un
 
 Since they're "living in a different world", and they're `Conditional Probabilities`, so the calculation is different too:
 
-![image](20180910105347_❖-Testing-Errors-Mistakes_files/img_02.png)
+![image](20180910105347_❖-Testing-Errors-Mistakes_img_02.png)
 
 
 
@@ -36,10 +36,10 @@ Since they're "living in a different world", and they're `Conditional Probabilit
 
 [Jump to Khan academy for practice: Type I vs Type II error](https://www.khanacademy.org/math/ap-statistics/tests-significance-ap/error-probabilities-power/e/type-i-error-type-ii-error-power)
 
-![image](20180910105347_❖-Testing-Errors-Mistakes_files/img_03.png)
+![image](20180910105347_❖-Testing-Errors-Mistakes_img_03.png)
 
 Solve:
-![image](20180910105347_❖-Testing-Errors-Mistakes_files/img_04.png)
+![image](20180910105347_❖-Testing-Errors-Mistakes_img_04.png)
 
 
 

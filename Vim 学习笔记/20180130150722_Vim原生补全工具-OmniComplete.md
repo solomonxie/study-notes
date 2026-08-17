@@ -4,5 +4,5 @@
 输代码的过程中，直接按`Ctrl+X`然后再按`Ctrl+O`，就会弹出vim猜测的一系列补全内容。可以在菜单里按“上下键”选择，注意是方向上下键，不是JK键。
 经过测试，原生支持很多种语言。
 
-![image](20180130150722_Vim原生补全工具-OmniComplete_files/img_01.png)
+![image](20180130150722_Vim原生补全工具-OmniComplete_img_01.png)
 

@@ -9,7 +9,7 @@ Prerequisites:
 - Signs of trig functions
 
 It asks you to solve a trig function like this:
-![image](20180331112917_Inverse-Trig-equations_files/img_01.png)
+![image](20180331112917_Inverse-Trig-equations_img_01.png)
 Actually it's asking you to use `inverse trig function` skills.
 
 

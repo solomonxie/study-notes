@@ -32,7 +32,7 @@ Github的API v4不能陌生访问，必须使用自己的账号申请一个token
 Query里设置的话，格式为：`?access_token=xxxxxxxxxxx`
 Header里设置的话，格式是：名称为`Authorization`，值为`token xxxxxxxxxx`。
 - 在栏目里面的Body位置选择`GraphQL`格式：
-![image](20180524114732_❖-初探新一代API的Github-API-v4-GraphQL-DRAFT_files/img_01.png)
+![image](20180524114732_❖-初探新一代API的Github-API-v4-GraphQL-DRAFT_img_01.png)
 - 输入Github指定格式的`查询语句`（看似JSON格式实则不是）：
 ```graphql
 query {
@@ -42,7 +42,7 @@ query {
 }
 ```
 - 点击Send发送请求，如果一切正常，则会得到查询的返回值：
-![image](20180524114732_❖-初探新一代API的Github-API-v4-GraphQL-DRAFT_files/img_02.png)
+![image](20180524114732_❖-初探新一代API的Github-API-v4-GraphQL-DRAFT_img_02.png)
 
 
 ### Postman访问GraphQL失败
@@ -57,7 +57,7 @@ query {
   "query": "query {viewer { login } }"
 }
 ```
-![image](20180524114732_❖-初探新一代API的Github-API-v4-GraphQL-DRAFT_files/img_03.png)
+![image](20180524114732_❖-初探新一代API的Github-API-v4-GraphQL-DRAFT_img_03.png)
 
 
 ## GitHub GraphQL Explorer
@@ -69,7 +69,7 @@ query {
 
 [GraphQL API Explorer | GitHub Developer Guide](https://developer.github.com/v4/explorer/)
 
-![image](20180524114732_❖-初探新一代API的Github-API-v4-GraphQL-DRAFT_files/img_04.png)
+![image](20180524114732_❖-初探新一代API的Github-API-v4-GraphQL-DRAFT_img_04.png)
 
 ## 常用查询结构
 
@@ -80,5 +80,5 @@ query {
 
 其中指定了某一个repo（通过owner和name指定），也指定了某一条issue（通过number指定），并要求返回最近的10条comments。
 
-![image](20180524114732_❖-初探新一代API的Github-API-v4-GraphQL-DRAFT_files/img_05.png)
+![image](20180524114732_❖-初探新一代API的Github-API-v4-GraphQL-DRAFT_img_05.png)
 

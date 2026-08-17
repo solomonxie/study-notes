@@ -49,21 +49,21 @@ The three types of row operations used are:
 - Type 3: **Adding** a row from another **row**. (!Note: you can only **ADD** them but not **subtract**, but you can **ADD** a negative)
 
 Confusing operation: See where the `negative sign` was put:
-![image](20180420081403_Matrices-Elimination_files/img_01.png)
+![image](20180420081403_Matrices-Elimination_img_01.png)
 
 
 ### Example
 Suppose the goal is to find the solution for the linear system below:
-![image](20180420081403_Matrices-Elimination_files/img_02.png)
+![image](20180420081403_Matrices-Elimination_img_02.png)
 
 First we need to turn it into `Augmented Matrix` form:
-![image](20180420081403_Matrices-Elimination_files/img_03.png)
+![image](20180420081403_Matrices-Elimination_img_03.png)
 
 Then we apply `Elementary Row Operations`, and result in `Row Echelon Form`:
-![image](20180420081403_Matrices-Elimination_files/img_04.png)
+![image](20180420081403_Matrices-Elimination_img_04.png)
 
 At the end, if we'd like, we can further on apply some row operations to get the matrix in `Reduced Row Echelon Form`:
-![image](20180420081403_Matrices-Elimination_files/img_05.png)
+![image](20180420081403_Matrices-Elimination_img_05.png)
 Reading this matrix tells us that the solutions for this system of equations occur when x = 2, y = 3, and z = -1.
 
 ### 「Row Echelon Form」 vs. 「Reduced Row Echelon Form」
@@ -76,7 +76,7 @@ The only thing matters is **WHAT ARE ABOVE 1 AND WHAT ARE BELOW 1.**
 - REF: For each column, all numbers **below** 1 MUST BE 0. Doesn't matter what numbers are above 1.
 - RREF: For each column, all numbers both **above & below** 1 MUST BE 0. We don't care about it if there's no 1 in the column.
 
-![image](20180420081403_Matrices-Elimination_files/img_06.png)
+![image](20180420081403_Matrices-Elimination_img_06.png)
 
 ## 「Augmented Matrix」
 
@@ -84,18 +84,18 @@ The only thing matters is **WHAT ARE ABOVE 1 AND WHAT ARE BELOW 1.**
 
 When we apply elimination to `Linear equations`, we operate both sides at the same time. But for computer programmes, it often apply to **Left side**, and remember the operations, a.g. multiply a number or add equations together, when the left side finished then apply the same operations to the right side.
 
-![image](20180420081403_Matrices-Elimination_files/img_07.png)
+![image](20180420081403_Matrices-Elimination_img_07.png)
 
 If a given Matrix was told it's an `Augmented Matrix`, so we have to assume that the **Last Column** is **The Solution Column**.
 
-![image](20180420081403_Matrices-Elimination_files/img_08.png)
+![image](20180420081403_Matrices-Elimination_img_08.png)
 
 ## 「Equivalent systems」 & 「Equivalent Matrices」
 
 - Equivalent systems: Linear systems with the SAME SOLUTION SET.
-![image](20180420081403_Matrices-Elimination_files/img_09.png)
+![image](20180420081403_Matrices-Elimination_img_09.png)
 - Equivalent matrices: Two matrices where One Matrix **can be turned** into the other matrix by some `elementary row operations`.
-![image](20180420081403_Matrices-Elimination_files/img_10.png)
+![image](20180420081403_Matrices-Elimination_img_10.png)
 
 ## 「Pivot」
 
@@ -105,23 +105,23 @@ If a given Matrix was told it's an `Augmented Matrix`, so we have to assume that
 
 It means the value that represents the `unknown variable`  in each column. There's no `pivot` in a column if you can't get a 1 in that column.
 
-![image](20180420081403_Matrices-Elimination_files/img_11.png)
+![image](20180420081403_Matrices-Elimination_img_11.png)
 
 ### 「Free variables」
 
 If there's no pivot in a column, that means this `unknown variable` of the column can be **any number**, so we call it a `free variable`.
 
-![image](20180420081403_Matrices-Elimination_files/img_12.png)
+![image](20180420081403_Matrices-Elimination_img_12.png)
 
 ### `Pivot columns`
 
 The `pivots` are found after `Row Reduction`, and then **go back** to the Original Matrix, the columns **WITH** pivots are called `pivot columns`.
 
-![image](20180420081403_Matrices-Elimination_files/img_13.png)
+![image](20180420081403_Matrices-Elimination_img_13.png)
 
 ### 「Back substitution」
 
 It's simple: When you solve out one `unknown variable` in the Linear System, you put the value back to other equations. We call this process as `Back Substitution`.
 
-![image](20180420081403_Matrices-Elimination_files/img_14.png)
+![image](20180420081403_Matrices-Elimination_img_14.png)
 

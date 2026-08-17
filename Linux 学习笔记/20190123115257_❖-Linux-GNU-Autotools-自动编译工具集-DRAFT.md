@@ -12,7 +12,7 @@
 
 这套`Autotools`的大概逻辑就是：只需要自己写`configure.ac`和`Makefile.am`两个文件就够了。
 
-![image](20190123115257_❖-Linux-GNU-Autotools-自动编译工具集-DRAFT_files/img_01.png)
+![image](20190123115257_❖-Linux-GNU-Autotools-自动编译工具集-DRAFT_img_01.png)
 
 
 > "Make is the new Python!"

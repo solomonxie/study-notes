@@ -5,11 +5,11 @@
 
 直接在帮助菜单里找到`edit command mode keyboard shortcuts`：
 
-![image](20190121122530_Jupyter-Notebook-修改快捷键_files/img_01.png)
+![image](20190121122530_Jupyter-Notebook-修改快捷键_img_01.png)
 
 然后修改对应的快捷键：
 
-![image](20190121122530_Jupyter-Notebook-修改快捷键_files/img_02.png)
+![image](20190121122530_Jupyter-Notebook-修改快捷键_img_02.png)
 
 
 ## 方法二：修改自定义脚本.js文件

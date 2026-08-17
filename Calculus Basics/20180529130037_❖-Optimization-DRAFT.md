@@ -5,7 +5,7 @@ It's just a progress to get **the Maximum or Minimum points of a given function.
 
 ### Example: Max product
 
-![image](20180529130037_❖-Optimization-DRAFT_files/img_01.png)
+![image](20180529130037_❖-Optimization-DRAFT_img_01.png)
 Solve:
 - It's bit tricky to understand the question.
 - Form a function: `P(x) = x(a-x) = ax - x²`
@@ -20,7 +20,7 @@ Q: What is the area of the largest trapezoid that can be inscribed in a semicirc
 
 [Refer to Kristaking's video: Largest area of a rectangle inscribed in a semicircle](https://www.youtube.com/watch?v=wNMK92GVTO8)
 
-![image](20180529130037_❖-Optimization-DRAFT_files/img_02.png)
+![image](20180529130037_❖-Optimization-DRAFT_img_02.png)
 
 Understanding:
 - For this `Trapezoid inscribed in circle` problem, you really want to draw it out before anything else.Refer to this [animated tool](https://ggbm.at/runpCeja) from Geogebra that I created for this problem.
@@ -55,8 +55,8 @@ Solve:
 
 ### Example: Smallest paper
 
-![image](20180529130037_❖-Optimization-DRAFT_files/img_03.png)
-![image](20180529130037_❖-Optimization-DRAFT_files/img_04.png)
+![image](20180529130037_❖-Optimization-DRAFT_img_03.png)
+![image](20180529130037_❖-Optimization-DRAFT_img_04.png)
 Solve:
 - Assume the area of the inside rectangle (the texts) is `T = w · h = 150`
 - So the area of paper should be `A = (w+2)·(h+3)`
@@ -68,8 +68,8 @@ Solve:
 
 ### Example: Largest area of rectangle inscribed in triangle
 
-![image](20180529130037_❖-Optimization-DRAFT_files/img_05.png)
-![image](20180529130037_❖-Optimization-DRAFT_files/img_06.png)
+![image](20180529130037_❖-Optimization-DRAFT_img_05.png)
+![image](20180529130037_❖-Optimization-DRAFT_img_06.png)
 Solve:
 - Form the equation of area of the rectangle: `A = w · h`
 - Apply the `Similar triangle` property from Geometry lessons, telling that the ratio between two sides are the same with its similar triangle's. So use any of the small triangle there, to form the equation: `h/(8-w) = 10/8`.

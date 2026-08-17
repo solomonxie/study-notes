@@ -2,11 +2,11 @@
 
 > This is somehow dreaded and mind-blowing.  But it's the **only** thing to relate the `Differential Calculus` & `Integral Calculus`.
 
-![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_files/img_01.png)
+![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_img_01.png)
 
 It's so much clearer if you see the function in the middle of integration as a `derivative`.
 
-![fundamental_theorem_of_calculus_ animation_](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_files/img_02.gif)
+![fundamental_theorem_of_calculus_ animation_](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_img_02.gif)
 
 
 Notice that:
@@ -22,7 +22,7 @@ The Fundamental Theorem of Calculus could actually be used in two forms. They ha
 
  (**Notice that boundaries & terms are different**)
 
-![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_files/img_03.png)
+![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_img_03.png)
 
 
 
@@ -40,11 +40,11 @@ We got different strategies for different boundaries situation:
 
 ▼ Here is formulas for different **boundaries** of integration:
 
-![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_files/img_04.png)
+![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_img_04.png)
 
 
 ### Example
-![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_files/img_05.png)
+![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_img_05.png)
 Solve:
 - It's to apply the `boundary situation strategy` of `A variable & a number`: `G'(x) = g(x)`
 - Assume the function in the middle of integral is `G'(x) = 3x²+4x`
@@ -52,13 +52,13 @@ Solve:
 - So `g'(2) = G'(x) = 3x²+4x = 20`
 
 ### Example
-![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_files/img_06.png)
+![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_img_06.png)
 Solve:
 - According to the different `Boundary situation strategies`, here we apply the `A function & a number` strategy: `F'(x) = f[g(x)] · g'(x)`
 - So `F'(x) = √(15 - 2x) · (2x)' = 2√(15-2x)`
 
 ### Example
-![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_files/img_07.png)
+![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_img_07.png)
 Solve:
 - It's asking you to apply the FTC in form of `d/dx ʃ f'(x) dx = f(b) - f(a)`
 - So it becomes calculating `F(3) - F(0) = 125 - 1 = 124`
@@ -66,12 +66,12 @@ Solve:
 
 
 ### Example
-![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_files/img_08.png)
+![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_img_08.png)
 Solve:
 - We could use the `Second Fundamental Theorem of Calculus`:
-![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_files/img_09.png)
+![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_img_09.png)
 - which in this case is:
-![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_files/img_10.png)
+![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_img_10.png)
 - And we move the known terms to one side and keep the asking term at another side:
-![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_files/img_11.png)
+![image](20180607061722_❖-Fundamental-Theorem-of-Calculus-FTC_img_11.png)
 

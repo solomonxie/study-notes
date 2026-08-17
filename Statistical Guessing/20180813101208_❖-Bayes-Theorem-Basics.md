@@ -9,7 +9,7 @@
 
 The formula of `Bayes' Theorem` is just a slightly extension to `Conditional Probability`.
 
-![image](20180813101208_❖-Bayes-Theorem-Basics_files/img_01.png)
+![image](20180813101208_❖-Bayes-Theorem-Basics_img_01.png)
 ▲ Probability of `A given B` and `B given A` has the same **numerator**, that being said, 
 **We can easily compute a `conditional probability` with its reversed event.**
 
@@ -18,20 +18,20 @@ The formula of `Bayes' Theorem` is just a slightly extension to `Conditional Pro
 
 How does it make sense?
 
-![image](20180813101208_❖-Bayes-Theorem-Basics_files/img_02.png)
+![image](20180813101208_❖-Bayes-Theorem-Basics_img_02.png)
 
-![image](20180813101208_❖-Bayes-Theorem-Basics_files/img_03.png)
+![image](20180813101208_❖-Bayes-Theorem-Basics_img_03.png)
 
 
 In real life, sometimes `A given B` is easy to get, sometimes `B given A` is easier to get.
 So whenever we encounter some difficulties of computing `A given B`, we can always use probability of `B given A` to compute.
 
-![image](20180813101208_❖-Bayes-Theorem-Basics_files/img_04.png)
+![image](20180813101208_❖-Bayes-Theorem-Basics_img_04.png)
 
 
 ## Example: Spam emails
 
-![image](20180813101208_❖-Bayes-Theorem-Basics_files/img_05.png)
+![image](20180813101208_❖-Bayes-Theorem-Basics_img_05.png)
 
 
 ## Example: Disjoint Union

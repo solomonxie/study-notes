@@ -18,7 +18,7 @@ MacOS管理开机启动的服务，是采用系统内置的`launchctl`命令，H
 我们可以输入`launchctl list`命令，查看当前MacOS中已经安装的服务列表。
 如果Homebrew已经帮我们安装了一些服务，那么运行这个列表，就会看到类似这种名称的服务：
 
-![image](20190210084617_Mac上用Homebrew管理服务-守护进程-DRAFT_files/img_01.png)
+![image](20190210084617_Mac上用Homebrew管理服务-守护进程-DRAFT_img_01.png)
 
 [参考：使用 brew services 管理后台服务(MacOS)](https://blog.csdn.net/zwkkkk1/article/details/84832028)
 [参考：brew services 原理解析，如何查看 brew services 列表？](https://newsn.net/say/mac-brew-services.html)

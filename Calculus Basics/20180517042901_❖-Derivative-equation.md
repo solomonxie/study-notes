@@ -9,9 +9,9 @@ we can then let their `Y-value Change` divided by their `X-value Change` to get 
 
 There're two equations for calculating derivative at a point, and the only different thing is how to express the IMAGINARY POINT with respect to the point `a`, it could either be `x` or `a+h` :
 
-![image](20180517042901_❖-Derivative-equation_files/img_01.png)
+![image](20180517042901_❖-Derivative-equation_img_01.png)
 or:
-![image](20180517042901_❖-Derivative-equation_files/img_02.png)
+![image](20180517042901_❖-Derivative-equation_img_02.png)
 
 
 ## How to calculate 「derivative」
@@ -26,18 +26,18 @@ Strategy:
     - If two sides' limits are the same, then that value is the **Derivative** at the point. If not, then it's NOT DIFFERENTIABLE.
 
 ### Example
-![image](20180517042901_❖-Derivative-equation_files/img_03.png)
+![image](20180517042901_❖-Derivative-equation_img_03.png)
 Solve:
 - See that the point `3` is defined in the interval.
 - Left side limit of the point, is using the first equation, and gets the `lim g(x) = -7`
 - Right side limit of the point, is using the second equation, and gets the `lim g(x) = -7`
 - Limits of both sides are the SAME, so it's continuous, and let's see if it's differentiable.
 - Apply the derivative equation for both Left side  & Right side:
-![image](20180517042901_❖-Derivative-equation_files/img_04.png)
+![image](20180517042901_❖-Derivative-equation_img_04.png)
 - Both sides' limits exists but not that same, so it's not differentiable.
 
 ### Example
-![image](20180517042901_❖-Derivative-equation_files/img_05.png)
+![image](20180517042901_❖-Derivative-equation_img_05.png)
 Solve:
 - See that the point `-1` is defined in the interval.
 - Left side limit of the point, is using the first equation, and gets the `lim g(x) = 1`

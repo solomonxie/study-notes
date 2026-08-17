@@ -35,7 +35,7 @@ user1.name  # ==> 'user2'. Now updated in memory. Note not yet updated in db, ne
 我们知道虽然`merge()`可以解决数据库中的冲突问题，但是当我们在还没进入数据库之前，如果`批量merge`，如果数据中有重复（包括主键重复），都会产生异常，停止程序运行。
 报错信息一般如下：
 
-![image](20181218073650_❖-SQLAlchemy的进阶小操作汇总-DRAFT_files/img_01.png)
+![image](20181218073650_❖-SQLAlchemy的进阶小操作汇总-DRAFT_img_01.png)
 
 很“抱歉”的是，SQLAlchemy没有内置的解决办法，想想可能也不会有。
 因为逻辑上来说，你在插入数据库之前，同时准备了多条数据，其中有一些重复的条目，比如有两个主键相同但是其它内容不同的条目，那么问题来了：SQLAlchemy怎么替你选择让这两个条目的哪一个插入到数据库中？

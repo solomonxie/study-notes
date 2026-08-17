@@ -3,16 +3,16 @@
 Means an equation or an expression that has a square root, cube root, etc.
 The symbol is `√`.
 
-![image](20180320125905_Radical-Equation_files/img_01.png)
+![image](20180320125905_Radical-Equation_img_01.png)
 
 ## `Extraneous solutions` of radical equations
 
 [Refer to khan academy: `Extraneous solutions` of radical equations](https://www.khanacademy.org/math/algebra2/radical-equations-and-functions/analyzing-extraneous-solutions-of-square-root-equations/a/analyzing-extraneous-solutions-of-square-root-equations)
 
 > Whenever you raise both sides of an equation to an even power, you must check for extraneous solutions.
-![image](20180320125905_Radical-Equation_files/img_02.png)
+![image](20180320125905_Radical-Equation_img_02.png)
 However, taking the square root of both sides of an equation does not introduce the possibility of extraneous solutions.
-![image](20180320125905_Radical-Equation_files/img_03.png)
+![image](20180320125905_Radical-Equation_img_03.png)
 
 When you're to `square` something, you may LOOSE some information: the sign of the squared term.
 

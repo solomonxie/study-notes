@@ -10,14 +10,14 @@ Virtualbox连接网络一共有四种方式（其它虚拟机也都差不多一�
 - Internal
 - Host-only Adapter
 
-![image](20181206080633_❖-理解Virtualbox虚拟机的四种网络连接方式-DRAFT_files/img_01.png)
+![image](20181206080633_❖-理解Virtualbox虚拟机的四种网络连接方式-DRAFT_img_01.png)
 
 
-![image](20181206080633_❖-理解Virtualbox虚拟机的四种网络连接方式-DRAFT_files/img_02.png)
+![image](20181206080633_❖-理解Virtualbox虚拟机的四种网络连接方式-DRAFT_img_02.png)
 
-![image](20181206080633_❖-理解Virtualbox虚拟机的四种网络连接方式-DRAFT_files/img_03.png)
+![image](20181206080633_❖-理解Virtualbox虚拟机的四种网络连接方式-DRAFT_img_03.png)
 
-![image](20181206080633_❖-理解Virtualbox虚拟机的四种网络连接方式-DRAFT_files/img_04.png)
+![image](20181206080633_❖-理解Virtualbox虚拟机的四种网络连接方式-DRAFT_img_04.png)
 
 
 > 最好用的是Bridge方式

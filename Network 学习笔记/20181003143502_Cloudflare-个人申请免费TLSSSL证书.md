@@ -14,15 +14,15 @@
 
 添加后出错：
 
-![image](20181003143502_Cloudflare-个人申请免费TLSSSL证书_files/img_01.png)
+![image](20181003143502_Cloudflare-个人申请免费TLSSSL证书_img_01.png)
 
 这种情况一般是刚注册域名没多久，还没有生效才产生的。耐心等一等再重试即可。一般24小时是要等的。
 
 ### 注册步骤
-![snip20181003_23](20181003143502_Cloudflare-个人申请免费TLSSSL证书_files/img_02.png)
-![snip20181004_24](20181003143502_Cloudflare-个人申请免费TLSSSL证书_files/img_03.png)
-![snip20181004_25](20181003143502_Cloudflare-个人申请免费TLSSSL证书_files/img_04.png)
-![snip20181004_26](20181003143502_Cloudflare-个人申请免费TLSSSL证书_files/img_05.png)
-![snip20181004_28](20181003143502_Cloudflare-个人申请免费TLSSSL证书_files/img_06.png)
-![snip20181004_29](20181003143502_Cloudflare-个人申请免费TLSSSL证书_files/img_07.png)
+![snip20181003_23](20181003143502_Cloudflare-个人申请免费TLSSSL证书_img_02.png)
+![snip20181004_24](20181003143502_Cloudflare-个人申请免费TLSSSL证书_img_03.png)
+![snip20181004_25](20181003143502_Cloudflare-个人申请免费TLSSSL证书_img_04.png)
+![snip20181004_26](20181003143502_Cloudflare-个人申请免费TLSSSL证书_img_05.png)
+![snip20181004_28](20181003143502_Cloudflare-个人申请免费TLSSSL证书_img_06.png)
+![snip20181004_29](20181003143502_Cloudflare-个人申请免费TLSSSL证书_img_07.png)
 

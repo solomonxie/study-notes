@@ -306,7 +306,7 @@ u1.subscriptions += [r2, r3]
 ## Many to Many to Many 多对多对多 （深层关联）
 
 深层关联，为了避免理解困难，最笨的方法就是简单的使用外键ID，然后手动搜索另一个表的对应ID。
-![image](20181211073001_❖-SQLAlchemy中的表关系-Table-Relationships_files/img_01.png)
+![image](20181211073001_❖-SQLAlchemy中的表关系-Table-Relationships_img_01.png)
 
 
 但是SQLAlchemy也可以实现这种深层关联：

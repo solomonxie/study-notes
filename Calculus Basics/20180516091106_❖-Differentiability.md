@@ -3,7 +3,7 @@
 > "If the point of a function IS differentiable, then it MUST BE continuous at the point."
 
 Example of NOT `differentiable` points:
-![image](20180516091106_❖-Differentiability_files/img_01.png)
+![image](20180516091106_❖-Differentiability_img_01.png)
 
 You can see, if the point DOES NOT have `limit`, it's NOT DIFFERENTIABLE. 
 In another word, the point is not CONTINUOUS, it's `Jump Discontinuity`, or `Removable Discontinuity`, or any type of discontinuities.
@@ -14,7 +14,7 @@ In another word, the point is not CONTINUOUS, it's `Jump Discontinuity`, or `Rem
 - Not Continuous
 - Two sides' limits are different
 
-![image](20180516091106_❖-Differentiability_files/img_02.png)
+![image](20180516091106_❖-Differentiability_img_02.png)
 
 
 ## 「Vertical Tangent」

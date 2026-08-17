@@ -18,14 +18,14 @@ The price for a _Spot instance_ is always changing. And the way to use it is to 
 
 For Asia Pacific (Singapore):
 - General purposes:
-![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_files/img_01.png)
+![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_img_01.png)
 - Compute Optimized:
 - GPU Instances:
-![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_files/img_02.png)
+![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_img_02.png)
 - Memory Optimized:
 - Storage Optimized:
 - Micro Instances:
-![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_files/img_03.png)
+![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_img_03.png)
 
 > * Cluster GPU Instances are not available in all regions.
 
@@ -37,20 +37,20 @@ For Asia Pacific (Singapore):
 
 For Asia Pacific (Singapore):
 - General purposes:
-![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_files/img_04.png)
+![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_img_04.png)
 - Compute Optimized:
-![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_files/img_05.png)
+![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_img_05.png)
 - GPU Instances:
-![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_files/img_06.png)
+![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_img_06.png)
 - Memory Optimized:
-![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_files/img_07.png)
+![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_img_07.png)
 - Storage Optimized:
-![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_files/img_08.png)
+![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_img_08.png)
 
 Data transfer:
 - All data Transfer IN: **FREE**
 - Data Transfer OUT:
-![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_files/img_09.png)
+![image](20180907132025_❖-「AWS-EC2」Server-Overview-DRAFT_img_09.png)
 
 
 ### 「RESERVED」 Instance (Yearly contract)

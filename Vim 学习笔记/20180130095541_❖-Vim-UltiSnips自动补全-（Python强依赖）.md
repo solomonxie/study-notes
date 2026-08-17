@@ -7,7 +7,7 @@
 ## 安装Snippets插件
 在已有Vundle插件管理器的基础上，直接在`.vimrc`文件中加入这两个插件名：
 
-![image](20180130095541_❖-Vim-UltiSnips自动补全-（Python强依赖）_files/img_01.png)
+![image](20180130095541_❖-Vim-UltiSnips自动补全-（Python强依赖）_img_01.png)
 
 然后退出vim再进入vim，输入命令: `:PluginInstall`，等待安装完成后，重新进入vim，就可以正常使用了。
 

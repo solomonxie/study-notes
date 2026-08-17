@@ -17,7 +17,7 @@
 
 ### Python问题：
 
-![image](20190207012825_Mac开发环境之：不要乱删Homebrew-DRAFT_files/img_01.png)
+![image](20190207012825_Mac开发环境之：不要乱删Homebrew-DRAFT_img_01.png)
 
 解决方法：
 ```sh
@@ -47,7 +47,7 @@ gem install neovim
 
 
 ### Node.js问题
-![image](20190207012825_Mac开发环境之：不要乱删Homebrew-DRAFT_files/img_02.png)
+![image](20190207012825_Mac开发环境之：不要乱删Homebrew-DRAFT_img_02.png)
 
 解决方案就是：
 ```sh
@@ -68,7 +68,7 @@ dyld: Symbol not found: __cg_jpeg_resync_to_restart
  in /System/Library/Frameworks/ImageIO.framework/Versions/A/ImageIO
 ```
 
-![image](20190207012825_Mac开发环境之：不要乱删Homebrew-DRAFT_files/img_03.png)
+![image](20190207012825_Mac开发环境之：不要乱删Homebrew-DRAFT_img_03.png)
 
 解决方法是，参考：https://stackoverflow.com/questions/35509731/dyld-symbol-not-found-cg-jpeg-resync-to-restart
 ```sh

@@ -7,5 +7,5 @@
 touch vim ~/.matplotlib/matplotlibrc
 echo "backend: TkAgg" > ~/.matplotlib/matplotlibrc
 ```
-![image](20180224165248_Python运行matplotlib时报错：Python-is-not-installed-as-a-framew_files/img_01.png)
+![image](20180224165248_Python运行matplotlib时报错：Python-is-not-installed-as-a-framew_img_01.png)
 

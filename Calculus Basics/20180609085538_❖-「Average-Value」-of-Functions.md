@@ -1,6 +1,6 @@
 #  ❖ 「Average Value」 of Functions
 
-![image](20180609085538_❖-「Average-Value」-of-Functions_files/img_01.png)
+![image](20180609085538_❖-「Average-Value」-of-Functions_img_01.png)
 
 [Refer to Khan academy: Average value over a closed interval](https://www.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/modal/v/average-function-value-closed-interval)
 [Refer to video: Average Value of a Function on an Interval](https://www.youtube.com/watch?v=K-H86pxiBlk)
@@ -9,7 +9,7 @@
 and then "reform" it to a rectangle, 
 then divide it by its width, then you get the height.
 
-![image](20180609085538_❖-「Average-Value」-of-Functions_files/img_02.png)
+![image](20180609085538_❖-「Average-Value」-of-Functions_img_02.png)
 
 
 Strategy:
@@ -22,5 +22,5 @@ Strategy:
 
 > It actually IS the `Average Value of Functions`
 
-![image](20180609085538_❖-「Average-Value」-of-Functions_files/img_03.png)
+![image](20180609085538_❖-「Average-Value」-of-Functions_img_03.png)
 
