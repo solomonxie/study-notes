@@ -4,7 +4,7 @@
 
 [Refer to wiki: Standard error](https://www.wikiwand.com/en/Standard_error)
 
-![image](20180901074834_❖-Standard-Error-SE-DRAFT_files/img_01.png)
+![image](20180901074834_❖-Standard-Error-SE-DRAFT_img_01.png)
 
 
 
@@ -25,7 +25,7 @@ If we're to find the `Standard Deviation of the Mean of a Sampling Distribution`
 _Standard Error_ gives us **how far the Sample Mean will deviate from the true mean**.
 
 
-![image](20180901074834_❖-Standard-Error-SE-DRAFT_files/img_02.png)
+![image](20180901074834_❖-Standard-Error-SE-DRAFT_img_02.png)
 
 
 ### 「Standard Error of Sample Proportion」

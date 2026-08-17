@@ -50,5 +50,5 @@ g(x) = f(C・x)
 ```
 
 Summary:
-![image](20180319115335_Function-Transformations_files/img_01.png)
+![image](20180319115335_Function-Transformations_img_01.png)
 

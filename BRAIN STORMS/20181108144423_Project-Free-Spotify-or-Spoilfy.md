@@ -40,5 +40,5 @@ Spotify API其实提供每首歌的30秒预览，足够一般浏览了，这样�
 
 ## 更新
 Youtube等歌曲来源问题，可以通过这个库解决：`Track`（http://developers.music-story.com/developers/track）
-![image](20181108144423_Project-Free-Spotify-or-Spoilfy_files/img_01.png)
+![image](20181108144423_Project-Free-Spotify-or-Spoilfy_img_01.png)
 

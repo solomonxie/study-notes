@@ -34,9 +34,9 @@
 经过搜索，绝大多数的回答都是：需要安装`Microsoft Visual Studio`2008或者2010版本，才能满足Python在windows系统上安装各种底层扩展的需要。
 正在下载2G的VS中。。。
 **不过趁着下载等待时间，我在评论区发现了更easy的方法。。。。**
-![image](20180525033451_❖-Python-安装Mysql模块及安装中错误的解决-Windows_files/img_01.png)
+![image](20180525033451_❖-Python-安装Mysql模块及安装中错误的解决-Windows_img_01.png)
 打开页面，http://www.lfd.uci.edu/~gohlke/pythonlibs/ 是这个模样：
-![image](20180525033451_❖-Python-安装Mysql模块及安装中错误的解决-Windows_files/img_02.png)
+![image](20180525033451_❖-Python-安装Mysql模块及安装中错误的解决-Windows_img_02.png)
 
 满屏幕毫无美感的英文，连排版都没有，真有点不太好接受。不过趁着VS还没下载完，就简单读了读，发现了第二行关键词：`University of California, Irvine.`，原来是加大的作品啊，一看就是科学家制作，比较大气，耐着心读了读说明段落——好像是专门针对windows对python支持性差做的工作——把python扩展都制作成了**二进制文件**，即`.whl`文件。
 ## 安装二进制的Python扩展包

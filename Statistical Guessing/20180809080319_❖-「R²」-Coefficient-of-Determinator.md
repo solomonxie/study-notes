@@ -13,7 +13,7 @@ R-squared = Explained variation / Total variation
 
 ## Formula
 
-![image](20180809080319_❖-「R²」-Coefficient-of-Determinator_files/img_01.png)
+![image](20180809080319_❖-「R²」-Coefficient-of-Determinator_img_01.png)
 (SE_line is `Standard Error from line`)
 
 - If `SE` (Standard Error) from the line is **small**   ->   r² close to 1   ->  The line is a **good fit**.
@@ -23,7 +23,7 @@ R-squared = Explained variation / Total variation
 
 [Refer to youtube: 3.2: Linear Regression with Ordinary Least Squares Part 1 - Intelligence and Learning](https://www.youtube.com/watch?v=szXbuO3bVRk)
 
-![image](20180809080319_❖-「R²」-Coefficient-of-Determinator_files/img_02.png)
+![image](20180809080319_❖-「R²」-Coefficient-of-Determinator_img_02.png)
 
 ### Why do we square "Residuals"?
 
@@ -50,5 +50,5 @@ This method is to measure the how good the `Regression Line` fits the data.
 
 [Refer to Khan academy: Standard deviation of residuals or root mean square deviation (RMSD)](https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/modal/v/standard-dev-residuals)
 
-![image](20180809080319_❖-「R²」-Coefficient-of-Determinator_files/img_03.png)
+![image](20180809080319_❖-「R²」-Coefficient-of-Determinator_img_03.png)
 

@@ -6,7 +6,7 @@
 
 ## 「Geometric Random Variable」 vs. 「Binomial Random Variable」
 
-![image](20180823092225_❖-Geometric-Random-Variables_files/img_01.png)
+![image](20180823092225_❖-Geometric-Random-Variables_img_01.png)
 
 - A `binomial setting` has a set number of trials, and the variable in question is the number of successes that occur in those trials.
 - A `geometric setting` DOES NOT have a set number of trials, and the variable in question is the number of trials it takes to get the first success.
@@ -27,7 +27,7 @@ Requirements of Geometric R.V.:
 The geometric distribution gives the probability that the first occurrence of success requires k independent trials, each with success probability p.
 
 
-![image](20180823092225_❖-Geometric-Random-Variables_files/img_02.png)
+![image](20180823092225_❖-Geometric-Random-Variables_img_02.png)
 
 
 If it's asking for `Number of Trails`, then the number `Trails = failures + success = (n-1) + 1`.
@@ -36,20 +36,20 @@ If it's asking for `Number of failures`, then the number `Trails = Failures+1 = 
 
 Assume `p` is the probability of success on each trail, `n` is the number of trails or failures:
 - `Number of Trials` until the first success:
-![image](20180823092225_❖-Geometric-Random-Variables_files/img_03.png)
+![image](20180823092225_❖-Geometric-Random-Variables_img_03.png)
 - `Number of Failures` until the first success:
-![image](20180823092225_❖-Geometric-Random-Variables_files/img_04.png)
+![image](20180823092225_❖-Geometric-Random-Variables_img_04.png)
 
 
 ### Example
-![image](20180823092225_❖-Geometric-Random-Variables_files/img_05.png)
+![image](20180823092225_❖-Geometric-Random-Variables_img_05.png)
 Solve:
-![image](20180823092225_❖-Geometric-Random-Variables_files/img_06.png)
+![image](20180823092225_❖-Geometric-Random-Variables_img_06.png)
 
 
 ## 「Mean & Variance」 of Geometric Probability
 
-![image](20180823092225_❖-Geometric-Random-Variables_files/img_07.png)
+![image](20180823092225_❖-Geometric-Random-Variables_img_07.png)
 
 
 
@@ -57,7 +57,7 @@ Solve:
 
 We know how to calculate Geometric Probability at each value, but `Cumulative G.P.` would be bit tricky.
 
-![image](20180823092225_❖-Geometric-Random-Variables_files/img_08.png)
+![image](20180823092225_❖-Geometric-Random-Variables_img_08.png)
 
 **The formula literally means: FAIL a TIMES IN A ROW.**
 
@@ -70,7 +70,7 @@ etc.,
 
 
 ### Example
-![image](20180823092225_❖-Geometric-Random-Variables_files/img_09.png)
+![image](20180823092225_❖-Geometric-Random-Variables_img_09.png)
 Solve:
 - The easiest way is to apply the cumulative geometric probability formula:
 - `P(X<5) = 1 - P(X>4) = 1 - Failure⁴ = 1-0.9^4 = 0.34`
@@ -83,15 +83,15 @@ Solve:
 
 
 ### Example
-![image](20180823092225_❖-Geometric-Random-Variables_files/img_10.png)
+![image](20180823092225_❖-Geometric-Random-Variables_img_10.png)
 Solve:
 - It's the same as "the probability of 5 failures in a row."
-![image](20180823092225_❖-Geometric-Random-Variables_files/img_11.png)
+![image](20180823092225_❖-Geometric-Random-Variables_img_11.png)
 
 
 ### Example
-![image](20180823092225_❖-Geometric-Random-Variables_files/img_12.png)
+![image](20180823092225_❖-Geometric-Random-Variables_img_12.png)
 Solve:
-![image](20180823092225_❖-Geometric-Random-Variables_files/img_13.png)
+![image](20180823092225_❖-Geometric-Random-Variables_img_13.png)
 
 

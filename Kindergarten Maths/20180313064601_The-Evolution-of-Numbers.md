@@ -1,7 +1,7 @@
 # `The Evolution of Numbers`
 [refer to maths is fun.](http://www.mathsisfun.com/numbers/evolution-of-numbers.html)
 
-![image](20180313064601_The-Evolution-of-Numbers_files/img_01.png)
+![image](20180313064601_The-Evolution-of-Numbers_img_01.png)
 
 ## `Classification of numbers`
 
@@ -11,5 +11,5 @@ It's easy to classify most of the times, just to notice that:
 - `Whole number` means `positive integers and zero`.
 - `Rational number` must be able to represent as **a fraction of two numbers**.
 
-![image](20180313064601_The-Evolution-of-Numbers_files/img_02.png)
+![image](20180313064601_The-Evolution-of-Numbers_img_02.png)
 

@@ -7,27 +7,27 @@
 ## 「Size」 of Matrix multiplication
 
 Unlike `Vector multiplication` gives you only a number, `Matrix multiplication` gives you another `Matrix`, but a **SHRINK-SIZED** Matrix.
-![image](20180420144232_❖-Matrix-Transformation_files/img_01.png)
+![image](20180420144232_❖-Matrix-Transformation_img_01.png)
 
 In General:
 To multiply an `m×n matrix` by an `n×p matrix`, the `n`s must be the same, 
 and the **RESULT** is an `m×p matrix`.
-![image](20180420144232_❖-Matrix-Transformation_files/img_02.png)
+![image](20180420144232_❖-Matrix-Transformation_img_02.png)
 
 ### Example: 「3x2 Matrix」 with 「2x2 Matrix」
-![image](20180420144232_❖-Matrix-Transformation_files/img_03.png)
+![image](20180420144232_❖-Matrix-Transformation_img_03.png)
 Solve:
 - First we know it's a 3x2 Matrix multiply a 2x2 Matrix, it's valid, and the new Matrix's size would be 3x2.
 - And then we multiply each by each according to their **dimension**:
-![image](20180420144232_❖-Matrix-Transformation_files/img_04.png)
+![image](20180420144232_❖-Matrix-Transformation_img_04.png)
 - We get the answer:
-![image](20180420144232_❖-Matrix-Transformation_files/img_05.png)
+![image](20180420144232_❖-Matrix-Transformation_img_05.png)
 
 ### Example: 2x2 Matrix with 2x3 Matrix
-![image](20180420144232_❖-Matrix-Transformation_files/img_06.png)
+![image](20180420144232_❖-Matrix-Transformation_img_06.png)
 Solve:
 - It's will get a 2x3 new Matrix (just for intuition), then we get the answer:
-![image](20180420144232_❖-Matrix-Transformation_files/img_07.png)
+![image](20180420144232_❖-Matrix-Transformation_img_07.png)
 
 
 
@@ -45,25 +45,25 @@ Refer to [Symbolab the Online math solver](https://www.symbolab.com/solver/matri
 
 ## 「Rotation」 of Shapes
 
-![image](20180420144232_❖-Matrix-Transformation_files/img_08.png)
+![image](20180420144232_❖-Matrix-Transformation_img_08.png)
 
 [`▶ Use the tool: Desmos Matrix Calculator`](https://www.desmos.com/matrix)
 
 ### Example: Transform Graphs
-![image](20180420144232_❖-Matrix-Transformation_files/img_09.png)
-![image](20180420144232_❖-Matrix-Transformation_files/img_10.png)
+![image](20180420144232_❖-Matrix-Transformation_img_09.png)
+![image](20180420144232_❖-Matrix-Transformation_img_10.png)
 Solve:
 - Just to list all points of this graph:
 `(-4,8), (-8,-4), (-4,-4), (0,4)`
 - Arrange points to a Matrix:
-![image](20180420144232_❖-Matrix-Transformation_files/img_11.png)
+![image](20180420144232_❖-Matrix-Transformation_img_11.png)
 - Apply the Matrix R to the Graph's matrix. Do the math.
 
 
 ### 「Reflection」 of Shapes
 
-![image](20180420144232_❖-Matrix-Transformation_files/img_12.png)
-![image](20180420144232_❖-Matrix-Transformation_files/img_13.png)
+![image](20180420144232_❖-Matrix-Transformation_img_12.png)
+![image](20180420144232_❖-Matrix-Transformation_img_13.png)
 
 
 

@@ -4,7 +4,7 @@
 
 [Refer to Khan academy: Existence theorems intro](https://www.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/modal/v/existence-theorems)
 
-![image](20180522110508_❖-Existence-Theorems-IVT-EVT-MVT_files/img_01.png)
+![image](20180522110508_❖-Existence-Theorems-IVT-EVT-MVT_img_01.png)
 
 ## 「Intermediate Value Theorem」 (IVT)
 
@@ -13,7 +13,7 @@ The IVT is saying:
 one point **below** the line, the other point **above** the line,
 then there will be at least one place where the curve crosses the line!
 
-![image](20180522110508_❖-Existence-Theorems-IVT-EVT-MVT_files/img_02.png)
+![image](20180522110508_❖-Existence-Theorems-IVT-EVT-MVT_img_02.png)
 
 [Refer to Maths if fun: Intermediate Value Theorem](https://www.mathsisfun.com/algebra/intermediate-value-theorem.html)
 [Refer to video: Intermediate Value Theorem Explained](https://www.youtube.com/watch?v=9wEHwFrUyOU)
@@ -37,7 +37,7 @@ The EVT is saying:
 > There **MUST BE** a **`Max & Min`** value,
 if the function is continuous over the closed interval.
 
-![image](20180522110508_❖-Existence-Theorems-IVT-EVT-MVT_files/img_03.png)
+![image](20180522110508_❖-Existence-Theorems-IVT-EVT-MVT_img_03.png)
 
 [Refer to Khan lecture: Extreme value theorem](https://www.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/modal/v/extreme-value-theorem)
 [Refer to video: Extreme Value Theorem](https://www.youtube.com/watch?v=Sx2lPZlnWfs)
@@ -52,16 +52,16 @@ if the function is **CONTINUOUS** over `[a,b]` and **DIFFERENTIABLE** over `(a,b
 
 Which also means that, if the conditions are satisfied, then there **MUST BE** a number `c` makes the **derivative** is equal to the **`Average Rate of Change`** between the two end points.
 
-![Equation](20180522110508_❖-Existence-Theorems-IVT-EVT-MVT_files/img_04.png)
+![Equation](20180522110508_❖-Existence-Theorems-IVT-EVT-MVT_img_04.png)
 
 Conditions for applying MVT:
 - Continuous over interval `(a, b)`
 - Differentiable over interval `[a, b]`
 
-![Graph](20180522110508_❖-Existence-Theorems-IVT-EVT-MVT_files/img_05.png)
+![Graph](20180522110508_❖-Existence-Theorems-IVT-EVT-MVT_img_05.png)
 
 
 ### Example
-![image](20180522110508_❖-Existence-Theorems-IVT-EVT-MVT_files/img_06.png)
+![image](20180522110508_❖-Existence-Theorems-IVT-EVT-MVT_img_06.png)
 Solve:
 - He's totally right.

@@ -36,7 +36,7 @@ gem install jekyll bundler
 $ jekyll new test_blog
 ```
 目录里面内容如下：
-![image](20180617071837_❖-Jekyll-动态地建立静态博客网站-Get-Started_files/img_01.png)
+![image](20180617071837_❖-Jekyll-动态地建立静态博客网站-Get-Started_img_01.png)
 这里面是完整的一个网站，可以直接运行浏览。
 然后你就可以根据自己的主页、其它网页什么的，在这个基础上修改了。
 
@@ -78,7 +78,7 @@ $ jekyll server --watch
 运行渲染的命令后，jekyll就会把你的Markdown根据指定的模板渲染为静态网站，
 同时还会把网站映射到本机的一个端口，你可以打开命令行里提示的url链接察看网站效果。
 
-![image](20180617071837_❖-Jekyll-动态地建立静态博客网站-Get-Started_files/img_02.png)
+![image](20180617071837_❖-Jekyll-动态地建立静态博客网站-Get-Started_img_02.png)
 
 
 ## 允许公网访问
@@ -92,7 +92,7 @@ $ jekyll serve --force_polling -H 0.0.0.0 -P 4000
 ```
 
 然后就会显示如下：
-![image](20180617071837_❖-Jekyll-动态地建立静态博客网站-Get-Started_files/img_03.png)
+![image](20180617071837_❖-Jekyll-动态地建立静态博客网站-Get-Started_img_03.png)
 
 也就是说公网运行jekyll的话，程序就转到后台了，需要退出的话需要手动关闭进程。
 
@@ -123,7 +123,7 @@ $ jekyll serve --force_polling -H 0.0.0.0 -P 4000
 
 ### `Front-Matter 文件头信息`
 文件头信息在这里被叫做`front-matter`,或`yml-header`，它是写在每个Markdown文件头部的设置信息。主要是指明这篇文章标题、日期、使用的模板、样式、标签、分类等，这样Jekyll就可以根据这些设置把markdown文件转换成你想要的最终HTML网页了。
-![image](20180617071837_❖-Jekyll-动态地建立静态博客网站-Get-Started_files/img_04.png)
+![image](20180617071837_❖-Jekyll-动态地建立静态博客网站-Get-Started_img_04.png)
 
 
 头信息的常用参数如下：

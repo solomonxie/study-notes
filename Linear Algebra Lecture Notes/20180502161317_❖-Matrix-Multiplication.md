@@ -15,16 +15,16 @@ e.g., in the `Product Matrix`, C₁₁ represents `Row-1 of A multiplies Column-
 C₂₁ represents `Row-2 of A multiplies Column-1 of B`.
 So on and so forth, write down all the **entries** of the product entries, and then use `dot product` to calculate each one. 
 
-![image](20180502161317_❖-Matrix-Multiplication_files/img_01.png)
+![image](20180502161317_❖-Matrix-Multiplication_img_01.png)
 
 ## 「Properties」 of matrix multiplication
 
 [Refer to Khan academy article.](https://www.khanacademy.org/math/algebra-home/alg-matrices/modal/a/properties-of-matrix-multiplication)
 
-![image](20180502161317_❖-Matrix-Multiplication_files/img_02.png)
+![image](20180502161317_❖-Matrix-Multiplication_img_02.png)
 
 ## 「Einstein summation」 convention
 
 [Refer to Wiki: Einstein notation](https://en.wikipedia.org/wiki/Einstein_notation)
-![image](20180502161317_❖-Matrix-Multiplication_files/img_03.png)
+![image](20180502161317_❖-Matrix-Multiplication_img_03.png)
 

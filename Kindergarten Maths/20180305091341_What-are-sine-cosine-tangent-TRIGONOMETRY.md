@@ -10,7 +10,7 @@ The angle we pick out, is called `Θ`, theta. In `vector` related problems, it's
 The side opposite to that angle is called `Opposite`.
 The side next to the angle is called `Adjacent`, "A-Jason-t".
 The side is long is called `Hypotenuse`, "High-po-ten-news`.
-![image](20180305091341_What-are-sine-cosine-tangent-TRIGONOMETRY_files/img_01.png)
+![image](20180305091341_What-are-sine-cosine-tangent-TRIGONOMETRY_img_01.png)
 
 
 ## How to calculate sine, cosine and tangent of an angle 
@@ -19,7 +19,7 @@ REMEMBER SHORTCUT: `SOH-CAH-TOA`, pronounced "so-kah-tow-ah".
 - `C`on = `A`djacent / `H`ypotenuse
 - `T`an = `O`pposite / `A`djacent
 
-![image](20180305091341_What-are-sine-cosine-tangent-TRIGONOMETRY_files/img_02.png)
+![image](20180305091341_What-are-sine-cosine-tangent-TRIGONOMETRY_img_02.png)
 
 
 ## How to calculate the ratio of an angle?

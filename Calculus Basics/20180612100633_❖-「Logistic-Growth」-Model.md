@@ -17,7 +17,7 @@ Let's let `P(t)` as the population's size in term of time `t`, and `dP/dt` repre
 ### 「Malthus'」 Exponential growth theory of population
 
 Mr. Malthus first introduced the exponential growth theory for the population by using a fairly simple equation:
-![image](20180612100633_❖-「Logistic-Growth」-Model_files/img_01.png)
+![image](20180612100633_❖-「Logistic-Growth」-Model_img_01.png)
 Where `P` is the "Population Size", `t` is the "Time", `r` is the "Growth Rate".
 
 ### 「Verhulst's」 Logistic growth theory of population
@@ -27,7 +27,7 @@ And combining the `exponential growth` with a `limit`, it's then called the **`L
 
 And the logistic growth got its equation:
 
-![image](20180612100633_❖-「Logistic-Growth」-Model_files/img_02.png)
+![image](20180612100633_❖-「Logistic-Growth」-Model_img_02.png)
 Where `P` is the "Population Size" (N is often used instead), `t` is "Time", `r` is the "Growth Rate", `K` is the **"Carrying Capacity"**.
 And the **`(1 - P/K)`** determines how close is the Population Size to the Limit `K`, which means as the population gets closer and closer to the limit, the growth gets slower and slower.
 
@@ -37,7 +37,7 @@ And the **`(1 - P/K)`** determines how close is the Population Size to the Limit
 
 Carrying Capacity means the "celling", the "limit", the "asymptote".
 
-![image](20180612100633_❖-「Logistic-Growth」-Model_files/img_03.png)
+![image](20180612100633_❖-「Logistic-Growth」-Model_img_03.png)
 
 
 ### Get the 「Original Population Function」 P(t)
@@ -45,11 +45,11 @@ Carrying Capacity means the "celling", the "limit", the "asymptote".
 > It's gonna use the method `Separable Equations`, which introduced the `initial condition` as `P₀` in this case.
 
 We could directly solve the Logistic Equation as solving differential equation to get the `antiderivative`:
-![image](20180612100633_❖-「Logistic-Growth」-Model_files/img_04.png)
+![image](20180612100633_❖-「Logistic-Growth」-Model_img_04.png)
 
 But we still have a constant `C` in the `antiderivative`, which required us to introduce an `Initial Condition` to get rid of `C` and get the specific function:
 
-![image](20180612100633_❖-「Logistic-Growth」-Model_files/img_05.png)
+![image](20180612100633_❖-「Logistic-Growth」-Model_img_05.png)
 
 
 
@@ -58,16 +58,16 @@ But we still have a constant `C` in the `antiderivative`, which required us to i
 
 
 ### Example
-![image](20180612100633_❖-「Logistic-Growth」-Model_files/img_06.png)
+![image](20180612100633_❖-「Logistic-Growth」-Model_img_06.png)
 Solve:
 - We know the Logistic Equation is `dP/dt = r·P(1-P/K)`.
 - So twist the given derivative to the logistic form: `dy/dt = 10·y(1-y/600)`.
 - Then we could see the `K = 600`, which is the limit, the Carrying capacity.
-![image](20180612100633_❖-「Logistic-Growth」-Model_files/img_07.png)
+![image](20180612100633_❖-「Logistic-Growth」-Model_img_07.png)
 
 
 ### Example
-![image](20180612100633_❖-「Logistic-Growth」-Model_files/img_08.png)
+![image](20180612100633_❖-「Logistic-Growth」-Model_img_08.png)
 Solve:
 - It's asking "growing fastest", means the Max value of Sale's function `S(c)`.
 - For the max value of function, we let `S'(c) = dS/dc = 0`

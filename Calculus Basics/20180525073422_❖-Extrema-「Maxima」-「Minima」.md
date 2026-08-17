@@ -8,7 +8,7 @@ And actually we can call them in different ways, e.g.:
 - `Global Max` & `Local Max` or in short of `glo max` & `loc max`
 - `Absolute Max` & `Relative Max` or in short of`abs max` & `rel max`
 
-![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_files/img_01.png)
+![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_img_01.png)
 
 ### How to identify 「Extrema」
 
@@ -53,13 +53,13 @@ Strategy:
     - If `f'(x) < 0` then the trending of this interval is **Decreasing**.
 
 ### Example
-![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_files/img_02.png)
+![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_img_02.png)
 Solve:
 - Set `f'(x) = 0 or undefined`, get `x = -2 or -1/3`
 - Separate intervals to `(-∞, -2, -1/3, ∞)`
-![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_files/img_03.png)
+![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_img_03.png)
 - Try some easy numbers in each interval: `-3, -1, 0`:
-![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_files/img_04.png)
+![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_img_04.png)
 
 ## How to find 「Relative Extrema」
 
@@ -68,7 +68,7 @@ Solve:
 [Refer to khan: Worked example: finding relative extrema](https://www.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/modal/v/finding-relative-maximum-example)
 [Refer to Khan Academy article: Finding relative extrema](https://www.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/modal/a/applying-the-first-derivative-test-to-find-extrema)
 
-![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_files/img_05.png)
+![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_img_05.png)
 
 Strategy:
 - Get Critical points.
@@ -78,19 +78,19 @@ Strategy:
 
 [Refer to an awesome article: Using calculus to learn more about the shapes of functions](http://xaktly.com/CurveSketching.html)
 
-![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_files/img_06.png)
+![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_img_06.png)
 
 
 ### Example
-![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_files/img_07.png)
+![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_img_07.png)
 Solve:
 - Set `f'(x)=0 or undefined`, get `x=0 or -2 or 1`
 - Separate intervals to `(-∞, -2, 0, 1, ∞)`
-![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_files/img_08.png)
+![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_img_08.png)
 - Try easy number in each interval: `-3, -1, 0.5, 2` and get the trendings:
-![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_files/img_09.png)
+![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_img_09.png)
 - Identify critical points' **concavity**:
-![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_files/img_10.png)
+![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_img_10.png)
 
 ## How to find 「Absolute Extrema」
 
@@ -106,7 +106,7 @@ Strategy:
 - Input all the extreme point into original function `f(x)` and get extreme value.
 
 ### Example
-![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_files/img_11.png)
+![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_img_11.png)
 Solve:
 - Set `g'(x) = 0 or undefined` get `x=0`
 - Separate intervals to `[-2, 0, 3]` according to the critical point & endpoints of the given condition.
@@ -116,7 +116,7 @@ Solve:
 
 
 ### Example
-![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_files/img_12.png)
+![image](20180525073422_❖-Extrema-「Maxima」-「Minima」_img_12.png)
 Solve:
 - Differentiate to set `f'(x)=0` and got `x=0, -1, 1`
 - Separate intervals to `(-∞, -1, 0, 1, +∞)`

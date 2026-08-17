@@ -4,5 +4,5 @@
 
 We often hear that `ones place`, `tenth place`, `hundreds place` or more. Here is the graph helps easily to understand.
 
-![image](20180803075243_Positional-number_files/img_01.png)
+![image](20180803075243_Positional-number_img_01.png)
 

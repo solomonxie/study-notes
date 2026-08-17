@@ -4,9 +4,9 @@
 
 ## 「OS」Choices
 - Linux (Only newest):
-![image](20180907123242_❖-「AWS-Lightsails」-Server-Overview_files/img_01.png)
+![image](20180907123242_❖-「AWS-Lightsails」-Server-Overview_img_01.png)
 - Windows:
-![image](20180907123242_❖-「AWS-Lightsails」-Server-Overview_files/img_02.png)
+![image](20180907123242_❖-「AWS-Lightsails」-Server-Overview_img_02.png)
 
 
 ## 「REGIONS」
@@ -17,14 +17,14 @@
 - Snapshot CAN'T be used to create another server in DIFFERENT **region**
 - `Static IP` can be only applied to SAME **region**.
 
-![image](20180907123242_❖-「AWS-Lightsails」-Server-Overview_files/img_03.png)
+![image](20180907123242_❖-「AWS-Lightsails」-Server-Overview_img_03.png)
 
 
 ## 「PRICING」
 - Linux
-![image](20180907123242_❖-「AWS-Lightsails」-Server-Overview_files/img_04.png)
+![image](20180907123242_❖-「AWS-Lightsails」-Server-Overview_img_04.png)
 - Windows
-![image](20180907123242_❖-「AWS-Lightsails」-Server-Overview_files/img_05.png)
+![image](20180907123242_❖-「AWS-Lightsails」-Server-Overview_img_05.png)
 
 Linux: $3.5 USD/mo (Lowest)
 Windows: $8.0 USD/mo (Lowest)
@@ -52,7 +52,7 @@ You can both create a `Snapshot` from an instance, or create an instance from a 
 $0.10 USD/GB-mo.
 $2.00 USD/20GB-mo.
 
-![image](20180907123242_❖-「AWS-Lightsails」-Server-Overview_files/img_06.png)
+![image](20180907123242_❖-「AWS-Lightsails」-Server-Overview_img_06.png)
 
 **Scalable**
 > Scale up or down within minutes with disks of up to 49TB– and attach up to 15 disks per instance.

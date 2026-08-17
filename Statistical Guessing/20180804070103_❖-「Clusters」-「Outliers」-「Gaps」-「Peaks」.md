@@ -9,7 +9,7 @@
 - Gaps: The ''large'' open space between some data points.
  
 
-![image](20180804070103_❖-「Clusters」-「Outliers」-「Gaps」-「Peaks」_files/img_01.png)
+![image](20180804070103_❖-「Clusters」-「Outliers」-「Gaps」-「Peaks」_img_01.png)
 
-![image](20180804070103_❖-「Clusters」-「Outliers」-「Gaps」-「Peaks」_files/img_02.png)
+![image](20180804070103_❖-「Clusters」-「Outliers」-「Gaps」-「Peaks」_img_02.png)
 

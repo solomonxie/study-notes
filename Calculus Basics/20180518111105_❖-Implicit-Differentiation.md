@@ -2,7 +2,7 @@
 
 > Bit hard to understand it in the first place.
 
-![image](20180518111105_❖-Implicit-Differentiation_files/img_01.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_01.png)
 
 
 ## What is 「Implicit」 & 「Explicit Function」
@@ -28,37 +28,37 @@ Assume you are to differentiate `Y` **WITH RESPECT** to `X`, written as `dy/dx`:
 
 ### How to differentiate 「Y with respect to X」
 
-![image](20180518111105_❖-Implicit-Differentiation_files/img_02.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_02.png)
 
 ### How to differentiate 「term MIXED with both X & Y」
 
-![image](20180518111105_❖-Implicit-Differentiation_files/img_03.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_03.png)
 
 
 ### Example
-![image](20180518111105_❖-Implicit-Differentiation_files/img_04.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_04.png)
 Solve:
 [Refer to Symbolab: Implicit Derivative Calculator](https://www.symbolab.com/solver/implicit-derivative-calculator/implicit%20derivative%20%5Cfrac%7Bdy%7D%7Bdx%7D%2C%20x%5E%7B2%7D%2Bxy%2By%5E%7B3%7D%3D0)
 
 - Treat `y` as `y(x)`
 - Apply the Sum Rule:
-![image](20180518111105_❖-Implicit-Differentiation_files/img_05.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_05.png)
 - Apply the normal rules to `X term`, and
 - Apply the Product Rule to the `Mixed term`, and
 - Apply the Chain Rule to the `Y term`:
-![image](20180518111105_❖-Implicit-Differentiation_files/img_06.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_06.png)
 - Operate the equation and **solve for `dy/dx`**, and get:
-![image](20180518111105_❖-Implicit-Differentiation_files/img_07.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_07.png)
 
 
 ### Example
-![image](20180518111105_❖-Implicit-Differentiation_files/img_08.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_08.png)
 Solve:
 - First thing we need to find the **RIGHT** equation of Chain rule. Since it's asking us to find `dy/dt`, so we will re-write it to this one to form an equation:
-![image](20180518111105_❖-Implicit-Differentiation_files/img_09.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_09.png)
 - Then since we've given the `dx/dt = -3`, we only need to find out the `dy/dx` to get the result.
 - We've got an equation of `x & y`, regardless whom it's respecting to. So we can do either `Implicit or Explicit differentiation` to the equation `y²=7x+1`, with respect to `y`:
-![image](20180518111105_❖-Implicit-Differentiation_files/img_10.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_10.png)
 - Use the implicit differentiation method, we got the `dy/dx = 7/2y`
 - And since `y=6`, so `7/2y = 7/12`
 - Back to the Chain Rule equation, we get `dy/dt = 7/12 · (-3) = -7/4 = -1.75`
@@ -66,29 +66,29 @@ Solve:
 
 
 ### Example
-![image](20180518111105_❖-Implicit-Differentiation_files/img_11.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_11.png)
 Solve:
 - Remind you that, in this problem, it's **NOT** respecting to `x` anymore, so you need to change mind before getting confused.
 - First thing we need to find the **RIGHT** equation of Chain rule. Since it's asking us to find `dx/dt`, so we will re-write it to this one to form an equation:
-![image](20180518111105_❖-Implicit-Differentiation_files/img_12.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_12.png)
 - Then since we've given the `dy/dt = -0.5`, we only need to find out the `dx/dy` to get the result.
 - We've got an equation of `x & y`, regardless whom it's respecting to. It seems easier to **differentiate** explicitly:
-![image](20180518111105_❖-Implicit-Differentiation_files/img_13.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_13.png)
 - Then we use `d/dx` to differentiate the equation to get: `dx/dy = y⁻² = (0.2)⁻² = 25`
 - Back to the Chain Rule equation, we get `dx/dt = dx/dy · dy/dt = 25 * (-0.5) = -12.5`.
 
 ### Example
-![image](20180518111105_❖-Implicit-Differentiation_files/img_14.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_14.png)
 Solve (Same with above examples):
 - Form an equation: 
-![image](20180518111105_❖-Implicit-Differentiation_files/img_15.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_15.png)
 - `dx/dt` has been given equals to `5`, so just to find out `dy/dx`:
-![image](20180518111105_❖-Implicit-Differentiation_files/img_16.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_16.png)
 - And get:
-![image](20180518111105_❖-Implicit-Differentiation_files/img_17.png)
-![image](20180518111105_❖-Implicit-Differentiation_files/img_18.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_17.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_18.png)
 - Now let's see what is `sin(x)` equal to:
-![image](20180518111105_❖-Implicit-Differentiation_files/img_19.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_19.png)
 - All done.
 
 
@@ -98,16 +98,16 @@ Solve (Same with above examples):
 [`► Jump over to Khan academy for practice.`](https://www.khanacademy.org/math/ap-calculus-bc?t=practice)
 
 ### Example
-![image](20180518111105_❖-Implicit-Differentiation_files/img_20.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_20.png)
 Solve:
 - Plug in `y = 0` into the equation and get that `x = -6`, which is the answer.
 
 ### Example
-![image](20180518111105_❖-Implicit-Differentiation_files/img_21.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_21.png)
 Solve:
 - To have a `Vertical Tangent`, we have to let the **derivative** become `Undefined`,
 - which in this case is to let the denominator equal to zero:
-![image](20180518111105_❖-Implicit-Differentiation_files/img_22.png)
+![image](20180518111105_❖-Implicit-Differentiation_img_22.png)
 - Solve this equation out we get that `x = 3y²`, which means this relationship is true at the point of vertical tangent line.
 - Plug that back to the original function to get `y = -1`, which means the vertical tangent goes through this point.
 - Substitute y back and get `x = 3`

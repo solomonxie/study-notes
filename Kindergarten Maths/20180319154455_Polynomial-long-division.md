@@ -24,11 +24,11 @@ There're a few main ideas act in the division process:
 
 A normal division: 
 
-![image](20180319154455_Polynomial-long-division_files/img_01.png)
+![image](20180319154455_Polynomial-long-division_img_01.png)
 
 We can also write this division as below, which replace `R` with `+`, makes it more intuitive:
 
-![image](20180319154455_Polynomial-long-division_files/img_02.png)
+![image](20180319154455_Polynomial-long-division_img_02.png)
 
 Same thing we can apply to the `polynomial division`, 
 Assume that there's a division: 
@@ -37,31 +37,31 @@ f(x) ÷ d(x) = q(x) with a remainder of r(x)
 ```
 and we can rewrite it to:
 
-![image](20180319154455_Polynomial-long-division_files/img_03.png)
+![image](20180319154455_Polynomial-long-division_img_03.png)
 
 
 
 Example: 
 We got two polynomials need to be divided one by another, and we could represent it as below:
 
-![image](20180319154455_Polynomial-long-division_files/img_04.png)
+![image](20180319154455_Polynomial-long-division_img_04.png)
 
 By multiplying `x²` to `(x-3)`, we could get `x³ − 3x²`, which could be use to `cancel out` it from the `numerator`, to `degrade` it. 
 
-![image](20180319154455_Polynomial-long-division_files/img_05.png)
+![image](20180319154455_Polynomial-long-division_img_05.png)
 
 After the first `degrading`, it gets a `lower degree polynomial`, 
 and the `left over` is still `higher` than the dominator, 
 so we can repeat the same process to do it again, 
 until the `left over` is `zero` or lower than the `dominator`.
 
-![image](20180319154455_Polynomial-long-division_files/img_06.png)
+![image](20180319154455_Polynomial-long-division_img_06.png)
 
 ### Example
-![image](20180319154455_Polynomial-long-division_files/img_07.png)
+![image](20180319154455_Polynomial-long-division_img_07.png)
 Solve:
-![image](20180319154455_Polynomial-long-division_files/img_08.png)
-![image](20180319154455_Polynomial-long-division_files/img_09.png)
+![image](20180319154455_Polynomial-long-division_img_08.png)
+![image](20180319154455_Polynomial-long-division_img_09.png)
 
 
 
@@ -76,10 +76,10 @@ Solve:
 ### Example
 [Practice.](https://www.khanacademy.org/math/algebra2/modal/e/remainder-theorem-of-polynomials)
 
-![image](20180319154455_Polynomial-long-division_files/img_10.png)
+![image](20180319154455_Polynomial-long-division_img_10.png)
 Solve:
-![image](20180319154455_Polynomial-long-division_files/img_11.png)
-![image](20180319154455_Polynomial-long-division_files/img_12.png)
+![image](20180319154455_Polynomial-long-division_img_11.png)
+![image](20180319154455_Polynomial-long-division_img_12.png)
 
 
 ## `The factor theorem`

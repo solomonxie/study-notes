@@ -11,9 +11,9 @@
 唯一让Chrome接受的方法就是，不光服务器使用证书，每台电脑、手机客户端也要**手动导入**相同的证书，才能形成`可信连接`。
 **不信任就是不信任，没什么方法绕过去！**
 
-![image](20181109094731_❖-自签名-SSL-证书（self-signed-SSL-certificate）_files/img_01.png)
+![image](20181109094731_❖-自签名-SSL-证书（self-signed-SSL-certificate）_img_01.png)
 
-![image](20181109094731_❖-自签名-SSL-证书（self-signed-SSL-certificate）_files/img_02.png)
+![image](20181109094731_❖-自签名-SSL-证书（self-signed-SSL-certificate）_img_02.png)
 
 
 在本机创建一个自签名（自己给自己签名）的SSL证书，都是用`openssl`命令。一般Mac/Ubuntu等都是默认装配的，安装的话也是类似`sudo apt-get install openssl`，很简单。

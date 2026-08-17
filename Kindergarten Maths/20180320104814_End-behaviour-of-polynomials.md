@@ -10,20 +10,20 @@ Just to ignore the middle part of each
 
 **`Even degrees polynomial`** be like:
 
-![image](20180320104814_End-behaviour-of-polynomials_files/img_01.png)
+![image](20180320104814_End-behaviour-of-polynomials_img_01.png)
 
 
 **`Odd degrees polynomial`** be like:
-![image](20180320104814_End-behaviour-of-polynomials_files/img_02.png)
+![image](20180320104814_End-behaviour-of-polynomials_img_02.png)
 
 
 Further move,
 the `negative even degrees polynomial` be like:
-![image](20180320104814_End-behaviour-of-polynomials_files/img_03.png)
+![image](20180320104814_End-behaviour-of-polynomials_img_03.png)
 
 
 the `negative odd degrees polynomial` be like:
-![image](20180320104814_End-behaviour-of-polynomials_files/img_04.png)
+![image](20180320104814_End-behaviour-of-polynomials_img_04.png)
 
 
 

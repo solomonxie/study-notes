@@ -15,11 +15,11 @@ It's the same with `determinant of linear transformation`.
 
 > A `diagonal matrix` is a matrix in which the entries outside the `main diagonal` are all zero.
 
-![image](20180508083825_❖-Eigen-stuffs-DRAFT_files/img_01.png)
+![image](20180508083825_❖-Eigen-stuffs-DRAFT_img_01.png)
 
 Imagine we are applying a Transformation matrix many many times, if we follow the basic Matrix Multiplication rule that will be a shit ton of calculations. But `Diagonal matrix` rule save us out.
 
-![image](20180508083825_❖-Eigen-stuffs-DRAFT_files/img_02.png)
+![image](20180508083825_❖-Eigen-stuffs-DRAFT_img_02.png)
 
 
 ## 「Eigenbasis」 & 「Diagonalization」
@@ -38,6 +38,6 @@ which means:
 
 The steps will be like:
 
-![image](20180508083825_❖-Eigen-stuffs-DRAFT_files/img_03.png)
+![image](20180508083825_❖-Eigen-stuffs-DRAFT_img_03.png)
 
 

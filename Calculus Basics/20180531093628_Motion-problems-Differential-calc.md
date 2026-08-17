@@ -14,7 +14,7 @@ These terms are constantly confusing people, especially the follow parts:
 [Jump over here for Khan academy's quizzes.](https://www.khanacademy.org/math/ap-calculus-ab/ab-applications-derivatives/modal/e/applications-of-derivatives--motion-along-a-line)
 
 ### Example
-![image](20180531093628_Motion-problems-Differential-calc_files/img_01.png)
+![image](20180531093628_Motion-problems-Differential-calc_img_01.png)
 Solve:
 - The tricky part here is the relationships: `Position -> Velocity -> Acceleration`
     - Position:  `p(t) = x(t)`
@@ -24,7 +24,7 @@ Solve:
 - Differentiate `x(t)` twice and set `x''(t) = 0`, get `t = 1`.
 
 ### Example
-![image](20180531093628_Motion-problems-Differential-calc_files/img_02.png)
+![image](20180531093628_Motion-problems-Differential-calc_img_02.png)
 Solve:
 - The velocity is `v(t) = x'(t)`
 - The Acceleration is `a(t) = v'(t) = x''(t) = 0`, and get `t=1`
@@ -33,7 +33,7 @@ Solve:
 
 
 ## Example
-![image](20180531093628_Motion-problems-Differential-calc_files/img_03.png)
+![image](20180531093628_Motion-problems-Differential-calc_img_03.png)
 
 [►Refer to the note: Related rates.](https://github.com/solomonxie/solomonxie.github.io/issues/49#issuecomment-390385455)
 

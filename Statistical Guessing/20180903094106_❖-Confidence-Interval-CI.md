@@ -11,7 +11,7 @@ which statistically is an **estimated RANGE of values** that seem reasonable, wh
 
 > We've learnt how to estimate an **exact** value for Population parameters. But the estimation can't be too good if it's exact. Hence _confidence interval_ gives a more reliable way to describe/guess the population.
 
-![image](20180903094106_❖-Confidence-Interval-CI_files/img_01.png)
+![image](20180903094106_❖-Confidence-Interval-CI_img_01.png)
 
 
 ## 「Inference」 & 「Inferential Statistics」
@@ -25,7 +25,7 @@ Inference means the **conclusions** we got from the _sample_ to describe the _po
 _Confidence Level_ is a **decision** we made, that how much precise we want the guessing to be.
 95% is the confidence level people often use.
 
-![image](20180903094106_❖-Confidence-Interval-CI_files/img_02.png)
+![image](20180903094106_❖-Confidence-Interval-CI_img_02.png)
 
 
 Width of Confidence Interval:
@@ -67,16 +67,16 @@ Since the sample will NEVER BE PERFECT to represent the true population, so ther
 We made up a decision of _confidence level_ we want it to be, 
 and we set the **Sample Mean** as the CENTRE of the range, which slice the interval to half:
 
-![image](20180903094106_❖-Confidence-Interval-CI_files/img_03.png)
+![image](20180903094106_❖-Confidence-Interval-CI_img_03.png)
 
-![image](20180903094106_❖-Confidence-Interval-CI_files/img_04.png)
+![image](20180903094106_❖-Confidence-Interval-CI_img_04.png)
 
 
 
 The confidence limits (min/max) is given by this formula, 
 which uses the `Margin of Error`:
 
-![image](20180903094106_❖-Confidence-Interval-CI_files/img_05.png)
+![image](20180903094106_❖-Confidence-Interval-CI_img_05.png)
 x = mean of the sample
 z = z-score representing the size of the confidence interval you have set, measured in units of standard deviations from the mean
 s = standard deviation of the sample
@@ -85,12 +85,12 @@ n = number of entries in the sample
 
 ## Formula for both 「Z-interval」 & 「T-interval」
 
-![image](20180903094106_❖-Confidence-Interval-CI_files/img_06.png)
+![image](20180903094106_❖-Confidence-Interval-CI_img_06.png)
 
 
 ### What 「z-score」 should you use?
 
-![image](20180903094106_❖-Confidence-Interval-CI_files/img_07.png)
+![image](20180903094106_❖-Confidence-Interval-CI_img_07.png)
 
 
 Confidence | Z

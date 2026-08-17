@@ -12,7 +12,7 @@ Let's make it more intuitive (might not be accurate but good for learning):
 And, just for refreshing:
 - **`Anti-derivatives`**: Means the **Original function** where the derivative is from.
 - **`Indefinite integrals`**: **Indefinite**  means `not-defined`,  means both **BOUNDARIES** are not defined. That's why the **symbol** is without any number but `ʃ` alone.
-![image](20180604081218_❖-「Indefinite-integrals」-=-「Antiderivatives」_files/img_01.png)
+![image](20180604081218_❖-「Indefinite-integrals」-=-「Antiderivatives」_img_01.png)
 
 ## Why is the 「Indefinite Integral」 so confusing
 
@@ -24,7 +24,7 @@ And the **mission** of that integral, is to find the `f(x)` the original functio
 
 So trust me, the world would be much nicer if you always see it as the expression as below:
 
-![image](20180604081218_❖-「Indefinite-integrals」-=-「Antiderivatives」_files/img_02.png)
+![image](20180604081218_❖-「Indefinite-integrals」-=-「Antiderivatives」_img_02.png)
 
 
 ## Why is 「Antiderivative」 so confusing too
@@ -45,7 +45,7 @@ It may not be accurate, but good enough to proceed to next stage of study.
 
 Here are a few examples to quick review what is antiderivative:
 
-![image](20180604081218_❖-「Indefinite-integrals」-=-「Antiderivatives」_files/img_03.png)
+![image](20180604081218_❖-「Indefinite-integrals」-=-「Antiderivatives」_img_03.png)
 
 ## How to understand this 「reverse process」
 
@@ -53,11 +53,11 @@ Doing an `Integration`, is actually to find the `antiderivative`.
 
 At the example below, you will find it makes so much sense if you **FIX YOUR EYES** only onto the **MIDDLE** part of the integration formula, the part between `ʃ` & `d/dx`.
 
-![image](20180604081218_❖-「Indefinite-integrals」-=-「Antiderivatives」_files/img_04.png)
+![image](20180604081218_❖-「Indefinite-integrals」-=-「Antiderivatives」_img_04.png)
 
 
 ### Example
-![image](20180604081218_❖-「Indefinite-integrals」-=-「Antiderivatives」_files/img_05.png)
+![image](20180604081218_❖-「Indefinite-integrals」-=-「Antiderivatives」_img_05.png)
 Solve:
 - First need to clear your mind, in this case:
     - The antiderivative is the "original function" `f(x)` we have learned.
@@ -65,7 +65,7 @@ Solve:
 - Just think it as matching function and its derivative, everything will be tackled real quick.
 
 ### Example
-![image](20180604081218_❖-「Indefinite-integrals」-=-「Antiderivatives」_files/img_06.png)
+![image](20180604081218_❖-「Indefinite-integrals」-=-「Antiderivatives」_img_06.png)
 Solve:
 - First need to make sense of the terms:
     - The function appears in the `Integral` expression, is actually the `derivative`

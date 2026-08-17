@@ -1,6 +1,6 @@
 # `Set` (Data structure)
 
-![image](20181120054340_Set-Data-structure_files/img_01.png)
+![image](20181120054340_Set-Data-structure_img_01.png)
 
 
 ## ADT DEFINITION

@@ -54,7 +54,7 @@ $ curl http://httpbin.org/ip
 - 如果用浏览器或系统连接，那么protocol也应该设置为`socks5`而不是http
 - 如果想用http连接代理，那么应该用第三方软件去转发
 
-![image](20200209090521_利用Haproxy实现Shadowsocks负载均衡-DRAFT_files/img_01.png)
+![image](20200209090521_利用Haproxy实现Shadowsocks负载均衡-DRAFT_img_01.png)
 
 
 ### sslocal 报错：libsodium not found
@@ -162,10 +162,10 @@ $ haproxy -f /etc/haproxy/haproxy.cfg -d -V
 
 然后根据问题各种改配置就好了，比如端口被占用，就换端口，用户名不对，就改用户名等等。
 
-![image](20200209090521_利用Haproxy实现Shadowsocks负载均衡-DRAFT_files/img_02.png)
+![image](20200209090521_利用Haproxy实现Shadowsocks负载均衡-DRAFT_img_02.png)
 
 Haproxy正常启动后，就会产生一个主页显示统计信息，可以从局域网访问`本地IP地址:1111/status`：
-![image](20200209090521_利用Haproxy实现Shadowsocks负载均衡-DRAFT_files/img_03.png)
+![image](20200209090521_利用Haproxy实现Shadowsocks负载均衡-DRAFT_img_03.png)
 
 （端口号和登录页面的用户名密码都是刚刚在配置文件里面配置的）
 

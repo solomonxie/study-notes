@@ -4,7 +4,7 @@ Means the `Dimension of output of a transformation`.
 
 [Refer to 3Blue1Brown: Inverse matrices, column space and null space](https://youtu.be/uQhTuRlWMxw?t=8m)
 
-![image](20180420144303_Rank-of-Transformation_files/img_01.png)
+![image](20180420144303_Rank-of-Transformation_img_01.png)
 
 After doing a transformation to a graph, it is:
 - Rank 1: if the output of the graph is 1-Dimensional, which is a line.

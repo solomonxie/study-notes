@@ -16,7 +16,7 @@ Depends on the case we're analyzing, we can choose either way to calculate expec
 **All the Relative Frequencies add up to 1.**
 
 
-![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_files/img_01.png)
+![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_img_01.png)
 
 ## 「Absolute Frequency」
 
@@ -38,29 +38,29 @@ etc., the total outcomes of "flipping a coin 5 times" is `2⁵ = 32`.
 [`▶︎ Practice at Khan academy: Expected value with calculated probabilities`](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/modal/e/expected-value-with-calculated-probabilities)
 
 ### Example
-![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_files/img_02.png)
+![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_img_02.png)
 Solve:
 - This is a typical `Flipping Coin problem`.
-![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_files/img_03.png)
+![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_img_03.png)
 
 
 ### Example
-![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_files/img_04.png)
+![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_img_04.png)
 Solve:
 - The most tricky part is how to calculate the probability of his each position.
-![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_files/img_05.png)
+![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_img_05.png)
 
 
 ### Example
-![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_files/img_06.png)
+![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_img_06.png)
 Solve:
-![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_files/img_07.png)
+![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_img_07.png)
 
 
 ### Example
-![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_files/img_08.png)
+![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_img_08.png)
 Solve:
-![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_files/img_09.png)
+![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_img_09.png)
 
 
 
@@ -72,15 +72,15 @@ Solve:
 
 
 ### Example
-![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_files/img_10.png)
+![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_img_10.png)
 Solve:
-![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_files/img_11.png)
+![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_img_11.png)
 
 
 
 ### Example
-![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_files/img_12.png)
+![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_img_12.png)
 Solve:
-![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_files/img_13.png)
+![image](20180821071454_❖-「Relative-Frequency」-for-Expected-Value_img_13.png)
 
 

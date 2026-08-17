@@ -6,7 +6,7 @@ Integral calculus is a process to calculate the **`AREA`** between a function an
 
 [Refer to Khan academy: Introduction to integral calculus](https://www.khanacademy.org/math/ap-calculus-bc/bc-accumulation-riemann-sums/modal/v/introduction-to-integral-calculus)
 
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_01.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_01.png)
 
 ## 「Riemann Sums」
 
@@ -17,7 +17,7 @@ A Riemann sum is an **approximation** of the area under a curve by dividing it i
 
 [Refer to Khan academy: Definite integral as the limit of a Riemann sum](https://www.khanacademy.org/math/ap-calculus-bc/bc-accumulation-riemann-sums/modal/v/riemann-sums-and-integrals)
 
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_02.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_02.png)
 
 The letter `ʃ` (reads as "esh" or just "integral") is called `the Integral symbol/sign`.
 
@@ -25,11 +25,11 @@ The letter `ʃ` (reads as "esh" or just "integral") is called `the Integral symb
 
 ### Calculate 「Riemann Sums」
 
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_03.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_03.png)
 
 Finding `𝚫x`:
 It's meant to get **HOW MANY** rectangles we're to sum.
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_04.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_04.png)
 
 Finding indices `m & n`:
 It's meant to find the `i` for `Σ` sums:
@@ -49,12 +49,12 @@ and make it as **a function in terms of i**.
 [Refer to Maths is fun: Integral Approximations](https://www.mathsisfun.com/calculus/integral-approximations.html)
 
 - `Left Riemann Sum`: take the **Left boundary value** of Δx to be the rectangle's **height**.
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_05.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_05.png)
 - `Right Riemann Sum`: take the **Right boundary value** of Δx to be the rectangle's **height**.
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_06.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_06.png)
 
 
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_07.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_07.png)
 
 As you can see, they would be either Over-estimated or Under-estimated. Neither of these approximations would be called a good one, normally.
 
@@ -62,20 +62,20 @@ As you can see, they would be either Over-estimated or Under-estimated. Neither 
 
 It's an enhancement to the Left sums and Right sums, it takes the midpoint value, and sometimes makes better approximation.
 
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_08.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_08.png)
 
 
 
 ### Example
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_09.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_09.png)
 Solve:
 
 
 
 ### Example
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_10.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_10.png)
 Solve:
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_11.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_11.png)
 
 - It's easy to find the `Δx=2`.
 - Then let's find the `f(x𝖎)`. It's actually a progress to find the `Arithmetic Sequence`.
@@ -84,15 +84,15 @@ Solve:
 - Takes it back to the function and gets: `f(x𝖎) = |2+2i-5| = |2i -3|`
 
 ### Example
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_12.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_12.png)
 Solve:
 
 
 ### Example
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_13.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_13.png)
 Solve:
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_14.png)
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_15.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_14.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_15.png)
 
 
 
@@ -100,9 +100,9 @@ Solve:
 
 [Refer to Khan academy:  Rewriting definite integral as limit of Riemann sum](https://www.khanacademy.org/math/ap-calculus-bc/bc-accumulation-riemann-sums/modal/v/rewriting-definite-integral-as-limit-of-riemann-sum)
 
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_16.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_16.png)
 
 
 [Refer to the Map of Integration: mrozarka.com](http://stem.mrozarka.com/calculus-1/units/unit-4)
-![image](20180602094003_❖-「Integral-Calculus」-basics_files/img_17.png)
+![image](20180602094003_❖-「Integral-Calculus」-basics_img_17.png)
 

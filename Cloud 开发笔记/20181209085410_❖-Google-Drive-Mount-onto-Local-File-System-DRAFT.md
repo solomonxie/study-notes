@@ -12,7 +12,7 @@ Google提供了官方版本的`Google Drive Stream`，即将Google Drive映射�
 
 [参考官方：Deploy Drive File Stream](https://support.google.com/a/answer/7491144?hl=en)
 
-![image](20181209085410_❖-Google-Drive-Mount-onto-Local-File-System-DRAFT_files/img_01.png)
+![image](20181209085410_❖-Google-Drive-Mount-onto-Local-File-System-DRAFT_img_01.png)
 
 建议删除本机的`Backup and Sync`软件，并删除`~/Google Drive`文件夹(如果存在的话).
 

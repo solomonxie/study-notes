@@ -22,13 +22,13 @@ There are a few common sets on the _significance level_:
 - \<10%: Weak evidence against our claim.
 - \>10%: Little or no evidence against our claim.
 
-![image](20180910064748_❖-Significance-Testing_files/img_01.png)
+![image](20180910064748_❖-Significance-Testing_img_01.png)
 
 ### 「Critical Values」 & 「Rejection Regions」
 
 [Refer to youtube: Hypothesis Testing 4: critical values and rejection regions (one sample t test)](https://www.youtube.com/watch?v=BdeuCflLPQI)
 
-![image](20180910064748_❖-Significance-Testing_files/img_02.png)
+![image](20180910064748_❖-Significance-Testing_img_02.png)
 
 
 ## 「p-value」
@@ -41,14 +41,14 @@ There are a few common sets on the _significance level_:
 
 [Refer to article on Khan academy: Using P-values to make conclusions](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/modal/a/p-value-conclusions)
 
-![image](20180910064748_❖-Significance-Testing_files/img_03.png)
+![image](20180910064748_❖-Significance-Testing_img_03.png)
 
 
 ## Use 「P-value」 to make conclusion
 
-![image](20180910064748_❖-Significance-Testing_files/img_04.png)
+![image](20180910064748_❖-Significance-Testing_img_04.png)
 
-![image](20180910064748_❖-Significance-Testing_files/img_05.png)
+![image](20180910064748_❖-Significance-Testing_img_05.png)
 
 
 ## Use 「Confidence interval」 to make conclusion
@@ -62,23 +62,23 @@ There are a few common sets on the _significance level_:
 In a two-sided test, the null hypothesis says there is no difference between the two proportions. In other words, the null hypothesis says that the difference between the two proportions is 0. 
 
 We can use a confidence interval instead of a P-value for two-sided tests as long as the confidence level and significance level **add up to 100%**.
-![image](20180910064748_❖-Significance-Testing_files/img_06.png)
+![image](20180910064748_❖-Significance-Testing_img_06.png)
 
 For example, 
-![image](20180910064748_❖-Significance-Testing_files/img_07.png)
+![image](20180910064748_❖-Significance-Testing_img_07.png)
 That being said, if the `Confidence Interval` **DOES NOT** overlap with the _Null Hypothesis Difference_, 0 in this case, then the "true difference" will fall into the Significance Level, which should be reject. 
 
 Since `Confidence Level + Significance Level = 100%`:
 - CI exlcudes 0 ▶ Smaller interval & larger significance ▶ Significance level > P-value ▶ Not reject
 - CI includes 0 ▶ Larger interval & smaller significance ▶ Significance level < P-value ▶ Reject
 
-![image](20180910064748_❖-Significance-Testing_files/img_08.png)
+![image](20180910064748_❖-Significance-Testing_img_08.png)
 
 
 
 
 ### Example
-![image](20180910064748_❖-Significance-Testing_files/img_09.png)
+![image](20180910064748_❖-Significance-Testing_img_09.png)
 Solve:
 - Since the _null hypothesis difference_ is 0 (H₀: pe-pw=0),
 - so we're to examine if the _confidence interval_ contains the "assumed difference" 0

@@ -11,10 +11,10 @@ List it again:
 - Order matters
 - Gives a new vector
 
-![image](20180420144208_Cross-product-DRAFT_files/img_01.png)
+![image](20180420144208_Cross-product-DRAFT_img_01.png)
 
-![image](20180420144208_Cross-product-DRAFT_files/img_02.png)
+![image](20180420144208_Cross-product-DRAFT_img_02.png)
 
 `Right-handed system`:
-![image](20180420144208_Cross-product-DRAFT_files/img_03.png)
+![image](20180420144208_Cross-product-DRAFT_img_03.png)
 

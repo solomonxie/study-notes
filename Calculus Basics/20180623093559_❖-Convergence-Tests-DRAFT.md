@@ -20,52 +20,52 @@ Test | Description
 
 > **Take the limit of nth term, if it's NOT ZERO, then it's DIVERGENT.**
 
-![image](20180623093559_❖-Convergence-Tests-DRAFT_files/img_01.png)
+![image](20180623093559_❖-Convergence-Tests-DRAFT_img_01.png)
 
 
 ## 「Integral Test」
 
 
 ## 「p-series Test」
-![image](20180623093559_❖-Convergence-Tests-DRAFT_files/img_02.png)
+![image](20180623093559_❖-Convergence-Tests-DRAFT_img_02.png)
 
 
 ## 「Direct Comparison Test」
 
 > **Compare the series to a "similar" p-series or geometric-series.**
 
-![image](20180623093559_❖-Convergence-Tests-DRAFT_files/img_03.png)
+![image](20180623093559_❖-Convergence-Tests-DRAFT_img_03.png)
 
 
 ## 「Limit Comparison Test」
 
 > **Compare the series to a "similar" p-series or geometric-series.**
 
-![image](20180623093559_❖-Convergence-Tests-DRAFT_files/img_04.png)
+![image](20180623093559_❖-Convergence-Tests-DRAFT_img_04.png)
 
 
 ## 「Ratio Test」
 
 > **Take limit of two terms ratio.**
 
-![image](20180623093559_❖-Convergence-Tests-DRAFT_files/img_05.png)
+![image](20180623093559_❖-Convergence-Tests-DRAFT_img_05.png)
 
 
 ## 「Root Test」
 
 > **Take the limit of nth root of nth term.**
 
-![image](20180623093559_❖-Convergence-Tests-DRAFT_files/img_06.png)
+![image](20180623093559_❖-Convergence-Tests-DRAFT_img_06.png)
 
 
 ## 「Alternating Series Test」
 
 > **Test if terms are decreasing, and take limit of nth term.**
 
-![image](20180623093559_❖-Convergence-Tests-DRAFT_files/img_07.png)
+![image](20180623093559_❖-Convergence-Tests-DRAFT_img_07.png)
 
 
 
 ## 「Absolute Convergence」 & 「Conditional Convergence」
 
-![image](20180623093559_❖-Convergence-Tests-DRAFT_files/img_08.png)
+![image](20180623093559_❖-Convergence-Tests-DRAFT_img_08.png)

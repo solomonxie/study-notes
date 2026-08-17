@@ -6,14 +6,14 @@ Just think of a curve, a good way to approximate its Y-value, is to find another
 
 [Refer to Khan academy lecture.](https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-intro/modal/v/local-linearization-intro)
 
-![image](20180517052800_「Local-linearity」-「Linear-approximation」_files/img_01.png)
+![image](20180517052800_「Local-linearity」-「Linear-approximation」_img_01.png)
 
-![image](20180517052800_「Local-linearity」-「Linear-approximation」_files/img_02.png)
+![image](20180517052800_「Local-linearity」-「Linear-approximation」_img_02.png)
 
 
 ### Example
-![image](20180517052800_「Local-linearity」-「Linear-approximation」_files/img_03.png)
+![image](20180517052800_「Local-linearity」-「Linear-approximation」_img_03.png)
 Solve:
-![image](20180517052800_「Local-linearity」-「Linear-approximation」_files/img_04.png)
+![image](20180517052800_「Local-linearity」-「Linear-approximation」_img_04.png)
 
 

@@ -5,5 +5,5 @@
 - `!`, **Exclaimation mark**
 - `^`, **Caret**
 - `*`, **Asterisk**
-![More Details](20180324103844_A-quick-note-of-Keyboard-symbols_files/img_01.png)
+![More Details](20180324103844_A-quick-note-of-Keyboard-symbols_img_01.png)
 

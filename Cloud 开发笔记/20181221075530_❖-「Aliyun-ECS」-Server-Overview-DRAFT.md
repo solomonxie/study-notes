@@ -4,7 +4,7 @@
 
 ## 「OS」Choices
 
-![image](20181221075530_❖-「Aliyun-ECS」-Server-Overview-DRAFT_files/img_01.png)
+![image](20181221075530_❖-「Aliyun-ECS」-Server-Overview-DRAFT_img_01.png)
 
 
 ## 「INSTANCES」
@@ -20,7 +20,7 @@
 [参考：阿里云 突发性能实例 > 基本概念](https://help.aliyun.com/document_detail/59977.html?spm=5176.ecsbuyv3.0.0.41ea3675Ndsgpf)
 [参考：阿里云 t5性能约束实例](https://help.aliyun.com/document_detail/90635.html?spm=a2c4g.11186623.2.11.4b8c7272vF1PpO#concept-fl1-tl4-cfb)
  
-![image](20181221075530_❖-「Aliyun-ECS」-Server-Overview-DRAFT_files/img_02.png)
+![image](20181221075530_❖-「Aliyun-ECS」-Server-Overview-DRAFT_img_02.png)
 
 
 t5实例的规模类型：
@@ -31,7 +31,7 @@ t5实例的规模类型：
 
 所拥有的积分消耗完后，实例的CPU使用率，最大只能为`单位CPU占用`，一个单位占用为10%或15%，每种实例规模不同。当然，这个时候可以选择减少CPU使用，来增加积分。
 
-![image](20181221075530_❖-「Aliyun-ECS」-Server-Overview-DRAFT_files/img_03.png)
+![image](20181221075530_❖-「Aliyun-ECS」-Server-Overview-DRAFT_img_03.png)
 
 t5实例的约束选项：
 - 约束型：约束型是默认类型，如果积分消耗为0，则限制在`单位CPU占用`以内不能使用更多CPU。
@@ -49,7 +49,7 @@ t5实例的约束选项：
 如果选择不使用系统分配的公网IP，则需要自己购买阿里云`弹性公网IP`: 固定带宽计费的话，最便宜也是8.4元/周。
 
 能选择的最便宜实例：
-![image](20181221075530_❖-「Aliyun-ECS」-Server-Overview-DRAFT_files/img_04.png)
+![image](20181221075530_❖-「Aliyun-ECS」-Server-Overview-DRAFT_img_04.png)
 
 
 ## 「弹性公网IP」
@@ -69,7 +69,7 @@ t5实例的约束选项：
 我设定的是CPU占用整个小时平均都超过10%就发邮件，于是就频繁收到监控台的警报邮件。
 于是检查了下HTOP，发现后台各种阿里云的进程乱飞，实在不能忍啊！最重要是：
 **让CPU占用超10%的，恰就是阿里云监控台本身！**
-![image](20181221075530_❖-「Aliyun-ECS」-Server-Overview-DRAFT_files/img_05.png)
+![image](20181221075530_❖-「Aliyun-ECS」-Server-Overview-DRAFT_img_05.png)
 
 可以看到，这个服务器我几乎没在用什么，放在那浪费的。只是阿里云自己的服务占用了这么大的CPU资源，这让人怎么想？
 

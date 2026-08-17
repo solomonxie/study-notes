@@ -18,7 +18,7 @@ Solution:
 System Preferences > Security & Privacy > General -> Allow
 ```
 
-![image](20201208034504_Podman如何代替Docker-DRAFT_files/img_01.png)
+![image](20201208034504_Podman如何代替Docker-DRAFT_img_01.png)
 
 
 ### 问题2: Error: Get http://.../_ping: dial unix ///var/folders/.../podman/podman.sock: connect: no such file or directory

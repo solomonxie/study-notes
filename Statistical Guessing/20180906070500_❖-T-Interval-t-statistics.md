@@ -20,7 +20,7 @@ So we introduced the **tweaked version of Normal Distribution** for a small samp
 They have the same centre: Sample Mean.
 But the tail of _t-distribution_ is **"fatter"** than the Normal distribution.
 
-![image](20180906070500_❖-T-Interval-t-statistics_files/img_01.png)
+![image](20180906070500_❖-T-Interval-t-statistics_img_01.png)
 
 
 ## Conditions for a valid 「T Interval」
@@ -43,7 +43,7 @@ The t score formula enables you to take an individual score and transform it int
 You’ll want to use the t score formula when you don’t know the population standard deviation and you have a small sample (under 30).
 
 The t score formula is:
-![image](20180906070500_❖-T-Interval-t-statistics_files/img_02.png)
+![image](20180906070500_❖-T-Interval-t-statistics_img_02.png)
 (x⁻ is the _Sample Mean_, μ₀ is mean from _null hypothesis_, sx is the _Sample SD_, n is _Sample size_)
 
 ### Understanding the formula
@@ -59,18 +59,18 @@ The `Standard Error` represents the **DISTANCE** from _Sample SD_ to _population
 The difference with Z-interval's formula is instead of using `Z*` value, we'll be using the `T*` value,
 and the calculation of Standard Error is different too.
 
-![image](20180906070500_❖-T-Interval-t-statistics_files/img_03.png)
+![image](20180906070500_❖-T-Interval-t-statistics_img_03.png)
 
 
 
 ## 「One-sample」 T interval
 
-![image](20180906070500_❖-T-Interval-t-statistics_files/img_04.png)
+![image](20180906070500_❖-T-Interval-t-statistics_img_04.png)
 
 ### Example
-![image](20180906070500_❖-T-Interval-t-statistics_files/img_05.png)
+![image](20180906070500_❖-T-Interval-t-statistics_img_05.png)
 Solve:
-![image](20180906070500_❖-T-Interval-t-statistics_files/img_06.png)
+![image](20180906070500_❖-T-Interval-t-statistics_img_06.png)
 
 
 
@@ -81,5 +81,5 @@ Solve:
 
 ## 「T-table」
 
-![image](20180906070500_❖-T-Interval-t-statistics_files/img_07.png)
+![image](20180906070500_❖-T-Interval-t-statistics_img_07.png)
 

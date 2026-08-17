@@ -1,6 +1,6 @@
 # `Chaos before The Flood` Genesis 6
 
-![The Sons of God and the Daughters of Men](20180323121828_Chaos-before-The-Flood-Genesis-6_files/img_01.png)
+![The Sons of God and the Daughters of Men](20180323121828_Chaos-before-The-Flood-Genesis-6_img_01.png)
 [▲Refer to The Sons of God and the Daughters of Men](http://digestinggod.blogspot.com/2011/07/sons-of-god-and-daughters-of-men.html)
 
 ### Genesis 6:2

@@ -22,10 +22,10 @@ Like **Z-score** in a _Normal Distribution_ for a _Z-test_,
 - **Large counts condition**
 Each _Expected count_ need to be at least **5**. 
 (No conditions attached to the _observed counts_)
-![image](20180914171406_❖-Chi-Squared-Testing-DRAFT_files/img_01.png)
+![image](20180914171406_❖-Chi-Squared-Testing-DRAFT_img_01.png)
 
 ### Example
-![image](20180914171406_❖-Chi-Squared-Testing-DRAFT_files/img_02.png)
+![image](20180914171406_❖-Chi-Squared-Testing-DRAFT_img_02.png)
 Solve:
 - The large counts condition says that all expected counts need to be at least 5
 - Patrick needs to sample enough visits so that he expects each day of the week to appear at least 5 times. There are 7 days in the week, so he needs to sample at least 5*7=35 visits.
@@ -35,7 +35,7 @@ Solve:
 
 ## Formula of 「Chi-squared Test statistic」
 
-![image](20180914171406_❖-Chi-Squared-Testing-DRAFT_files/img_03.png)
+![image](20180914171406_❖-Chi-Squared-Testing-DRAFT_img_03.png)
 
 How to understand the formula?
 It's not hard to see this a way to **standardized** the data:
@@ -46,12 +46,12 @@ It's not hard to see this a way to **standardized** the data:
 
 ## 「Chi-squared Distribution」
 
-![image](20180914171406_❖-Chi-Squared-Testing-DRAFT_files/img_04.png)
+![image](20180914171406_❖-Chi-Squared-Testing-DRAFT_img_04.png)
 
 
 
 ## 「P-value」 for Chi-squared Test
-![image](20180914171406_❖-Chi-Squared-Testing-DRAFT_files/img_05.png)
+![image](20180914171406_❖-Chi-Squared-Testing-DRAFT_img_05.png)
 
 
 

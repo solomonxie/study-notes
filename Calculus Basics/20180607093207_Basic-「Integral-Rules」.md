@@ -9,25 +9,25 @@ And for integration we need to reverse them.
 > [`Jump back to review the basic differential rules`](https://github.com/solomonxie/solomonxie.github.io/issues/49#issuecomment-390102382)
 
 ## Basic Rules
-![image](20180607093207_Basic-「Integral-Rules」_files/img_01.png)
+![image](20180607093207_Basic-「Integral-Rules」_img_01.png)
 
 
 ## Reversed 「Polynomial Rules」
-![image](20180607093207_Basic-「Integral-Rules」_files/img_02.png)
+![image](20180607093207_Basic-「Integral-Rules」_img_02.png)
 
 
 ## Reversed 「Exponential / Log Rules」
-![image](20180607093207_Basic-「Integral-Rules」_files/img_03.png)
+![image](20180607093207_Basic-「Integral-Rules」_img_03.png)
 
 ## Reversed 「Trig Rules」
-![image](20180607093207_Basic-「Integral-Rules」_files/img_04.png)
+![image](20180607093207_Basic-「Integral-Rules」_img_04.png)
 
 ## Reversed 「Inverse Trig Rules」
-![image](20180607093207_Basic-「Integral-Rules」_files/img_05.png)
+![image](20180607093207_Basic-「Integral-Rules」_img_05.png)
 
 
 ## 「Special Rules」
-![image](20180607093207_Basic-「Integral-Rules」_files/img_06.png)
+![image](20180607093207_Basic-「Integral-Rules」_img_06.png)
 
-![image](20180607093207_Basic-「Integral-Rules」_files/img_07.png)
+![image](20180607093207_Basic-「Integral-Rules」_img_07.png)
 

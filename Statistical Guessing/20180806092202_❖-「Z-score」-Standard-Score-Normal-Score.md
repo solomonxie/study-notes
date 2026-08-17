@@ -18,7 +18,7 @@ Z-score is the **essential** concept of `Z-Statistics`.
 `Z-score` is all about comparison: compare different kind of data set.
 In another word, `Z-score` indicates **How many** `standard deviations` away (above or below) from the `mean` to the given point.
 
-![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_files/img_01.png)
+![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_img_01.png)
 
 
 ## Why do we need Z-scores
@@ -36,12 +36,12 @@ All in all, `Z-score` is a process of **`Normalization`**, which "normalize" dif
 
 Compares the various grading methods in a normal distribution:
 
-![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_files/img_02.png)
+![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_img_02.png)
 
 
 ## How to understand the formula?
 
-![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_files/img_03.png)
+![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_img_03.png)
 
 
 With comparing each one's score with the **mean**: `x - μ`, we will get a kind of `deviation`.
@@ -64,16 +64,16 @@ If your Z-score is `2𝜎`, it means your score is `doubled standard deviation a
 ### Example
 There's some exam data of a class:
 
-![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_files/img_04.png)
+![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_img_04.png)
 
 
 Here's their z-scores:
 
-![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_files/img_05.png)
+![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_img_05.png)
 
 
 ### Example
-![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_files/img_06.png)
+![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_img_06.png)
 Solve:
 - Isabella's z-score is: `(20-22)/5 = -0.4`
 - Hannah's z-score is: `(33-38)/12.5 = -0.4`
@@ -99,17 +99,17 @@ etc.,
 Someone's `z-sore` is "0.57", and you want to know what `percentile` he's at, or what proportion is below his score. 
 Just go over to the `z-table`, first get to the row at `0.5`, and find the column of `0.7`, and the **intersection** will be his `percentile`, which is "0.7157" or "71.57%" in this case.
 
-![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_files/img_07.png)
+![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_img_07.png)
 
 Common values:
-![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_files/img_08.png)
+![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_img_08.png)
 
 Explicit Z-table:
-![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_files/img_09.png)
+![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_img_09.png)
 
 
 ### Example
-![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_files/img_10.png)
+![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_img_10.png)
 
 Solve:
 - Get the `z-score` of student Faisal: `(103.1-105)/10 = -0.19`.
@@ -118,7 +118,7 @@ Solve:
 
 
 ### Example
-![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_files/img_11.png)
+![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_img_11.png)
 
 Solve:
 - Get two z-scores: `(82-83.2)/8 = -0.15`, `(89.2-83.2)/8 = 0.75`
@@ -136,7 +136,7 @@ Just do the other way around by looking for the given `percentile cell` and then
 
 
 ### Example
-![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_files/img_12.png)
+![image](20180806092202_❖-「Z-score」-Standard-Score-Normal-Score_img_12.png)
 
 Solve:
 - "Top 5%" means the `minimum percentile rank` is at 95, which is 0.95 in percentage.

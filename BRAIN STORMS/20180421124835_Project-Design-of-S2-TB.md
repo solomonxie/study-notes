@@ -165,5 +165,5 @@ Including:
 It can understand abstract meaning by using Probability on words it is possible to achieve.  
 
 
-![image](20180421124835_Project-Design-of-S2-TB_files/img_01.png)
+![image](20180421124835_Project-Design-of-S2-TB_img_01.png)
 

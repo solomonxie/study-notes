@@ -55,7 +55,7 @@ $ git push > log.txt 2>&1
 
 #### 参考文章：[stackoverflow回答](https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file)
 
-![image](20190123114957_❖-Linux-标准输出-stdout-和标准错误-stderr-的重定向_files/img_01.png)
+![image](20190123114957_❖-Linux-标准输出-stdout-和标准错误-stderr-的重定向_img_01.png)
 
 - `command > output.txt`
 

@@ -12,16 +12,16 @@ $ sudo mkdir /etc/apache2/ssl
 $ sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/apache2/ssl/apache.key -out /etc/apache2/ssl/apache.crt 
 ```
 
-![image](20181113063040_Owncloud-开启Https-SSL-支持（Apache2）_files/img_01.png)
+![image](20181113063040_Owncloud-开启Https-SSL-支持（Apache2）_img_01.png)
 
 
 创建好后，就可以在apache的配置里面引用这个SSL证书了。
 但是因为这个证书是自己创建而不是第三方公司的，所以不会被任何浏览器信任，每次都会出现`NET::ERR_CERT_AUTHORITY_INVALID`错误：
 
-![image](20181113063040_Owncloud-开启Https-SSL-支持（Apache2）_files/img_02.png)
+![image](20181113063040_Owncloud-开启Https-SSL-支持（Apache2）_img_02.png)
 
 这个是没办法解决的，只能点击`proceed`继续前往。然后看到地址栏里一直会有这个提示，非常醒目：
-![image](20181113063040_Owncloud-开启Https-SSL-支持（Apache2）_files/img_03.png)
+![image](20181113063040_Owncloud-开启Https-SSL-支持（Apache2）_img_03.png)
 
 如果这个可以忍的话，那么就继续配置。
 

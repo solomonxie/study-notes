@@ -3,7 +3,7 @@
 > It's also called the `Remainder Estimation of Alternating Series`.
 
 This is to calculating (approximating) an **Infinite Alternating Series**:
-![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_files/img_01.png)
+![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_img_01.png)
 
 [`►Jump over to Khan academy for practice: Alternating series remainder`](https://www.khanacademy.org/math/ap-calculus-bc/bc-series/modal/e/alternating-series-remainder)
 
@@ -15,21 +15,21 @@ The logic is:
 - First to **test** the series' convergence.
 - If the series **CONVERGES**, then we can proceed to calculate it by Error Estimation Theorem. Otherwise we aren't able to.
 - We can express the series as the **`sum of partial sums & infinite remainder`**:
-![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_files/img_02.png)
+![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_img_02.png)
 (▲ `Sn` is the **first n terms**, and `Rn` is **from the n+1 term to the rest terms**.)
 - And the "structure" in the `partial sum` & `remainder` is:
-![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_files/img_03.png)
+![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_img_03.png)
 - With a little twist, we will get the whole idea:
-![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_files/img_04.png)
+![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_img_04.png)
 (▲Since the **Rn** is the **gap** between `S & Sn`, so we call it **`The Error`**)
 - ▼ And the theorem is: `The Remainder` **MUST NOT** be greater than its **`first term`**:
-![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_files/img_05.png)
+![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_img_05.png)
 
 
 
 [▼Actual sum = Partial sum + Remainder: refer to Khan academy: Alternating series remainder](https://www.khanacademy.org/math/ap-calculus-bc/bc-series/bc-estimating-inf-series/v/alternating-series-error-estimation)
 
-![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_files/img_06.png)
+![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_img_06.png)
 
 
 ## 「Sign」 & 「Size」 of Error
@@ -76,7 +76,7 @@ To bound the error in a range, we often say:
 - "We want the accuracy within ±0.01"
 
 What they mean are the same:
-![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_files/img_07.png)
+![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_img_07.png)
 
 ▲ And by solving the inequality, 
 we will get the scope for `n`, 
@@ -85,18 +85,18 @@ then get the **`Smallest Integer of n`** in that scope.
 
 
 ### Example
-![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_files/img_08.png)
+![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_img_08.png)
 Solve:
 - First to notice, the `partial sum` is already set to `100` terms, so we're to **control accuracy** by `bound the terms`.
 - So the `error` should be from the `101st term` to infinity.
 - But the `error bound` is actually dominated by the first term of the error.
 - So the `error bound  = the value of 101st term`:
-![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_files/img_09.png)
+![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_img_09.png)
 - We could say that: The `error bound` is **negative**, and negative error causes **overestimation**.
 
 
 ### Example
-![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_files/img_10.png)
+![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_img_10.png)
 Solve:
 - It's clear this is a `alternating series`.
 - So we want to do the `alternating series test` first, and it passed, which means it converges.
@@ -104,7 +104,7 @@ Solve:
 - See that we don't know how many terms are in the `partial sum`, and only know how much accurate we'd like.
 - So we're to approximate by `bound the error`, and find out the terms.
 - Apply the `Error Approximation Theorem`, assume the **first term of remainder** is `a_(n+1)`:
-![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_files/img_11.png)
+![image](20180626091501_❖-Error-Estimation-of-Alternating-Series_img_11.png)
 - Solve out the inequality to get `n ≥ 999,999`
 - And `999,999` the smallest integer of `n` to make the series converges with 2 decimal accuracy.
 

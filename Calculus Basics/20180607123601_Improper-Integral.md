@@ -10,7 +10,7 @@ The major difference between them is their **`Boundaries`**.
 
 It looks so fearful yet not too hard to understand.
 
-![image](20180607123601_Improper-Integral_files/img_01.png)
+![image](20180607123601_Improper-Integral_img_01.png)
 
 
 ## 「Types」 of Improper Integral
@@ -19,15 +19,15 @@ It looks so fearful yet not too hard to understand.
 
 There're 6 cases of different improper integral:
 - Case 1: From a `constant` to `positive infinity`.
-![image](20180607123601_Improper-Integral_files/img_02.png)
+![image](20180607123601_Improper-Integral_img_02.png)
 - Case 2: From `negative infinity` to a `constant`.
-![image](20180607123601_Improper-Integral_files/img_03.png)
+![image](20180607123601_Improper-Integral_img_03.png)
 - Case 3: From `negative infinity` to `positive infinity`.
-![image](20180607123601_Improper-Integral_files/img_04.png)
+![image](20180607123601_Improper-Integral_img_04.png)
 - Case 4: From `0` to `e`.
-![image](20180607123601_Improper-Integral_files/img_05.png)
+![image](20180607123601_Improper-Integral_img_05.png)
 - Case 5: From a `constant` to a `constant`, but has an `infinite discontinuity`.
-![image](20180607123601_Improper-Integral_files/img_06.png)
+![image](20180607123601_Improper-Integral_img_06.png)
 - Case 6: 
 
 ## 「Convergent」 & 「Divergent」
@@ -46,25 +46,25 @@ Basic Strategy:
 - Calculate the limit of the function
 
 ###  「Type 1」
-![image](20180607123601_Improper-Integral_files/img_07.png)
+![image](20180607123601_Improper-Integral_img_07.png)
 Solve:
-![image](20180607123601_Improper-Integral_files/img_08.png)
+![image](20180607123601_Improper-Integral_img_08.png)
 
 
 ### 「Type 2」
-![image](20180607123601_Improper-Integral_files/img_09.png)
+![image](20180607123601_Improper-Integral_img_09.png)
 Solve:
 - Rewrite the improper integral to limit form:
-![image](20180607123601_Improper-Integral_files/img_10.png)
+![image](20180607123601_Improper-Integral_img_10.png)
 - Do the basic calculation.
 - The key point is:
-![image](20180607123601_Improper-Integral_files/img_11.png)
+![image](20180607123601_Improper-Integral_img_11.png)
 
 
 ### 「Type 5」
-![image](20180607123601_Improper-Integral_files/img_12.png)
+![image](20180607123601_Improper-Integral_img_12.png)
 Solve:
-![image](20180607123601_Improper-Integral_files/img_13.png)
+![image](20180607123601_Improper-Integral_img_13.png)
 
 
 

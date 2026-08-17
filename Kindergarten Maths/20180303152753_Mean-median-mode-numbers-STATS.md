@@ -6,5 +6,5 @@
 - `Median number` is the middle positioned number in a ordered `number set` (means no duplicates). If there're two middles, then average them to get a median number.
 - `Mode number` is the number shows up most times in a list.
 
-![image](20180303152753_Mean-median-mode-numbers-STATS_files/img_01.png)
+![image](20180303152753_Mean-median-mode-numbers-STATS_img_01.png)
 

@@ -70,5 +70,5 @@ Sampling with Non-replacement, means that each time you take out the sample, you
 
 If the number of your samples are less than 10% of total, then we can assume each trail is **independent**. Because the portion is too small to affect all.
 
-![image](20180821080738_❖-Binomial-Random-Variables_files/img_01.png)
+![image](20180821080738_❖-Binomial-Random-Variables_img_01.png)
 

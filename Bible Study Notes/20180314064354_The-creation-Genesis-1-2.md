@@ -1,6 +1,6 @@
 # `The creation` Genesis 1~2
 
-![Cover of 1534 Luther Bible, showing the created world of Genesis 1](20180314064354_The-creation-Genesis-1-2_files/img_01.png)
+![Cover of 1534 Luther Bible, showing the created world of Genesis 1](20180314064354_The-creation-Genesis-1-2_img_01.png)
 
 
 ## Gen 1

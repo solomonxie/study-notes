@@ -10,30 +10,30 @@
 [Refer to Khan academy: Integrating using trigonometric identities](https://www.khanacademy.org/math/integral-calculus/ic-integration#ic-integration-with-trig-identities)
 
 ### Example
-![image](20180607101857_Integration-using-「Trig-identities」_files/img_01.png)
+![image](20180607101857_Integration-using-「Trig-identities」_img_01.png)
 Solve:
 - We can identify there's a `Integral trig rule` we can apply on this problem:
-![image](20180607101857_Integration-using-「Trig-identities」_files/img_02.png)
+![image](20180607101857_Integration-using-「Trig-identities」_img_02.png)
 - Therefore we're gonna organize it a bit with `u-substitution` and get the answer:
-![image](20180607101857_Integration-using-「Trig-identities」_files/img_03.png)
+![image](20180607101857_Integration-using-「Trig-identities」_img_03.png)
 
 
 ### Example
-![image](20180607101857_Integration-using-「Trig-identities」_files/img_04.png)
+![image](20180607101857_Integration-using-「Trig-identities」_img_04.png)
 Solve:
 - This integrand has an **odd** power of `sin(x)`, so we're gonna leave `sin(x)` alone and make an  **even** power for `sin(x)`, then make `u-substitution` upon it:
-![image](20180607101857_Integration-using-「Trig-identities」_files/img_05.png)
+![image](20180607101857_Integration-using-「Trig-identities」_img_05.png)
 - And also we need to change the boundaries for the integral:
-![image](20180607101857_Integration-using-「Trig-identities」_files/img_06.png)
+![image](20180607101857_Integration-using-「Trig-identities」_img_06.png)
 - Now we can start to integrate:
-![image](20180607101857_Integration-using-「Trig-identities」_files/img_07.png)
+![image](20180607101857_Integration-using-「Trig-identities」_img_07.png)
 
 
 ### Example
-![image](20180607101857_Integration-using-「Trig-identities」_files/img_08.png)
+![image](20180607101857_Integration-using-「Trig-identities」_img_08.png)
 Solve:
 - We're gonna use a `trig-integral-rule` and a `trig identity`:
-![image](20180607101857_Integration-using-「Trig-identities」_files/img_09.png)
+![image](20180607101857_Integration-using-「Trig-identities」_img_09.png)
 - Then apply them:
-![image](20180607101857_Integration-using-「Trig-identities」_files/img_10.png)
+![image](20180607101857_Integration-using-「Trig-identities」_img_10.png)
 

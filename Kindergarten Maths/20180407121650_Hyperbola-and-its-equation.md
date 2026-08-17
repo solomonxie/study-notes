@@ -2,22 +2,22 @@
 
 [Refer to Maths is fun.](http://www.mathsisfun.com/geometry/hyperbola.html)
 
-![image](20180407121650_Hyperbola-and-its-equation_files/img_01.png)
+![image](20180407121650_Hyperbola-and-its-equation_img_01.png)
 
 `Hyperbola` can be defined as a `curve` where the `distances of any point` from:
 - A point (the focus)
 - A (the directrix) are always in the same ratio.
 
-![image](20180407121650_Hyperbola-and-its-equation_files/img_02.png)
+![image](20180407121650_Hyperbola-and-its-equation_img_02.png)
 
 
 ## `Equation of Hyperbola`
 
 > Equation of hyperbola opens on the **`X-axis`**:
-![image](20180407121650_Hyperbola-and-its-equation_files/img_03.png)
+![image](20180407121650_Hyperbola-and-its-equation_img_03.png)
 
 > Equation of hyperbola opens on the **`Y-axis`**:
-![image](20180407121650_Hyperbola-and-its-equation_files/img_04.png)
+![image](20180407121650_Hyperbola-and-its-equation_img_04.png)
 
 Features:
 - Two vertices: 
@@ -34,7 +34,7 @@ Features:
 ```py
 |D₁ + D₂| = CONSTANT
 ```
-![image](20180407121650_Hyperbola-and-its-equation_files/img_05.png)
+![image](20180407121650_Hyperbola-and-its-equation_img_05.png)
 
 ### How to find foci of hyperbola
 
@@ -45,11 +45,11 @@ f² = a² + b²
 `a` is the distance from the vertex to the centre, when the vertices are on **X-axis**.
 `b` is the distance from the vertex to the centre, when the vertices are on **Y-axis**.
 
-![image](20180407121650_Hyperbola-and-its-equation_files/img_06.png)
+![image](20180407121650_Hyperbola-and-its-equation_img_06.png)
 
 
 ### Example
-![image](20180407121650_Hyperbola-and-its-equation_files/img_07.png)
+![image](20180407121650_Hyperbola-and-its-equation_img_07.png)
 Solve:
 - Its centre is at `origin`, so the unknowns are `x² & y²`.
 - According to its vertices, the hyperbola opens `Up & Down`.

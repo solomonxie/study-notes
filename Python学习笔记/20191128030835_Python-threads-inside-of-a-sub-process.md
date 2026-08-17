@@ -32,7 +32,7 @@ sleep(0.1)
 ```
 
 Result:
-![image](20191128030835_Python-threads-inside-of-a-sub-process_files/img_01.png)
+![image](20191128030835_Python-threads-inside-of-a-sub-process_img_01.png)
 
 
 

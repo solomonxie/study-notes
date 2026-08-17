@@ -9,7 +9,7 @@ the sum of the squares of the other two sides.
 [Refer to Math is fun: Pythagorean theorem](http://www.mathsisfun.com/pythagoras.html) 
 
 
-![image](20180307063200_Pythagorean-Theorem-TRIANGLE_files/img_01.png)
+![image](20180307063200_Pythagorean-Theorem-TRIANGLE_img_01.png)
 
 # Triangle inequality theorem
 
@@ -21,5 +21,5 @@ In a triangle, the sides always follow these two rules:
 
 Example:
 
-![image](20180307063200_Pythagorean-Theorem-TRIANGLE_files/img_02.png)
+![image](20180307063200_Pythagorean-Theorem-TRIANGLE_img_02.png)
 

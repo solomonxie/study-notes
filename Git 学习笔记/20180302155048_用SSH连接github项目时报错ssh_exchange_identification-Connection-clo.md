@@ -13,6 +13,6 @@
 
 第二天更新：
 结果真的第二天就收到这个新闻：Github昨天晚上遭遇史上最大DDOS攻击。但是不包括我吧，我顶多每分钟10次连接，而且还是用的绑定的ssh key和oauth码。。。
-![image](20180302155048_用SSH连接github项目时报错ssh_exchange_identification-Connection-clo_files/img_01.png)
+![image](20180302155048_用SSH连接github项目时报错ssh_exchange_identification-Connection-clo_img_01.png)
 
 

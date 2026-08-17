@@ -1,6 +1,6 @@
 # `Hash Tables` (Data structure)
 
-![image](20181120064019_Hash-Tables-Data-structure_files/img_01.png)
+![image](20181120064019_Hash-Tables-Data-structure_img_01.png)
 
 ## ADT DEFINITION
 
@@ -49,5 +49,5 @@ OPERATIONS:
 
 ## ANALYSIS
 
-![image](20181120064019_Hash-Tables-Data-structure_files/img_02.png)
+![image](20181120064019_Hash-Tables-Data-structure_img_02.png)
 

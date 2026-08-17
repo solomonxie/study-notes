@@ -13,7 +13,7 @@ specifically a **`Binomial Random Variable`**.
 
 So let **X** denotes the _number of success_ in the sample, which is the **Binomial Random Variable** with parameter _n_ and _p_,
 
-![image](20180828081619_❖-Sample-Proportion_files/img_01.png)
+![image](20180828081619_❖-Sample-Proportion_img_01.png)
 
 
 
@@ -25,24 +25,24 @@ Recall that the _binomial random variable X_:
 - is approximately **normally distributed** for LARGE Sample Sizes (Central Limit Theorem).
 
 Hence, we derived the _Mean & Variance_ of Sample Proportion `p-hat` from X:
-![image](20180828081619_❖-Sample-Proportion_files/img_02.png)
-![image](20180828081619_❖-Sample-Proportion_files/img_03.png)
+![image](20180828081619_❖-Sample-Proportion_img_02.png)
+![image](20180828081619_❖-Sample-Proportion_img_03.png)
 
 Why is that?
 
-![image](20180828081619_❖-Sample-Proportion_files/img_04.png)
+![image](20180828081619_❖-Sample-Proportion_img_04.png)
 
 That's why we say:
 `p-hat` is an **unbiased estimator** for `p` of population.
 
 And for Standard Deviation of Sample Proportion:
-![image](20180828081619_❖-Sample-Proportion_files/img_05.png)
+![image](20180828081619_❖-Sample-Proportion_img_05.png)
 
 
 ### Example
-![image](20180828081619_❖-Sample-Proportion_files/img_06.png)
+![image](20180828081619_❖-Sample-Proportion_img_06.png)
 Solve:
-![image](20180828081619_❖-Sample-Proportion_files/img_07.png)
+![image](20180828081619_❖-Sample-Proportion_img_07.png)
 
 
 
@@ -52,7 +52,7 @@ It's just to find out the probability area in the Normal Distribution.
 All you need is the Mean, Standard Deviation and the point you're to measure.
 
 ### Example
-![image](20180828081619_❖-Sample-Proportion_files/img_08.png)
+![image](20180828081619_❖-Sample-Proportion_img_08.png)
 Solve:
 - Calculate the mean of sample proportion is `0.63`
 - Calculate the standard deviation of sample proportion is `0.019`

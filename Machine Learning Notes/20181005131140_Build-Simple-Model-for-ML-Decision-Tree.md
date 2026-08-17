@@ -24,5 +24,5 @@ As the `Decision Tree Model`'s depth goes deeper, the `Underfitting` goes lesser
 
 For finding out the **"turning point"**, we need to test out some depths , namely the `max_leaf_nodes`. At which the error start to turn descending to ascending, we will choose that depth as the best depth for training data in Decision Tree Model.
 
-![image](20181005131140_Build-Simple-Model-for-ML-Decision-Tree_files/img_01.png)
+![image](20181005131140_Build-Simple-Model-for-ML-Decision-Tree_img_01.png)
 

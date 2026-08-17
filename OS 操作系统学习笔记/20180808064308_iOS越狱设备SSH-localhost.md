@@ -13,7 +13,7 @@ iOS装了Cydia后，会默认安装好了OpenSSH和OpenSSL，一般就可以正�
 首先是添加新的ssh监听端口（22端口不能被iOS用来访问自己）：
 打开修改`/etc/services`文件，找到ssh处，添加两句一样的，只是名字改了：
 
-![image](20180808064308_iOS越狱设备SSH-localhost_files/img_01.png)
+![image](20180808064308_iOS越狱设备SSH-localhost_img_01.png)
 
 ```
 ssh2             2222/udp   # SSH Remote Login Protocol
@@ -22,7 +22,7 @@ ssh2             2222/tcp   # SSH Remote Login Protocol
 
 然后打开修改`/Library/LaunchDaemons/com.openssh.sshd.plist`文件，找到`Sockets`，然后在它的`<dict>`里面增加一个和ssh一样的Listener，只不过把ssh名字改成ssh2:
 
-![image](20180808064308_iOS越狱设备SSH-localhost_files/img_02.png)
+![image](20180808064308_iOS越狱设备SSH-localhost_img_02.png)
 
 整个Socket的定义如下：
 ```xml
@@ -55,5 +55,5 @@ ssh -p 2222 root@localhost
 ssh -p 2222 mobile@127.0.0.1
 ```
 
-![2018-08-08 14 53 26](20180808064308_iOS越狱设备SSH-localhost_files/img_03.png)
+![2018-08-08 14 53 26](20180808064308_iOS越狱设备SSH-localhost_img_03.png)
 

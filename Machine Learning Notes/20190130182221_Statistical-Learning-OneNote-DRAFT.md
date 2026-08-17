@@ -6,11 +6,11 @@
 
 > WE FIRST ASSUME THERE EXISTS AN ALMIGHTY FUNCTION Y=f(x) FOR EVERY (x, y)
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_01.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_01.png)
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_02.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_02.png)
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_03.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_03.png)
 
 
 
@@ -51,25 +51,25 @@
 
 ### Plots
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_04.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_04.png)
 
 ### Distribution
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_05.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_05.png)
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_06.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_06.png)
 
 
 ### Inferential Statistics
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_07.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_07.png)
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_08.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_08.png)
 
 
 ### Probability
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_09.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_09.png)
 
 
 ### Hypothesis Test [DRAFT]
@@ -78,7 +78,7 @@
 
 ### Random Variable
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_10.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_10.png)
 
 
 ### Bayesian Theorem [DRAFT]
@@ -90,13 +90,13 @@
 
 ### Mo: Linear Regression
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_11.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_11.png)
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_12.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_12.png)
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_13.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_13.png)
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_14.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_14.png)
 
 
 ### Linear Least Squares
@@ -122,7 +122,7 @@ Numerical methods for linear least squares
 	- Inverting the matrix of the normal equations
 	- Orthogonal decomposition methods
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_15.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_15.png)
 
 Regularized Linear Regression
 Modified version of Ordinary linear regression, not only minimize cost function,
@@ -130,7 +130,7 @@ but also reduce complexity of the model.
 	- Lasso Regression (L1 Regularization): minimize Absolute Sum of Coefficients
 	- Ridge Regression (L2 Regularization): minimize Squared Absolute Sum of Coefficients
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_16.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_16.png)
 
 
 ### Gradient Descent
@@ -176,9 +176,9 @@ The prediction error for any machine learning algorithm can be broken down into 
 		○ High-Variance models: Decision trees
 		○ Low-Variance models: Linear Regression
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_17.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_17.png)
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_18.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_18.png)
 
 
 ### Hypothesis Test for ML
@@ -189,7 +189,7 @@ Some examples of statistical hypothesis tests and their distributions from which
 • Chi-Squared Test: Chi-Squared (𝜲²) distribution.
 • ANOVA: F-distribution (Fisher–Snedecor distribution).
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_19.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_19.png)
 
 
 ### Features Selection [DRAFT]
@@ -235,9 +235,9 @@ Logistic Regression is one of them.
 
 > is to predict the probability of a categorical dependent variable, which is a binary variable
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_20.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_20.png)
 
-![image](20190130182221_Statistical-Learning-OneNote-DRAFT_files/img_21.png)
+![image](20190130182221_Statistical-Learning-OneNote-DRAFT_img_21.png)
 
 
 ### Linear Discriminant Analysis

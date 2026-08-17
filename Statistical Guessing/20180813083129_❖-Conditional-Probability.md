@@ -7,14 +7,14 @@ It's based on a **happened** event, that's why you're to divide the probability 
 
 `Probability of B given A` (B **after** A, or B in condition of A),
 or `Probability of A given B`:
-![image](20180813083129_❖-Conditional-Probability_files/img_01.png)
+![image](20180813083129_❖-Conditional-Probability_img_01.png)
 
 
 ## Formula
 
-![image](20180813083129_❖-Conditional-Probability_files/img_02.png)
+![image](20180813083129_❖-Conditional-Probability_img_02.png)
 
-![image](20180813083129_❖-Conditional-Probability_files/img_03.png)
+![image](20180813083129_❖-Conditional-Probability_img_03.png)
 
 
 ## Understanding 「Conditional Probability」
@@ -39,7 +39,7 @@ And the chance of one event occurs in "another world" is the `Conditional probab
 > In the context of the Anime _Steins;Gate_, the conditional probability is chance of Mayuri being killed in Alpha-worldline.
 
 _Steins;Gate Worldline_:
-![image](20180813083129_❖-Conditional-Probability_files/img_04.png)
+![image](20180813083129_❖-Conditional-Probability_img_04.png)
 
 
 
@@ -52,13 +52,13 @@ Instead of happening at the same time `P(A and B)`, the probability **won't be t
 
 It shows how much the `A and B` covered the happened event `B`.
 
-![image](20180813083129_❖-Conditional-Probability_files/img_05.png)
+![image](20180813083129_❖-Conditional-Probability_img_05.png)
 
 
 
 
 ### Example
-![image](20180813083129_❖-Conditional-Probability_files/img_06.png)
+![image](20180813083129_❖-Conditional-Probability_img_06.png)
 Solve:
 - Based on the `conditional probability` formula: `P(A|B) = P(A and B) / P(B)`
 - The `P(south Asia ∣ high) = P(south Asia and High) / P(high) = 7/188 ÷ 87/188 = 7/87`

@@ -13,27 +13,27 @@ How to do this:
 - Pick a **direction**: We pick the direction `θ`
 - Represent the direction by a `unit vector` in form of `u = cosθ·i + sinθ·j`, because `cos²θ + sin²θ = 1`.
 - Apply the directional derivative's formula:
-![image](20180801082150_Directional-derivative-DRAFT_files/img_01.png)
+![image](20180801082150_Directional-derivative-DRAFT_img_01.png)
 (`Dᵤ` means `Directional Derivative of a Unit Vector u`, `f𝓍` means Partial derivative respects to x, and `f𝑦` means `Partial derivative` respects to y.)
 
-![image](20180801082150_Directional-derivative-DRAFT_files/img_02.png)
+![image](20180801082150_Directional-derivative-DRAFT_img_02.png)
 
 
 The `Directional derivative` is the `Dot product` of `The Gradient & Unit vector`:
 
-![image](20180801082150_Directional-derivative-DRAFT_files/img_03.png)
+![image](20180801082150_Directional-derivative-DRAFT_img_03.png)
 
 Which comes from:
 
-![image](20180801082150_Directional-derivative-DRAFT_files/img_04.png)
+![image](20180801082150_Directional-derivative-DRAFT_img_04.png)
 
 
-![image](20180801082150_Directional-derivative-DRAFT_files/img_05.png)
+![image](20180801082150_Directional-derivative-DRAFT_img_05.png)
 
 
-![image](20180801082150_Directional-derivative-DRAFT_files/img_06.png)
+![image](20180801082150_Directional-derivative-DRAFT_img_06.png)
 
 
-![image](20180801082150_Directional-derivative-DRAFT_files/img_07.png)
-![image](20180801082150_Directional-derivative-DRAFT_files/img_08.png)
+![image](20180801082150_Directional-derivative-DRAFT_img_07.png)
+![image](20180801082150_Directional-derivative-DRAFT_img_08.png)
 

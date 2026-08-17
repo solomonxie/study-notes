@@ -2,7 +2,7 @@
 
 [Refer to Khan academy: Example: Describing a distribution](https://www.khanacademy.org/math/ap-statistics/quantitative-data-ap/modal/v/example-describing-a-distribution)
 
-![image](20180803080319_❖-Describing-Distributions_files/img_01.png)
+![image](20180803080319_❖-Describing-Distributions_img_01.png)
 
 
 ## 「Shapes」: Normal, Left Skewed, Right Skewed
@@ -15,10 +15,10 @@
 - `Uniform`
 - `Bimodal Distribution`
 
-![image](20180803080319_❖-Describing-Distributions_files/img_02.png)
+![image](20180803080319_❖-Describing-Distributions_img_02.png)
 
 ### Example
-![image](20180803080319_❖-Describing-Distributions_files/img_03.png)
+![image](20180803080319_❖-Describing-Distributions_img_03.png)
 
 
 
@@ -39,7 +39,7 @@
 - `Median` is the middle positioned number in a ordered `number set` (means no duplicates). If there're two middles, then average them to get a median number.
 - `Mode` is the number shows up most times in a list.
 
-![image](20180803080319_❖-Describing-Distributions_files/img_04.png)
+![image](20180803080319_❖-Describing-Distributions_img_04.png)
 
 
 ## 「Outliers」
@@ -49,14 +49,14 @@ In statistics, an outlier is an observation point that is distant from other obs
 That being said, `outliers` in a graph are the **`MINORITY`** of the values.
 
 
-![image](20180803080319_❖-Describing-Distributions_files/img_05.png)
+![image](20180803080319_❖-Describing-Distributions_img_05.png)
 
 ### Statistical definition 「1.5·IQR Rule」
 
 Outliers are the value fall out of the `Fence`, which the `Upper fence` and `Lower fence` are:
-![image](20180803080319_❖-Describing-Distributions_files/img_06.png)
+![image](20180803080319_❖-Describing-Distributions_img_06.png)
 
-![image](20180803080319_❖-Describing-Distributions_files/img_07.png)
+![image](20180803080319_❖-Describing-Distributions_img_07.png)
 
 
 

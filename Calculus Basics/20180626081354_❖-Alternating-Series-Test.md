@@ -11,33 +11,33 @@ It means,
 **Terms of the series "alternate"  between positive and negative.**
 
 etc., `The alternating harmonic series`:
-![image](20180626081354_❖-Alternating-Series-Test_files/img_01.png)
+![image](20180626081354_❖-Alternating-Series-Test_img_01.png)
 
 
 ## The Alternating Series Test
 
-![image](20180626081354_❖-Alternating-Series-Test_files/img_02.png)
+![image](20180626081354_❖-Alternating-Series-Test_img_02.png)
 
 The very good example of this test is the `Alternating Harmonic Series`:
 
-![image](20180626081354_❖-Alternating-Series-Test_files/img_03.png)
+![image](20180626081354_❖-Alternating-Series-Test_img_03.png)
 
 ▲ It does **CONVERGES**. (But the Harmonic Series does NOT converge)
 
 Strategy:
 - Take AWAY the `Alternating sign (-1)ⁿ`:
-![image](20180626081354_❖-Alternating-Series-Test_files/img_04.png)
+![image](20180626081354_❖-Alternating-Series-Test_img_04.png)
 - Determine if the rest part is a decreasing series:
-![image](20180626081354_❖-Alternating-Series-Test_files/img_05.png)
+![image](20180626081354_❖-Alternating-Series-Test_img_05.png)
 - Take limit of the rest part:
-![image](20180626081354_❖-Alternating-Series-Test_files/img_06.png)
+![image](20180626081354_❖-Alternating-Series-Test_img_06.png)
 - If `Limit = 0`, then the series **CONVERGES**.
 - If `Limit ≠ 0`, then the series **DIVERGES**.
 
 
 
 ### Example
-![image](20180626081354_❖-Alternating-Series-Test_files/img_07.png)
+![image](20180626081354_❖-Alternating-Series-Test_img_07.png)
 Solve:
 - Notice this is an `alternating series`, so we're to apply the `alternating series test`.
 - Take away the `alternating term`, and left with `(2/p)ⁿ`.
@@ -48,7 +48,7 @@ Solve:
 
 
 ### Example
-![image](20180626081354_❖-Alternating-Series-Test_files/img_08.png)
+![image](20180626081354_❖-Alternating-Series-Test_img_08.png)
 Solve:
 - Notice this is an `alternating series`, so we're to apply the `alternating series test`.
 - Take away the `alternating term`, and left with `(2n)ᴾ`.

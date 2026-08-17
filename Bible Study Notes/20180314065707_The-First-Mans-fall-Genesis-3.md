@@ -1,7 +1,7 @@
 # `The First Man's fall` Genesis 3
 Genesis three is the start of `Human's Fall`.
 
-![image](20180314065707_The-First-Mans-fall-Genesis-3_files/img_01.png)
+![image](20180314065707_The-First-Mans-fall-Genesis-3_img_01.png)
 
 
 ### Gen 3:1
