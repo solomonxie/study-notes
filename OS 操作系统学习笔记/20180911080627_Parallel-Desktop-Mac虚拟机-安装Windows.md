@@ -3,55 +3,55 @@
 
 ## 安装Ghost版Win7系统
 
-![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_files/img_01.png)
+![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_img_01.png)
 
-![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_files/img_02.png)
+![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_img_02.png)
 
-![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_files/img_03.png)
+![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_img_03.png)
 
 无法检测到系统没关系，可以自己手动选：
 
-![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_files/img_04.png)
+![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_img_04.png)
 
-![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_files/img_05.png)
+![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_img_05.png)
 
 
 
-![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_files/img_06.png)
+![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_img_06.png)
 
 
 设置自己想要的硬件等配置：
 
-![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_files/img_07.png)
+![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_img_07.png)
 
 
-![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_files/img_08.png)
+![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_img_08.png)
 
 
 记得调整好开机的读取顺序，相当于设置主机的BIOS了：
 
-![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_files/img_09.png)
+![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_img_09.png)
 
 
 开始正常安装：
 
-![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_files/img_10.png)
+![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_img_10.png)
 
 
 进入了光盘或USB的安装界面，选择WinPE系统：
 
-![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_files/img_11.png)
+![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_img_11.png)
 
 
 进到WinPE系统中会看到，本地没有磁盘。
 实际上是虚拟机分配了，但没有格式化的原因。
 打开分区软件，手动格式化：
 
-![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_files/img_12.png)
+![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_img_12.png)
 
 之后就是常规的Ghost安装了。
 
-![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_files/img_13.png)
+![image](20180911080627_Parallel-Desktop-Mac虚拟机-安装Windows_img_13.png)
 
 
 

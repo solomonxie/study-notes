@@ -22,18 +22,18 @@ then there're 2 steps to calculate the _Confidence Interval_:
 
 ### Finding the Sampling Distribution
 We know for constructing a Sampling Distribution we need the **Mean & Variance**:
-![image](20180905070956_Calculating-Confidence-Interval-DEPRECATED_files/img_01.png)
+![image](20180905070956_Calculating-Confidence-Interval-DEPRECATED_img_01.png)
 
 Since the _population variance_ `𝜎²` is **UNKNOWN** to us,
 so we are to **estimate** the _population variance_ by the sample's "_best estimator_" (point estimator), which is _Sample Variance_ s² in this case.
-![image](20180905070956_Calculating-Confidence-Interval-DEPRECATED_files/img_02.png)
+![image](20180905070956_Calculating-Confidence-Interval-DEPRECATED_img_02.png)
 
 _s²_ is the _Sample Variance_, there're two types of formula:
 here is the common formula:
-![image](20180905070956_Calculating-Confidence-Interval-DEPRECATED_files/img_03.png)
+![image](20180905070956_Calculating-Confidence-Interval-DEPRECATED_img_03.png)
 
 here is the formula for sample proportion:
-![image](20180905070956_Calculating-Confidence-Interval-DEPRECATED_files/img_04.png)
+![image](20180905070956_Calculating-Confidence-Interval-DEPRECATED_img_04.png)
 
 
 We assume the Sampling Distribution is **normally distributed**.
@@ -52,7 +52,7 @@ We've learnt how to convert a _percentile_ to z-score, and how about the `Cumula
 It's easy, in the graph we see that the _Confidence Level_ is the **middle part**.
 if we cut the middle off, we'll get **two tails**, and either one can tell us the **percentile** position.
 
-![image](20180905070956_Calculating-Confidence-Interval-DEPRECATED_files/img_05.png)
+![image](20180905070956_Calculating-Confidence-Interval-DEPRECATED_img_05.png)
 
 
 

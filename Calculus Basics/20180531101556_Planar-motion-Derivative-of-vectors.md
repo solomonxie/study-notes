@@ -12,7 +12,7 @@ Here are some algebraical expressions:
 [Jump to do the Khan academy practice.](https://www.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/modal/e/planar-motion-differential-calc)
 
 ### Example
-![image](20180531101556_Planar-motion-Derivative-of-vectors_files/img_01.png)
+![image](20180531101556_Planar-motion-Derivative-of-vectors_img_01.png)
 Solve:
 - Write down all the conditions algebraically:
     - Position: `P(t) = (x, y) = (-t²+10t, t³-10t)`
@@ -21,7 +21,7 @@ Solve:
 - Substitute to get `v(4) = (2, 38)`
 
 ### Example
-![image](20180531101556_Planar-motion-Derivative-of-vectors_files/img_02.png)
+![image](20180531101556_Planar-motion-Derivative-of-vectors_img_02.png)
 Solve:
 - `P(t) = (2t²-6t, -t³+10t)`
 - `v(t) = P'(t) = (4t-6, -3t²+10)`
@@ -30,7 +30,7 @@ Solve:
 
 
 ### `Example: Motion along a curve`
-![image](20180531101556_Planar-motion-Derivative-of-vectors_files/img_03.png)
+![image](20180531101556_Planar-motion-Derivative-of-vectors_img_03.png)
 [Refer to Khan academy's quizzes for these practices](https://www.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/modal/e/motion-along-a-curve-differential-calc)
 Solve:
 - Position: `P(t) = (x, y)`
@@ -42,7 +42,7 @@ Solve:
 - Substitute `(1,4)` to the `y`'s rate of change to get `y' = 2*4/1 = 8`
 
 ### Example
-![image](20180531101556_Planar-motion-Derivative-of-vectors_files/img_04.png)
+![image](20180531101556_Planar-motion-Derivative-of-vectors_img_04.png)
 Solve:
 - `P(t) = (x, y)`
 - `x' = 1/2`

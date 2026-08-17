@@ -15,7 +15,7 @@ It is obtained from a statistic which is calculated from a randomly selected sam
 
 Common `population parameters`:
 
-![image](20180806112215_❖-Population-Parameters-DRAFT_files/img_01.png)
+![image](20180806112215_❖-Population-Parameters-DRAFT_img_01.png)
 
 
 
@@ -33,7 +33,7 @@ The word _statistic_ although generally refers to a fact about the data, but it 
 ## How parameters change as data is shifted and scaled
 [Refer to Khan academy: How parameters change as data is shifted and scaled](https://www.khanacademy.org/math/ap-statistics/density-curves-normal-distribution-ap/modal/v/how-parameters-change-as-data-is-shifted-and-scaled)
 
-![image](20180806112215_❖-Population-Parameters-DRAFT_files/img_02.png)
+![image](20180806112215_❖-Population-Parameters-DRAFT_img_02.png)
 
 We see that:
 - Adding a number to each value: The Central tendencies (Mean/Median) will **INCREASE** the same amount with each value. And Spread (Standard deviation/IQR) will **NOT** change.
@@ -41,7 +41,7 @@ We see that:
 
 
 ### Example
-![image](20180806112215_❖-Population-Parameters-DRAFT_files/img_03.png)
+![image](20180806112215_❖-Population-Parameters-DRAFT_img_03.png)
 
 Solve:
 - The mean will be affected by both **shifting** and **scaling**, so the new mean is `5/9 * (104-32) = 40`

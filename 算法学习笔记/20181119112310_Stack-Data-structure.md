@@ -2,7 +2,7 @@
 
 [Refer to wiki: Stack (abstract data type) ](https://www.wikiwand.com/en/Stack_(abstract_data_type))
 
-![image](20181119112310_Stack-Data-structure_files/img_01.png)
+![image](20181119112310_Stack-Data-structure_img_01.png)
 
 
 ## ADT DEFINITION
@@ -58,5 +58,5 @@ OPERATIONS:
 
 ## ANALYSIS
 
-![image](20181119112310_Stack-Data-structure_files/img_02.png)
+![image](20181119112310_Stack-Data-structure_img_02.png)
 

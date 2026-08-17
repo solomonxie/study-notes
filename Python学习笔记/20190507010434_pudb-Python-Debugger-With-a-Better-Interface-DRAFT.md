@@ -17,7 +17,7 @@ $ py.test -sv /path/to/tests
 
 ## Navigate
 
-![image](20190507010434_pudb-Python-Debugger-With-a-Better-Interface-DRAFT_files/img_01.png)
+![image](20190507010434_pudb-Python-Debugger-With-a-Better-Interface-DRAFT_img_01.png)
 
 
 
@@ -25,12 +25,12 @@ $ py.test -sv /path/to/tests
 
 `Ctrl-p` to edit preferences.
 
-![image](20190507010434_pudb-Python-Debugger-With-a-Better-Interface-DRAFT_files/img_02.png)
+![image](20190507010434_pudb-Python-Debugger-With-a-Better-Interface-DRAFT_img_02.png)
 
 
 
 ## Themes
 
 ### Midnight
-![image](20190507010434_pudb-Python-Debugger-With-a-Better-Interface-DRAFT_files/img_03.png)
+![image](20190507010434_pudb-Python-Debugger-With-a-Better-Interface-DRAFT_img_03.png)
 

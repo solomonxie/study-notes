@@ -44,7 +44,7 @@ $ convert sample.pdf sample.jpg
 
 命令非常简单，速度也极快。但是在PDF转图片的过程中，如果不加任何设置直接`convert xx.pdf xx.png`这样的转换，效果可是**非常之差**，如下图：
 
-![image](20180602112141_❖-Linux上强大的PDF工具集：ImageMagick_files/img_01.png)
+![image](20180602112141_❖-Linux上强大的PDF工具集：ImageMagick_img_01.png)
 
 注意：一般如果设置输出为png的话，程序会提出警告：
 convert: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG sample-default-convert.png' @ warning/png.c/MagickPNGWarningHandler/1744.

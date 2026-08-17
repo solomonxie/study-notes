@@ -36,5 +36,5 @@ Mac上`brew install cmake`即可。
 
 完成后，可以看到100%：
 
-![image](20181126165002_❖-Vim最强自动补全插件Yourcompleteme安装_files/img_01.png)
+![image](20181126165002_❖-Vim最强自动补全插件Yourcompleteme安装_img_01.png)
 

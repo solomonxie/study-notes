@@ -7,12 +7,12 @@
 
 
 ▼ `Euler's formula`:
-![image](20180706073832_「Eulers-Formula」-「Eulers-Identity」_files/img_01.png)
+![image](20180706073832_「Eulers-Formula」-「Eulers-Identity」_img_01.png)
 
-![image](20180706073832_「Eulers-Formula」-「Eulers-Identity」_files/img_02.png)
+![image](20180706073832_「Eulers-Formula」-「Eulers-Identity」_img_02.png)
 
 
 ▼ `Euler's identity`:
-![image](20180706073832_「Eulers-Formula」-「Eulers-Identity」_files/img_03.png)
+![image](20180706073832_「Eulers-Formula」-「Eulers-Identity」_img_03.png)
 
 

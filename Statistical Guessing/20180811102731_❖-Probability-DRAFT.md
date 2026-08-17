@@ -8,5 +8,5 @@
 - `Theoretical Probability`: It's what's expected to happen based on the possible outcomes, assuming equally likely events.
 - `Experimental Probability`: It's the result of an experiment or simulation after a large number of times.
 
-![image](20180811102731_❖-Probability-DRAFT_files/img_01.png)
+![image](20180811102731_❖-Probability-DRAFT_img_01.png)
 

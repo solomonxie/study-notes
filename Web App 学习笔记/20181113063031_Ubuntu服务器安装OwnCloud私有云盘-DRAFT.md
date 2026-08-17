@@ -90,13 +90,13 @@ echo "========== (OwnCloud Installing Finished) ==========="
 ## 初始配置
 安装好后，访问`http://你的IP/owncloud`，就能看到这个画面，要求你设置初始用户名密码：
 
-![image](20181113063031_Ubuntu服务器安装OwnCloud私有云盘-DRAFT_files/img_01.png)
+![image](20181113063031_Ubuntu服务器安装OwnCloud私有云盘-DRAFT_img_01.png)
 
 重制密码方法：
 ```sh
 $ sudo -u www-data php occ user:resetpassword <用户名>
 ```
-![image](20181113063031_Ubuntu服务器安装OwnCloud私有云盘-DRAFT_files/img_02.png)
+![image](20181113063031_Ubuntu服务器安装OwnCloud私有云盘-DRAFT_img_02.png)
 
 
 ## 开启Https支持(SSL)

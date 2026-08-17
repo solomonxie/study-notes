@@ -17,10 +17,10 @@ The circle with shift, then it could be like below:
 (x - a)² + (y - b)² = r²
 ```
 > It comes straight out of the `Pythagorean theorem` for triangle, that for any point `(x, y)` on the circle has centre at `(a, b)`, to calculate the radius `r`, that equation above is true.
-![image](20180323123226_Equations-of-Circle_files/img_01.png)
+![image](20180323123226_Equations-of-Circle_img_01.png)
 
 For example, this is a standard equation for circle:
-![image](20180323123226_Equations-of-Circle_files/img_02.png)
+![image](20180323123226_Equations-of-Circle_img_02.png)
 
 We can eyeball it out, the **CENTER** is `(5.2, -3.7)`, and **RADIUS** is √49, aka. `7`.
 

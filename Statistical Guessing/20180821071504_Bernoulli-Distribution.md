@@ -7,10 +7,10 @@ the question results in a `boolean-valued outcome`, a single bit of information 
 [Refer to wiki: Bernoulli Distribution](https://www.wikiwand.com/en/Bernoulli_distribution)
 [Refer to Khan academy: Bernoulli distribution mean and variance formulas](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/modal/v/bernoulli-distribution-mean-and-variance-formulas)
 
-![image](20180821071504_Bernoulli-Distribution_files/img_01.png)
+![image](20180821071504_Bernoulli-Distribution_img_01.png)
 
 ## 「Mean & Variance」of Bernoulli Distribution
-![image](20180821071504_Bernoulli-Distribution_files/img_02.png)
+![image](20180821071504_Bernoulli-Distribution_img_02.png)
 
 
 
@@ -20,5 +20,5 @@ the question results in a `boolean-valued outcome`, a single bit of information 
 
 All Bernoulli distributions are binomial distributions, but most binomial distributions are not Bernoulli distributions.
 
-![image](20180821071504_Bernoulli-Distribution_files/img_03.png)
+![image](20180821071504_Bernoulli-Distribution_img_03.png)
 

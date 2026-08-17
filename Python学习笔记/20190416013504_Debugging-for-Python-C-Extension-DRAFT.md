@@ -5,5 +5,5 @@ Observation:
 - You can `printf(..)` in the C code to do basic debugging.
 
 Not sure if this works:
-![image](20190416013504_Debugging-for-Python-C-Extension-DRAFT_files/img_01.png)
+![image](20190416013504_Debugging-for-Python-C-Extension-DRAFT_img_01.png)
 

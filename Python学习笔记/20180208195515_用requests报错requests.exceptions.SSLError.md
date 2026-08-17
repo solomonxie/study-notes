@@ -1,5 +1,5 @@
 # 用requests报错`requests.exceptions.SSLError`
-![image](20180208195515_用requests报错requests.exceptions.SSLError_files/img_01.png)
+![image](20180208195515_用requests报错requests.exceptions.SSLError_img_01.png)
 明明没有改代码，突然就报这种错误。
 调查发现，原来是被服务器拒了。可能是今天来回调试，多次访问同一个地址，就被屏蔽了。
 但是，同样是没有设置请求Headers的客户端postman和insomnia就还能正常访问，不知道为什么。

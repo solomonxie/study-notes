@@ -1,7 +1,7 @@
 # `Signs` of trig functions
 > Before solving a trig equation, need look at the `sign` of the equation, AND identify which one or multiple `quadrants` will the solutions land in. 
 
-![image](20180402150300_Signs-of-trig-functions_files/img_01.png)
+![image](20180402150300_Signs-of-trig-functions_img_01.png)
 
 - `Quadrant I`: All trig functions are **POSITIVE**.
 - `Quadrant II`: Only `sin(x)` is **POSITIVE**, others are all NEGATIVE.

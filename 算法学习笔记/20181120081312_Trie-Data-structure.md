@@ -1,6 +1,6 @@
 # `Trie` (Data structure)
 
-![image](20181120081312_Trie-Data-structure_files/img_01.png)
+![image](20181120081312_Trie-Data-structure_img_01.png)
 
 
 > It's called the `Trie Search Tree`, "trie" pronounced as "try".

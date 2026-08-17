@@ -3,7 +3,7 @@
 > Graphs are collections of `nodes` (also called vertices) and the `connections` (called edges) between them. 
 Graphs are also known as `networks`.
 
-![image](20181120085424_Graph-Data-structure_files/img_01.png)
+![image](20181120085424_Graph-Data-structure_img_01.png)
 
 There are two major types of graphs: 
 - `Directed`: graphs with a direction in its edges.
@@ -11,9 +11,9 @@ There are two major types of graphs:
 
 Two common ways to represent a graph are:
 - an `Adjacency List`: a list where the left side is the node and the right side lists all the other nodes it’s connected to.
-![image](20181120085424_Graph-Data-structure_files/img_02.png)
+![image](20181120085424_Graph-Data-structure_img_02.png)
 - an `Adjacency Matrix`: a grid of numbers, where each row or column represents a different node in the graph.
-![image](20181120085424_Graph-Data-structure_files/img_03.png)
+![image](20181120085424_Graph-Data-structure_img_03.png)
 
 
 
@@ -38,5 +38,5 @@ OPERATIONS:
 
 ## ANALYSIS
 
-![image](20181120085424_Graph-Data-structure_files/img_04.png)
+![image](20181120085424_Graph-Data-structure_img_04.png)
 

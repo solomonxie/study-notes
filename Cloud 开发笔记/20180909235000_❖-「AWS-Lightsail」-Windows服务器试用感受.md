@@ -5,28 +5,28 @@ Lightsail或EC2都能设置Windows服务器，很简单。
 创建好后，默认用户是`Administrator`，但是密码要等后台生成才能登录。
 Lightsail后台里可以直接在浏览器里打开远程桌面，本地（Mac／Win／Linux）的工具连接也很简单。
 
-![image](20180909235000_❖-「AWS-Lightsail」-Windows服务器试用感受_files/img_01.png)
+![image](20180909235000_❖-「AWS-Lightsail」-Windows服务器试用感受_img_01.png)
 
 
 有问题的地方是AWS生成Windows服务器的密码问题，它会生成一串随机的默认密码，需要你等待。
 
-![image](20180909235000_❖-「AWS-Lightsail」-Windows服务器试用感受_files/img_02.png)
+![image](20180909235000_❖-「AWS-Lightsail」-Windows服务器试用感受_img_02.png)
 
 但是经常性的密码会无法生成，总显示：
 
 
-![image](20180909235000_❖-「AWS-Lightsail」-Windows服务器试用感受_files/img_03.png)
+![image](20180909235000_❖-「AWS-Lightsail」-Windows服务器试用感受_img_03.png)
 
 根据网上的经验，如果10-15分钟还没有生成好密码，那等多久也没法生成出来，也就没法登录，需要删除实例再创建，直到能生成密码为止（可以换个windows版本试试）
 
 换了几个region，换了个windows（2012），终于可以出来一个有密码的了。如下：
 
-![image](20180909235000_❖-「AWS-Lightsail」-Windows服务器试用感受_files/img_04.png)
+![image](20180909235000_❖-「AWS-Lightsail」-Windows服务器试用感受_img_04.png)
 
 然后用administrator用户名，和这个密码，简单顺利登录。
 桌面很简单,
 
-![image](20180909235000_❖-「AWS-Lightsail」-Windows服务器试用感受_files/img_05.png)
+![image](20180909235000_❖-「AWS-Lightsail」-Windows服务器试用感受_img_05.png)
 
 
 测试，和一般的windows没什么区别，能正常装软件浏览器，看视频。只不过视频很卡就是了。

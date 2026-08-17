@@ -14,7 +14,7 @@ For example, I have a `fix-decoding` branch, and the hash key for its HEAD (newe
 What git does for our convenience is to create an _alias_ for that as a file at `.git/refs/heads/fix-decoding`, which has only the content `d914f9ad7d6547167f2f182ba7daa7174431b7ed`.
 
 
-![git-refs](20190406074029_What-is-a-Git-Reference_files/img_01.gif)
+![git-refs](20190406074029_What-is-a-Git-Reference_img_01.gif)
 
 
 So what you have in the `.git/ref` directory is:

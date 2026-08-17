@@ -21,7 +21,7 @@ docker run --name kcptun -p 6000:6500/udp -d --restart=always xtaci/kcptun \
 Kcptun也可以暴露同样的6000端口，两者一个用tcp一个用udp，互不冲突，比较好记。
 
 Mac上ShadowsocksX-NG客户端连接：
-![image](20200309045411_Docker一键部署Shadowsocks-+-Kcptun_files/img_01.png)
+![image](20200309045411_Docker一键部署Shadowsocks-+-Kcptun_img_01.png)
 
 
 

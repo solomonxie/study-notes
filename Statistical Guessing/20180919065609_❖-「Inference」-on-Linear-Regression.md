@@ -14,7 +14,7 @@ It can be concluded as `L-I-N-E-R`:
 
 Here's the formula for estimating the slope:
 
-![image](20180919065609_❖-「Inference」-on-Linear-Regression_files/img_01.png)
+![image](20180919065609_❖-「Inference」-on-Linear-Regression_img_01.png)
 
 Notice: 
 - We're using `T-interval` for estimating slope
@@ -22,11 +22,11 @@ Notice:
 
 ### Interpreting the output of 「Inference of Slope」
 
-![image](20180919065609_❖-「Inference」-on-Linear-Regression_files/img_02.png)
+![image](20180919065609_❖-「Inference」-on-Linear-Regression_img_02.png)
 
 
 ### Example
-![image](20180919065609_❖-「Inference」-on-Linear-Regression_files/img_03.png)
+![image](20180919065609_❖-「Inference」-on-Linear-Regression_img_03.png)
 Solve:
 - Interpret the table.
 - Collect essential values for calculating CI:
@@ -34,19 +34,19 @@ Solve:
     - T-value
     - Sample size
 - Calculate with formula
-![image](20180919065609_❖-「Inference」-on-Linear-Regression_files/img_04.png)
+![image](20180919065609_❖-「Inference」-on-Linear-Regression_img_04.png)
 
 
 
 ## 「T statistic」 for Slope
 
 Here is the formula for T statistic for slope:
-![image](20180919065609_❖-「Inference」-on-Linear-Regression_files/img_05.png)
+![image](20180919065609_❖-「Inference」-on-Linear-Regression_img_05.png)
 
 ### Example
-![image](20180919065609_❖-「Inference」-on-Linear-Regression_files/img_06.png)
+![image](20180919065609_❖-「Inference」-on-Linear-Regression_img_06.png)
 Solve:
-![image](20180919065609_❖-「Inference」-on-Linear-Regression_files/img_07.png)
+![image](20180919065609_❖-「Inference」-on-Linear-Regression_img_07.png)
 
 
 
@@ -64,8 +64,8 @@ Since `Confidence Level + Significance Level = 100%`:
 - CI includes 0 ▶ Larger interval & smaller significance ▶ Significance level < P-value ▶ Reject
 
 ### Example
-![image](20180919065609_❖-「Inference」-on-Linear-Regression_files/img_08.png)
+![image](20180919065609_❖-「Inference」-on-Linear-Regression_img_08.png)
 Solve:
-![image](20180919065609_❖-「Inference」-on-Linear-Regression_files/img_09.png)
+![image](20180919065609_❖-「Inference」-on-Linear-Regression_img_09.png)
 
 

@@ -8,5 +8,5 @@ Prerequisite:
 - Confidence Interval
 - Hypothesis Test
 
-![image](20180809084654_Output-of-Least-square-Regression_files/img_01.png)
+![image](20180809084654_Output-of-Least-square-Regression_img_01.png)
 

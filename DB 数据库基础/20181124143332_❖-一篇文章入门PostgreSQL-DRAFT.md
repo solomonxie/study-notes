@@ -95,7 +95,7 @@ sudo service postgresql restart
 
 ### PSequel
 
-![image](20181124143332_❖-一篇文章入门PostgreSQL-DRAFT_files/img_01.png)
+![image](20181124143332_❖-一篇文章入门PostgreSQL-DRAFT_img_01.png)
 
 
 ## 进入Postgres客户端
@@ -103,7 +103,7 @@ sudo service postgresql restart
 这一步因为涉及权限问题，所以会复杂一些。
 
 用`apt-get`安装好后，会在系统中自动添加一个`postgres`用户。
-![image](20181124143332_❖-一篇文章入门PostgreSQL-DRAFT_files/img_02.png)
+![image](20181124143332_❖-一篇文章入门PostgreSQL-DRAFT_img_02.png)
 
 我们只有在系统里用postgres帐户登录，然后才能有权限用客户端进行各种交互：
 ```sh
@@ -134,7 +134,7 @@ $ sudo -u postgres psql 数据库名称
 进入`psql`客户端提供的shell后，就可以真正的开始对数据库、数据表进行各种熟悉的操作了。
 不过要注意，`psql`的shell命令与Linux系列的shell完全不同，连参数都是用`\h`这样的。
 
-![image](20181124143332_❖-一篇文章入门PostgreSQL-DRAFT_files/img_03.png)
+![image](20181124143332_❖-一篇文章入门PostgreSQL-DRAFT_img_03.png)
 
 注意：
 - PostgreSQL是遵循标准的SQL语法标准，所以是不区分大小写的。
@@ -171,7 +171,7 @@ SELECT now();
 
 [参考官网：PostgreSQL Data Types](http://www.postgresqltutorial.com/postgresql-data-types/)
 
-![image](20181124143332_❖-一篇文章入门PostgreSQL-DRAFT_files/img_04.png)
+![image](20181124143332_❖-一篇文章入门PostgreSQL-DRAFT_img_04.png)
 
 
 ## 运算符

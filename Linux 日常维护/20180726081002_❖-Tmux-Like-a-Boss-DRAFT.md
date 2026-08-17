@@ -50,7 +50,7 @@ Continuum会默认每15分钟调用一次tmux-resurrect插件的保存功能。�
 参考[官方Github的issues](https://github.com/tmux-plugins/tmux-continuum/issues/22)，
 作者说，tmux-continuum是由`Status bar`中触发continuum的脚本从而达到自动保存的作用，所以很有可能在修改tmux状态栏时候，产生了冲突造成continuum不生效。
 
-![image](20180726081002_❖-Tmux-Like-a-Boss-DRAFT_files/img_01.png)
+![image](20180726081002_❖-Tmux-Like-a-Boss-DRAFT_img_01.png)
 
 根据经验，`.tmux.conf`的其它所有改动都可以在`<前缀键>r`后立即生效，
 **唯独修改continuum相关设置，必须杀死所有tmux相关进程和session后才会生效。**

@@ -4,42 +4,42 @@
 
 `Maclaurin series` is a special case of `Taylor Series` which centres at `x=0`.
 
-![image](20180702084022_❖-Maclaurin-Series_files/img_01.png)
+![image](20180702084022_❖-Maclaurin-Series_img_01.png)
 
 
 ▼Expand it we'll understand it better:
-![image](20180702084022_❖-Maclaurin-Series_files/img_02.png)
+![image](20180702084022_❖-Maclaurin-Series_img_02.png)
 
 
 ▼Here is a graph we're trying to approximate a function centred at `x=0`:
-![image](20180702084022_❖-Maclaurin-Series_files/img_03.png)
+![image](20180702084022_❖-Maclaurin-Series_img_03.png)
 
 
 ### Example
-![image](20180702084022_❖-Maclaurin-Series_files/img_04.png)
+![image](20180702084022_❖-Maclaurin-Series_img_04.png)
 Solve:
 - This problem is to test if you're familiar with the `Maclaurin Series Formula`.
 - Let's ignore all others and only see the asked `x⁴`.
 - `x⁴` means we're gonna find out the term of the `4th derivative`, and plug in 4 into the formula, we'll get the term:
-![image](20180702084022_❖-Maclaurin-Series_files/img_05.png)
+![image](20180702084022_❖-Maclaurin-Series_img_05.png)
 - It's asking for the coefficient of `x⁴`, which is the rest part in that formula for the term:
-![image](20180702084022_❖-Maclaurin-Series_files/img_06.png)
+![image](20180702084022_❖-Maclaurin-Series_img_06.png)
 - And we only need to find out what is the value of the `4th derivative`.
 - By the given formula of `gᴺ(0)`, we can get: 
-![image](20180702084022_❖-Maclaurin-Series_files/img_07.png)
+![image](20180702084022_❖-Maclaurin-Series_img_07.png)
 - So the coefficient will be:
-![image](20180702084022_❖-Maclaurin-Series_files/img_08.png)
+![image](20180702084022_❖-Maclaurin-Series_img_08.png)
 
 
 ### Example
-![image](20180702084022_❖-Maclaurin-Series_files/img_09.png)
+![image](20180702084022_❖-Maclaurin-Series_img_09.png)
 Solve:
 - We know the `Maclaurin series` is a Taylor series centred at `x=0`, and the formula is:
-![image](20180702084022_❖-Maclaurin-Series_files/img_10.png)
+![image](20180702084022_❖-Maclaurin-Series_img_10.png)
 - It's told to list 4 terms, so we plug in the given value of `f', f'', f'''`  and get:
-![image](20180702084022_❖-Maclaurin-Series_files/img_11.png)
+![image](20180702084022_❖-Maclaurin-Series_img_11.png)
 - And we get the answer:
-![image](20180702084022_❖-Maclaurin-Series_files/img_12.png)
+![image](20180702084022_❖-Maclaurin-Series_img_12.png)
 
 
 ## Evaluate 「Maclaurin Series」

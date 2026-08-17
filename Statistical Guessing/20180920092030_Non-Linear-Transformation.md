@@ -7,17 +7,17 @@
 
 There are several non-linear curves that that can be transformed into linear curves.
 
-![image](20180920092030_Non-Linear-Transformation_files/img_01.png)
+![image](20180920092030_Non-Linear-Transformation_img_01.png)
 
 
 ### Example
-![image](20180920092030_Non-Linear-Transformation_files/img_02.png)
+![image](20180920092030_Non-Linear-Transformation_img_02.png)
 Solve:
-![image](20180920092030_Non-Linear-Transformation_files/img_03.png)
+![image](20180920092030_Non-Linear-Transformation_img_03.png)
 
 
 ### Example
-![image](20180920092030_Non-Linear-Transformation_files/img_04.png)
+![image](20180920092030_Non-Linear-Transformation_img_04.png)
 Solve:
-![image](20180920092030_Non-Linear-Transformation_files/img_05.png)
+![image](20180920092030_Non-Linear-Transformation_img_05.png)
 

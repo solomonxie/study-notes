@@ -1,7 +1,7 @@
 # Vscode终端Terminal无法显示zsh的字体问题
 
 一般ZSH字体都很漂亮，不是`Meslo`就是`DroidSansMono`，但是vscode的终端显示不出来，如下：
-![image](20180611021039_Vscode终端Terminal无法显示zsh的字体问题_files/img_01.png)
+![image](20180611021039_Vscode终端Terminal无法显示zsh的字体问题_img_01.png)
 
 参考：https://github.com/Microsoft/vscode/issues/15119#issuecomment-259248159
 
@@ -17,7 +17,7 @@
 
 设置完后点保存，terminal就自动变样了：
 
-![image](20180611021039_Vscode终端Terminal无法显示zsh的字体问题_files/img_02.png)
+![image](20180611021039_Vscode终端Terminal无法显示zsh的字体问题_img_02.png)
 
 
 注意要检查你本地系统里有没有同名的字体，只有存在时才能正常显示。

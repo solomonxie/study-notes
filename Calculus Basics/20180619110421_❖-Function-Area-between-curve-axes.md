@@ -9,7 +9,7 @@ Strategy:
 - Directly Integrate the function: `ʃ f(x) dx` over the interval.
 
 ### Example
-![image](20180619110421_❖-Function-Area-between-curve-axes_files/img_01.png)
+![image](20180619110421_❖-Function-Area-between-curve-axes_img_01.png)
 Solve:
 - The interval is between `0 & x when f(x)=0`.
 - Set `f(x) = 0 = 2 + 2cos(x)` -> `cos(x)=-1` -> `x = arccos(-1) = π`
@@ -28,18 +28,18 @@ Strategy:
 
 
 ### Example
-![image](20180619110421_❖-Function-Area-between-curve-axes_files/img_02.png)
+![image](20180619110421_❖-Function-Area-between-curve-axes_img_02.png)
 Solve:
 - Now we have the function `f(y) = 15/y`
 - Integrate the function in term of `y`:
-![image](20180619110421_❖-Function-Area-between-curve-axes_files/img_03.png)
+![image](20180619110421_❖-Function-Area-between-curve-axes_img_03.png)
 
 
 ### Example
-![image](20180619110421_❖-Function-Area-between-curve-axes_files/img_04.png)
+![image](20180619110421_❖-Function-Area-between-curve-axes_img_04.png)
 Solve:
 - Integral the function in term of `y`:
-![image](20180619110421_❖-Function-Area-between-curve-axes_files/img_05.png)
+![image](20180619110421_❖-Function-Area-between-curve-axes_img_05.png)
 
 
 
@@ -57,11 +57,11 @@ Strategy:
  
 ### Example
  
-![image](20180619110421_❖-Function-Area-between-curve-axes_files/img_06.png)
+![image](20180619110421_❖-Function-Area-between-curve-axes_img_06.png)
  
 Solve:
  
-![image](20180619110421_❖-Function-Area-between-curve-axes_files/img_07.png)
+![image](20180619110421_❖-Function-Area-between-curve-axes_img_07.png)
  
 
  
@@ -69,31 +69,31 @@ Solve:
  
 ### Example
  
-![image](20180619110421_❖-Function-Area-between-curve-axes_files/img_08.png)
+![image](20180619110421_❖-Function-Area-between-curve-axes_img_08.png)
  
 Solve:
  
 - The graph is as below:
  
-![image](20180619110421_❖-Function-Area-between-curve-axes_files/img_09.png)
+![image](20180619110421_❖-Function-Area-between-curve-axes_img_09.png)
  
 - We can actually ignore the graph to calculate:
  
-![image](20180619110421_❖-Function-Area-between-curve-axes_files/img_10.png)
+![image](20180619110421_❖-Function-Area-between-curve-axes_img_10.png)
  
 
 
 ## 「Horizontal areas」 between curves
 
 ### Example
-![image](20180619110421_❖-Function-Area-between-curve-axes_files/img_11.png)
+![image](20180619110421_❖-Function-Area-between-curve-axes_img_11.png)
 Solve:
 - Clearly, it's bit harder to find the x-axis boundaries for the area.
 - And the y-axis boundaries could be easily found where as the point two curves intersect.
 - So let two equations equal to get two intersect points:
-![image](20180619110421_❖-Function-Area-between-curve-axes_files/img_12.png)
+![image](20180619110421_❖-Function-Area-between-curve-axes_img_12.png)
 - And since it's area between two functions, we subtract one from another `f(y) - g(y)` to get:
-![image](20180619110421_❖-Function-Area-between-curve-axes_files/img_13.png)
+![image](20180619110421_❖-Function-Area-between-curve-axes_img_13.png)
 - So the result would be:
-![image](20180619110421_❖-Function-Area-between-curve-axes_files/img_14.png)
+![image](20180619110421_❖-Function-Area-between-curve-axes_img_14.png)
 

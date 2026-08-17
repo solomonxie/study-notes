@@ -4,6 +4,6 @@
 
 [Refer to Kaggle: Partial Dependence Plots](https://www.kaggle.com/dansbecker/partial-dependence-plots)
 
-![image](20181008093459_Partial-Dependence-Plots_files/img_01.png)
+![image](20181008093459_Partial-Dependence-Plots_img_01.png)
 
 Partial dependence plots are a great way (though not the only way) to extract insights from complex models. These can be incredibly powerful for communicating those insights to colleagues or non-technical users.

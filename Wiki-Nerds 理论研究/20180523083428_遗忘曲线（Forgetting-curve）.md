@@ -21,8 +21,8 @@
 7． 第七个记忆周期：7天
 8． 第八个记忆周期：15天
 
-![image](20180523083428_遗忘曲线（Forgetting-curve）_files/img_01.png)
+![image](20180523083428_遗忘曲线（Forgetting-curve）_img_01.png)
 
 ## 公式
-![image](20180523083428_遗忘曲线（Forgetting-curve）_files/img_02.png)
+![image](20180523083428_遗忘曲线（Forgetting-curve）_img_02.png)
 

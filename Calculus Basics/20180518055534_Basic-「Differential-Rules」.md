@@ -1,6 +1,6 @@
 # Basic 「Differential Rules」
 
-![image](20180518055534_Basic-「Differential-Rules」_files/img_01.png)
+![image](20180518055534_Basic-「Differential-Rules」_img_01.png)
 
 > [`Jump over to Basic Integral Rules`](https://github.com/solomonxie/solomonxie.github.io/issues/49#issuecomment-395356656)
 
@@ -19,9 +19,9 @@ Reciprocal Rule | 1 / f | −f’ / f²
 Chain Rule | f(g(x)) | f’(g(x)) · g’(x)
 Exponent Rule | eˣ | eˣ
                      | aˣ | aˣ · ln(a)
-Log Rule | ![image](20180518055534_Basic-「Differential-Rules」_files/img_02.png) |![image](20180518055534_Basic-「Differential-Rules」_files/img_03.png)
+Log Rule | ![image](20180518055534_Basic-「Differential-Rules」_img_02.png) |![image](20180518055534_Basic-「Differential-Rules」_img_03.png)
 Natural Log Rule | ln(x) | 1/x
-Exponential Rule | ![image](20180518055534_Basic-「Differential-Rules」_files/img_04.png) | ![image](20180518055534_Basic-「Differential-Rules」_files/img_05.png)
+Exponential Rule | ![image](20180518055534_Basic-「Differential-Rules」_img_04.png) | ![image](20180518055534_Basic-「Differential-Rules」_img_05.png)
 Trig Rules    | sin(x) | cos(x)
                      | cos(x) | −sin(x)
                      | tan(x) | sec²(x) = 1/cos²(x)
@@ -34,5 +34,5 @@ Inverse Trig Rules | arcsin(x) | 1/√(1−x²)
 
 
 [▼Refer to Wiki: Differentiation rules](https://en.wikipedia.org/wiki/Differentiation_rules)
-![image](20180518055534_Basic-「Differential-Rules」_files/img_06.png)
+![image](20180518055534_Basic-「Differential-Rules」_img_06.png)
 

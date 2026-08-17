@@ -35,11 +35,11 @@ Possible ways to fit in the 1st position are 3, and we got 2 **left overs**. The
 
 And just to logically think about it, we should MULTIPLY them together to get ALL POSSIBLE WAYS: `3*2*1`.
 
-![image](20180404095917_Permutations-Combinations-PROBABILITY_files/img_01.png)
+![image](20180404095917_Permutations-Combinations-PROBABILITY_img_01.png)
 
 
 ## `Combinations`
 
-![image](20180404095917_Permutations-Combinations-PROBABILITY_files/img_02.png)
+![image](20180404095917_Permutations-Combinations-PROBABILITY_img_02.png)
 
 

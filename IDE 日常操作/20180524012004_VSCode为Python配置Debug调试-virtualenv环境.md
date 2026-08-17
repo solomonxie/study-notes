@@ -12,7 +12,7 @@ vscode会在每个项目文件夹下创建一个`.vscode`文件夹，保存当�
 ## `launch.json`
 打开菜单：`Debug -> Open Configurations`，如果没有则选择创建，然后进入`launch.json`的编辑。
 内容较多，搜索`pythonPath`，找到对应的变量，把内容改为你的python环境地址。如：
-![image](20180524012004_VSCode为Python配置Debug调试-virtualenv环境_files/img_01.png)
+![image](20180524012004_VSCode为Python配置Debug调试-virtualenv环境_img_01.png)
 
 
 ## `tasks.json`

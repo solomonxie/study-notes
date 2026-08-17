@@ -16,4 +16,4 @@ Individual observations in each group and the groups themselves need to be indep
 
 This interval **doesn't require equal sample sizes** from each population. The formulas we use allow for different sample sizes.
 
-![image](20180912084715_Inference-for-comparison_files/img_01.png)
+![image](20180912084715_Inference-for-comparison_img_01.png)

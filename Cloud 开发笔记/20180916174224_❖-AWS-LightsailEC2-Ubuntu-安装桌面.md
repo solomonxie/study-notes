@@ -66,7 +66,7 @@ xfwm4 &
 
 桌面很清简：
 
-![image](20180916174224_❖-AWS-LightsailEC2-Ubuntu-安装桌面_files/img_01.png)
+![image](20180916174224_❖-AWS-LightsailEC2-Ubuntu-安装桌面_img_01.png)
 
 
 ## 默认Ubuntu桌面：`ubuntu-desktop`
@@ -104,7 +104,7 @@ gnome-terminal &
 
 桌面非常丑，而且非常慢。
 
-![image](20180916174224_❖-AWS-LightsailEC2-Ubuntu-安装桌面_files/img_02.png)
+![image](20180916174224_❖-AWS-LightsailEC2-Ubuntu-安装桌面_img_02.png)
 
 
 

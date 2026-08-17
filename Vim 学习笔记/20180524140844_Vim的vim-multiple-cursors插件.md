@@ -3,7 +3,7 @@
 [官方Github链接。](https://github.com/terryma/vim-multiple-cursors)
 
 这个插件是可以像Sublime Text一样快捷多选文本的插件。
-![example2](20180524140844_Vim的vim-multiple-cursors插件_files/img_01.gif)
+![example2](20180524140844_Vim的vim-multiple-cursors插件_img_01.gif)
 
 ## 总结
 

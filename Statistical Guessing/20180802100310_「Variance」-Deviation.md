@@ -4,7 +4,7 @@ In mathematics and statistics, deviation is a measure of difference between the 
 - **Larger deviation** means the distribution **spread wider**.
 - **Smaller deviation** means the distribution **stick closer**.
 
-![image](20180802100310_「Variance」-Deviation_files/img_01.png)
+![image](20180802100310_「Variance」-Deviation_img_01.png)
 
 
 ## 「Standard Deviation」
@@ -12,7 +12,7 @@ In mathematics and statistics, deviation is a measure of difference between the 
 
 [Refer to Khan academy review: Calculating standard deviation step by step](https://www.khanacademy.org/math/probability/data-distributions-a1/summarizing-spread-distributions/a/calculating-standard-deviation-step-by-step)
 
-![image](20180802100310_「Variance」-Deviation_files/img_02.png)
+![image](20180802100310_「Variance」-Deviation_img_02.png)
 (▲ where `∑` means "sum of", `x` is **each value** in the data set, `μ`(mu) is the **mean** of the data set, and `N` is the amount of data points in the population.)
 
 Steps:
@@ -22,7 +22,7 @@ Steps:
 - Find the root of the average.
 
 ### Example
-![image](20180802100310_「Variance」-Deviation_files/img_03.png)
+![image](20180802100310_「Variance」-Deviation_img_03.png)
 Solve:
 - By eyeballing, for Freshmen most of the data are not clustered around the mean.
 - But for Seniors, most of the data points are clustered around the centre.

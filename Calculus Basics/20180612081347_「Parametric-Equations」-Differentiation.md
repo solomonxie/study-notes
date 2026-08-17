@@ -9,36 +9,36 @@
 
 > [Jump back to previous note: How to understand `dy/dx`](https://github.com/solomonxie/solomonxie.github.io/issues/49#issuecomment-389389887)
 
-![image](20180612081347_「Parametric-Equations」-Differentiation_files/img_01.png)
+![image](20180612081347_「Parametric-Equations」-Differentiation_img_01.png)
 
 ## Differentiate 「Parametric Equations」
 
 ▼How to take derivative of a `parametric differential equation`?
-![image](20180612081347_「Parametric-Equations」-Differentiation_files/img_02.png)
+![image](20180612081347_「Parametric-Equations」-Differentiation_img_02.png)
 
 
 ### Example
-![image](20180612081347_「Parametric-Equations」-Differentiation_files/img_03.png)
+![image](20180612081347_「Parametric-Equations」-Differentiation_img_03.png)
 Solve:
 - Let's do some trick to `dy/dt` and use this one instead:
-![image](20180612081347_「Parametric-Equations」-Differentiation_files/img_04.png)
+![image](20180612081347_「Parametric-Equations」-Differentiation_img_04.png)
 - Substitute the derivatives back:
-![image](20180612081347_「Parametric-Equations」-Differentiation_files/img_05.png)
+![image](20180612081347_「Parametric-Equations」-Differentiation_img_05.png)
 - Plug in `t=1` to get the answer:
-![image](20180612081347_「Parametric-Equations」-Differentiation_files/img_06.png)
+![image](20180612081347_「Parametric-Equations」-Differentiation_img_06.png)
 
 
 
 ## 「Second derivatives」 of Parametric functions
 
-![image](20180612081347_「Parametric-Equations」-Differentiation_files/img_07.png)
+![image](20180612081347_「Parametric-Equations」-Differentiation_img_07.png)
 
 
 ### Example
-![image](20180612081347_「Parametric-Equations」-Differentiation_files/img_08.png)
+![image](20180612081347_「Parametric-Equations」-Differentiation_img_08.png)
 Solve:
 - Follow the rule, we got the first derivative:
-![image](20180612081347_「Parametric-Equations」-Differentiation_files/img_09.png)
+![image](20180612081347_「Parametric-Equations」-Differentiation_img_09.png)
 - And let's apply the rule for second derivative:
-![image](20180612081347_「Parametric-Equations」-Differentiation_files/img_10.png)
+![image](20180612081347_「Parametric-Equations」-Differentiation_img_10.png)
 

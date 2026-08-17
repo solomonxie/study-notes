@@ -6,7 +6,7 @@
 
 [Refer to youtube: What is a Hypothesis Test and a P-Value?](https://www.youtube.com/watch?v=vwWEa8wU_6U&t=381s)
 
-![image](20180906140205_❖-Hypothesis-Testing_files/img_01.png)
+![image](20180906140205_❖-Hypothesis-Testing_img_01.png)
 
 
 
@@ -39,9 +39,9 @@ The alternative hypothesis could take one of three forms, depending on the conte
 
 
 ### Example
-![image](20180906140205_❖-Hypothesis-Testing_files/img_02.png)
+![image](20180906140205_❖-Hypothesis-Testing_img_02.png)
 Solve:
-![image](20180906140205_❖-Hypothesis-Testing_files/img_03.png)
+![image](20180906140205_❖-Hypothesis-Testing_img_03.png)
 
 
 ## 「Test statistic」
@@ -55,18 +55,18 @@ Once you get the Test statistic value in a Normal Distribution, you'll easily ge
 ## 「Simple Hypothesis Testing」
 
 ### Example
-![image](20180906140205_❖-Hypothesis-Testing_files/img_04.png)
+![image](20180906140205_❖-Hypothesis-Testing_img_04.png)
 Solve:
 - According to the table, out of 100010001000 simulated samples:
     - 5 had 80%, percent satisfied customers
     - None had a lower measured percentage of satisfied customers
 - In total, these sum up to 5 simulations out of 1000. Therefore, the simulations imply that the probability of having a sample with 80%, percent satisfied customers or less is:
-![image](20180906140205_❖-Hypothesis-Testing_files/img_05.png)
+![image](20180906140205_❖-Hypothesis-Testing_img_05.png)
 - The probability we got is lower than 1%, percent. Therefore, we should reject the hypothesis.
 
 
 ### Example
-![image](20180906140205_❖-Hypothesis-Testing_files/img_06.png)
+![image](20180906140205_❖-Hypothesis-Testing_img_06.png)
 Solve:
 - Assume the 40% probability is **TRUE**,
 - so the probability of getting 3 wins in a row is: `40%^3 = 6.4%`

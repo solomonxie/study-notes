@@ -1,7 +1,7 @@
 # `Ellipse` and its equation
 > `Ellipse` is twisted circle, it got major features and equation from circle.
 
-![image](20180407065207_Ellipse-and-its-equation_files/img_01.png)
+![image](20180407065207_Ellipse-and-its-equation_img_01.png)
 
 Ellipse got **TWO** radiuses (or radii):
 - `Major radius`: the longer one.
@@ -10,7 +10,7 @@ Ellipse got **TWO** radiuses (or radii):
 ## `Standard ellipse equation`
 `a, b` is the radius on x-axis and y-axis. Ellipse originally centred at `(0, 0)`.
 
-![image](20180407065207_Ellipse-and-its-equation_files/img_02.png)
+![image](20180407065207_Ellipse-and-its-equation_img_02.png)
 
 ## `Foci of ellipse`
 Since ellipse is part of `Conic section`, so it has the same identity:

@@ -4,12 +4,12 @@
 [`▶ Jump back to previous note on: One-sample T test`](https://github.com/solomonxie/solomonxie.github.io/issues/50#issuecomment-420521963)
 
 > Reminder: One-sample T Test
-![image](20180914073619_❖-Significant-Difference-Test-Means_files/img_01.png)
+![image](20180914073619_❖-Significant-Difference-Test-Means_img_01.png)
 
 
 ## Formula for 「Two-sample T Test」
 
-![image](20180914073619_❖-Significant-Difference-Test-Means_files/img_02.png)
+![image](20180914073619_❖-Significant-Difference-Test-Means_img_02.png)
 
 The difference `μ1 - μ2` comes from the null hypothesis. In this type of test, we assume `μ1 = μ2` in the population means, which results in `μ1 - μ2 =0`.
 
@@ -17,9 +17,9 @@ The difference `μ1 - μ2` comes from the null hypothesis. In this type of test,
 
 
 ### Example
-![image](20180914073619_❖-Significant-Difference-Test-Means_files/img_03.png)
+![image](20180914073619_❖-Significant-Difference-Test-Means_img_03.png)
 Solve:
-![image](20180914073619_❖-Significant-Difference-Test-Means_files/img_04.png)
+![image](20180914073619_❖-Significant-Difference-Test-Means_img_04.png)
 
 
 
@@ -28,14 +28,14 @@ Solve:
 For the _Degree of freedom_ in the Two-sample Test, we're gonna use the **SMALLER** sample size.
 
 ### Example
-![image](20180914073619_❖-Significant-Difference-Test-Means_files/img_05.png)
+![image](20180914073619_❖-Significant-Difference-Test-Means_img_05.png)
 Solve:
 - Calculate the _t-value_ to get `t=2.12621542`
 - Decide `df`, which will be the **smaller** sample size `46- 1 = 45`
 - Since it's asking `Ha: μ1 ≠ μ2`, so we're to calculate **both tails**:
-![image](20180914073619_❖-Significant-Difference-Test-Means_files/img_06.png)
+![image](20180914073619_❖-Significant-Difference-Test-Means_img_06.png)
 - Get an online calculator and input the values:
-![image](20180914073619_❖-Significant-Difference-Test-Means_files/img_07.png)
+![image](20180914073619_❖-Significant-Difference-Test-Means_img_07.png)
 
 
 
@@ -56,13 +56,13 @@ Since `Confidence Level + Significance Level = 100%`:
 
 
 ### Example
-![image](20180914073619_❖-Significant-Difference-Test-Means_files/img_08.png)
+![image](20180914073619_❖-Significant-Difference-Test-Means_img_08.png)
 Solve:
 - No, because the `P-value > ⍺`, means there's no sufficient evidence against the null hypothesis.
 
 
 ### Example
-![image](20180914073619_❖-Significant-Difference-Test-Means_files/img_09.png)
+![image](20180914073619_❖-Significant-Difference-Test-Means_img_09.png)
 Solve:
-![image](20180914073619_❖-Significant-Difference-Test-Means_files/img_10.png)
+![image](20180914073619_❖-Significant-Difference-Test-Means_img_10.png)
 

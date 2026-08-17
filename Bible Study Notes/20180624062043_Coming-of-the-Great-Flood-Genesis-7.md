@@ -1,6 +1,6 @@
 # `Coming of the Great Flood` Genesis 7
 
-![image](20180624062043_Coming-of-the-Great-Flood-Genesis-7_files/img_01.png)
+![image](20180624062043_Coming-of-the-Great-Flood-Genesis-7_img_01.png)
 
 
 ### Genesis 7:2

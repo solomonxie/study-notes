@@ -5,7 +5,7 @@
 [Refer to khan academy: Stem and Leaf Plots](http://www.mathsisfun.com/data/stem-leaf-plots.html)
 [Khan lecture.](https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-stem-leaf/v/reading-stem-and-leaf-plots)
 
-![image](20180308055937_Stem-and-Leaf-Plots-Stats_files/img_01.png)
+![image](20180308055937_Stem-and-Leaf-Plots-Stats_img_01.png)
 
 In the above plot: 
 - The `stem column` means the tens number of the whole number.
@@ -14,5 +14,5 @@ For example, the numbers of the second row represent: 12, 13, 15.
 
 How the `Stem and Leaf Plot` represent numbers, it depends on the context. Stem can represents number of tens place, or ones place; Leaf can represents ones place or even decimal places.
 
-![image](20180308055937_Stem-and-Leaf-Plots-Stats_files/img_02.png)
+![image](20180308055937_Stem-and-Leaf-Plots-Stats_img_02.png)
 

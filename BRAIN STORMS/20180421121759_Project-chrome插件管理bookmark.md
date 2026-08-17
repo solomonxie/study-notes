@@ -6,7 +6,7 @@
 获取这些网站的通知，然后在书签上显示出通知数字。
 如
 ￼
-![image](20180421121759_Project-chrome插件管理bookmark_files/img_01.png)
+![image](20180421121759_Project-chrome插件管理bookmark_img_01.png)
 
 ## 更新：
 设计书签管理的XML或JSON数据结构，方便在一个文件内保持所有标签和相关信息。

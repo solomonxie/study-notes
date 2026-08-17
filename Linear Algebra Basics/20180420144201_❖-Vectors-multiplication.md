@@ -41,13 +41,13 @@ its only purpose **IS** to get a **quantity**, a magnitude, a number!
 [Maths is fun: dot product.](https://www.mathsisfun.com/algebra/vectors-dot-product.html)
 [3Blue1Brown: Dot products and duality | Essence of linear algebra](https://www.youtube.com/watch?v=LyGKycYT2v0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=10)
 
-![screencast 2018-04-12 15-08-30](20180420144201_❖-Vectors-multiplication_files/img_01.gif)
+![screencast 2018-04-12 15-08-30](20180420144201_❖-Vectors-multiplication_img_01.gif)
 
 ## Understand Dot product in 「business」
 
 Refer to _Intro to linear algebra by Gilbert Strang: 1.2_.
 
-![image](20180420144201_❖-Vectors-multiplication_files/img_02.png)
+![image](20180420144201_❖-Vectors-multiplication_img_02.png)
 
 
 ## Understand Dot product in 「physics」
@@ -62,7 +62,7 @@ so how much power did it pulled on the `direction of a`, or how much on the `dir
 Let's make it easier before digging in:
 assume there's no angle, `Two forces` "a & b" are `pulling` to the same way, the same direction,
 so how much power would it be pulled?
-![image](20180420144201_❖-Vectors-multiplication_files/img_03.png)
+![image](20180420144201_❖-Vectors-multiplication_img_03.png)
 Well, the force `a & b` working together, it's a process of **`Boosting`** the energy! 
 **It's not ADDING together anymore**, it's `BOOSTING`!
 Let's say the force `a` has `3 units` power, `b` has `6 units` power. 
@@ -74,8 +74,8 @@ The total power pulling the thing would be `3 · 6 = 18 units`
 
 So the `Two forces` AREN'T pulling the box at the same direction anymore, how much power did it pulled on the `direction of a`, or how much on the `direction of b`?
 
-![image](20180420144201_❖-Vectors-multiplication_files/img_04.png)
-![screencast 2018-04-12 15-13-15](20180420144201_❖-Vectors-multiplication_files/img_05.gif)
+![image](20180420144201_❖-Vectors-multiplication_img_04.png)
+![screencast 2018-04-12 15-13-15](20180420144201_❖-Vectors-multiplication_img_05.gif)
 
 Let's think about how much power it's pulling on the direction of `b`.
 Since `a` is pulling on a bit **wrong way**, so **`a`'s power ISN'T 100% working on `b`'s way**.
@@ -84,7 +84,7 @@ It depends on the angle.
 So to calculate how much left, we use `|a| × cos(θ)`, 
 and we got a **PROJECTION** or a reflection or a **shadow** of `a` on `b`! 
 Then it become like this picture again:
-![image](20180420144201_❖-Vectors-multiplication_files/img_03.png)
+![image](20180420144201_❖-Vectors-multiplication_img_03.png)
 How amazing it is!
 And now we could **Boost** the power on b: `|b| ×  |a|×cosθ`
 
@@ -92,9 +92,9 @@ And now we could **Boost** the power on b: `|b| ×  |a|×cosθ`
 
 There're two ways to calculate the dot product (I made up the names):
 - Shadow Boost: 
-![image](20180420144201_❖-Vectors-multiplication_files/img_06.png)
+![image](20180420144201_❖-Vectors-multiplication_img_06.png)
 - Axes Boost: 
-![image](20180420144201_❖-Vectors-multiplication_files/img_07.png)
+![image](20180420144201_❖-Vectors-multiplication_img_07.png)
 
 Result of two ways are **SAME**.
 
@@ -105,7 +105,7 @@ Result of two ways are **SAME**.
 > We reflect one vector on another one, then **Boost** the energy.
 
 Intuition:
-![image](20180420144201_❖-Vectors-multiplication_files/img_08.png)
+![image](20180420144201_❖-Vectors-multiplication_img_08.png)
 
 
 ### 「Axes Boost」
@@ -113,19 +113,19 @@ Intuition:
 > We break two vectors to `X-axis` and `Y-axis`, and BOOST on each axis.
 
 Easier to remember the formula is:
-![image](20180420144201_❖-Vectors-multiplication_files/img_09.png)
+![image](20180420144201_❖-Vectors-multiplication_img_09.png)
 
 Intuition:
-![image](20180420144201_❖-Vectors-multiplication_files/img_10.png)
+![image](20180420144201_❖-Vectors-multiplication_img_10.png)
 
 
 ### Examples:
-![image](20180420144201_❖-Vectors-multiplication_files/img_11.png)
-![image](20180420144201_❖-Vectors-multiplication_files/img_12.png)
+![image](20180420144201_❖-Vectors-multiplication_img_11.png)
+![image](20180420144201_❖-Vectors-multiplication_img_12.png)
 
 ### Example
-![image](20180420144201_❖-Vectors-multiplication_files/img_13.png)
-![image](20180420144201_❖-Vectors-multiplication_files/img_14.png)
+![image](20180420144201_❖-Vectors-multiplication_img_13.png)
+![image](20180420144201_❖-Vectors-multiplication_img_14.png)
 
 
 ## 「Dot product」 & 「Symmetry」
@@ -134,5 +134,5 @@ Intuition:
 
 [Refer to lecture of Imperial College London: Einstein summation convention and the symmetry of the dot product](https://www.coursera.org/learn/linear-algebra-machine-learning/lecture/kI0DB/introduction-einstein-summation-convention-and-the-symmetry-of-the-dot-product)
 
-![image](20180420144201_❖-Vectors-multiplication_files/img_15.png)
+![image](20180420144201_❖-Vectors-multiplication_img_15.png)
 

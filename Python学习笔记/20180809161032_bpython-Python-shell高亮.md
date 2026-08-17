@@ -11,8 +11,8 @@ $ pip install bpython
 
 记住：iTerm2是bpython的最好伙伴。
 
-![image](20180809161032_bpython-Python-shell高亮_files/img_01.png)
+![image](20180809161032_bpython-Python-shell高亮_img_01.png)
 
 
-![image](20180809161032_bpython-Python-shell高亮_files/img_02.png)
+![image](20180809161032_bpython-Python-shell高亮_img_02.png)
 

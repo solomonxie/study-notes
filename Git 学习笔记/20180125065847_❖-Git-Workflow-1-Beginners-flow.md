@@ -28,7 +28,7 @@ $ git commit -m "变动描述"
 所以只需推送到远程自己的仓库，一句话`git push`即可。
 然后如果在安装git后设置过通用的用户名和邮箱，这里就只会要求你输入密码，然后就可以上传本地提交到远程repo仓库里了。
 就这么简单。前三步基本流程如下图：
-![image](20180125065847_❖-Git-Workflow-1-Beginners-flow_files/img_01.png)
+![image](20180125065847_❖-Git-Workflow-1-Beginners-flow_img_01.png)
 
 ## 第四步 远程抓取 (pull)
 有的时候会用别的机器（比如公司）提交一些变化到远程，然后回家后想把变化同步到本地。

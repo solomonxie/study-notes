@@ -24,7 +24,7 @@ Or say, without dilation, after all translation/rotation/reflection, the shape i
 
 [Khan lecture.](https://www.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence/transformations-intro-basic-geo/v/introduction-to-transformations)
 
-![image](20180307085255_Transformations-GEOMETRY_files/img_01.png)
+![image](20180307085255_Transformations-GEOMETRY_img_01.png)
 
 
 ## [`Dilations`](https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-dilations/v/example-identifying-the-center-of-dilation)
@@ -39,7 +39,7 @@ Don't get confused with a `horizontal stretch`, which **does change** both sides
 > When you resize, or say dilate a shape, you call the new shape **`similar`** to the original one.
 If nothing changed with the shape, you call it **`congruent`** to the original one.
 
-![image](20180307085255_Transformations-GEOMETRY_files/img_02.png)
+![image](20180307085255_Transformations-GEOMETRY_img_02.png)
 
 
 ### [`Scale factor`](https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-dilations/v/dilation-scale-factor)
@@ -52,7 +52,7 @@ Notice:
 #### Scale factors and area
 > When you scale the shape, the **area** of the new shape is **(scale facto)² times** to the original one. 
 
-![image](20180307085255_Transformations-GEOMETRY_files/img_03.png)
+![image](20180307085255_Transformations-GEOMETRY_img_03.png)
 
 
 [Khan lecture: Scale factors and area](https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-scale-drawings/v/scale-factors-and-area)
@@ -63,7 +63,7 @@ For Shape A and scaled shape A', it leads to two practical conclusions:
 
 
 ### Example
-![image](20180307085255_Transformations-GEOMETRY_files/img_04.png)
+![image](20180307085255_Transformations-GEOMETRY_img_04.png)
 Solve:
 - New area G is `1/9` of F
 - So the `(scale factor)² = 1/9`, which results the `scale factor = 1/3`
@@ -79,13 +79,13 @@ How does it work? As the picture below, just simply **scale the distance** from 
 #### How to find the dilation center?
 > The point P and it's image and dilation center, should be IN ONE LINE !
 
-![image](20180307085255_Transformations-GEOMETRY_files/img_05.png)
+![image](20180307085255_Transformations-GEOMETRY_img_05.png)
 
 
-![image](20180307085255_Transformations-GEOMETRY_files/img_06.png)
+![image](20180307085255_Transformations-GEOMETRY_img_06.png)
 
 > In the example below, you should forget about the `origin` but set the P point as origin and count the distance of each vertex of the triangle: 
 
-![image](20180307085255_Transformations-GEOMETRY_files/img_07.png)
+![image](20180307085255_Transformations-GEOMETRY_img_07.png)
 
 

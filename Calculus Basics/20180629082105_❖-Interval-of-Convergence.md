@@ -12,18 +12,18 @@ The method is kind of like finding the interval of an ordinary function:
 
 
 ### Example
-![image](20180629082105_❖-Interval-of-Convergence_files/img_01.png)
+![image](20180629082105_❖-Interval-of-Convergence_img_01.png)
 Solve:
 - The term **can't be** zero, so:
-![image](20180629082105_❖-Interval-of-Convergence_files/img_02.png)
+![image](20180629082105_❖-Interval-of-Convergence_img_02.png)
 - And further more, take a `ratio test` which makes it converges:
-![image](20180629082105_❖-Interval-of-Convergence_files/img_03.png)
+![image](20180629082105_❖-Interval-of-Convergence_img_03.png)
 - Calculate the `ratio test` to get the interval:
-![image](20180629082105_❖-Interval-of-Convergence_files/img_04.png)
+![image](20180629082105_❖-Interval-of-Convergence_img_04.png)
 - Get the interval for `x`:
-![image](20180629082105_❖-Interval-of-Convergence_files/img_05.png)
+![image](20180629082105_❖-Interval-of-Convergence_img_05.png)
 - Test the `endpoints` for this interval:
-![image](20180629082105_❖-Interval-of-Convergence_files/img_06.png)
+![image](20180629082105_❖-Interval-of-Convergence_img_06.png)
 - In conclusion, the `interval of convergence` is:
-![image](20180629082105_❖-Interval-of-Convergence_files/img_07.png)
+![image](20180629082105_❖-Interval-of-Convergence_img_07.png)
 

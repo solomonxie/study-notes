@@ -31,20 +31,20 @@ Note:
 - To slice it must be using a plane to cut through.
 - You can not only slice the 3D shape horizontally and vertically, but also any angle you like to get it. 
 
-![image](20180311084426_Cross-Sections-GEOMETRY_files/img_01.png)
+![image](20180311084426_Cross-Sections-GEOMETRY_img_01.png)
 
 > Slice a `cube` to get a `pentagon`:
-![image](20180311084426_Cross-Sections-GEOMETRY_files/img_02.png)
+![image](20180311084426_Cross-Sections-GEOMETRY_img_02.png)
 
 > Slice a `triangular prism` to get a `pentagon`:
-![image](20180311084426_Cross-Sections-GEOMETRY_files/img_03.png)
+![image](20180311084426_Cross-Sections-GEOMETRY_img_03.png)
 
 > Slice a `right pyramid` to get a `pentagon`:
-![image](20180311084426_Cross-Sections-GEOMETRY_files/img_04.png)
+![image](20180311084426_Cross-Sections-GEOMETRY_img_04.png)
 
 > Slice a `cone` to get `Ellipse`:
-![image](20180311084426_Cross-Sections-GEOMETRY_files/img_05.png)
+![image](20180311084426_Cross-Sections-GEOMETRY_img_05.png)
 
 > Slice a `cone` to get a `parabola`:
-![image](20180311084426_Cross-Sections-GEOMETRY_files/img_06.png)
+![image](20180311084426_Cross-Sections-GEOMETRY_img_06.png)
 

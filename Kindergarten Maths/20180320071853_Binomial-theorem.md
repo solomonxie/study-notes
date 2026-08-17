@@ -36,12 +36,12 @@ Notice that, exponents of `a` are always **degrading**, and of `b` are always **
 Here it is the MOST DIFFICULT part to understand. We could either find the coefficient from `The Pascal's Triangle`, or calculating the formula from `Binomial Theorem`.
 
 > `Pascal's Triangle`. Just find the row has the same degrees with `n`, and pick up each number as coefficient:
-![image](20180320071853_Binomial-theorem_files/img_01.png)
-![image](20180320071853_Binomial-theorem_files/img_02.png)
+![image](20180320071853_Binomial-theorem_img_01.png)
+![image](20180320071853_Binomial-theorem_img_02.png)
 
 
 > **`Binomial theorem coefficient formula`**:
-![image](20180320071853_Binomial-theorem_files/img_03.png)
+![image](20180320071853_Binomial-theorem_img_03.png)
 It's called `n choose k`, what it represents it the `the term k of the Row n`.
 
 In this case, `(3 choose 2)` the `2nd term in 3rd power row`, apply to the formula, we'll get `3`, which is exactly the same in the `Pascal's triangle`.
@@ -50,7 +50,7 @@ And let's list the coefficients in terms of `(n choose k)`:
 ```py
 (³₀),  (³₁),  (³₂),  (³₃)
 ```
-![image](20180320071853_Binomial-theorem_files/img_04.png)
+![image](20180320071853_Binomial-theorem_img_04.png)
 
 And solve out each (n choose k), we get coefficients:
 `1 , 3, 3, 1`
@@ -68,11 +68,11 @@ It has to have understanding of [`factorial`](https://github.com/solomonxie/solo
 [Practice.](https://www.khanacademy.org/math/algebra2?t=practice#polynomial-functions)
 
 ### Example
-![image](20180320071853_Binomial-theorem_files/img_05.png)
+![image](20180320071853_Binomial-theorem_img_05.png)
 Solve
-![image](20180320071853_Binomial-theorem_files/img_06.png)
-![image](20180320071853_Binomial-theorem_files/img_07.png)
-![image](20180320071853_Binomial-theorem_files/img_08.png)
+![image](20180320071853_Binomial-theorem_img_06.png)
+![image](20180320071853_Binomial-theorem_img_07.png)
+![image](20180320071853_Binomial-theorem_img_08.png)
 
 
 

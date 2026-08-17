@@ -4,5 +4,5 @@
 
 输入`mail`命令，一条一条看完，就不会再显示了。
 
-![image](20180516042301_ZSH每次打开都会显示You-have-new-mail_files/img_01.png)
+![image](20180516042301_ZSH每次打开都会显示You-have-new-mail_img_01.png)
 

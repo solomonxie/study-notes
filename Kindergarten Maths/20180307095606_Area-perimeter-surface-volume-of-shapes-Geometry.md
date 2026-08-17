@@ -7,13 +7,13 @@
 
 [Refer to math is fun: area](http://www.mathsisfun.com/area.html)
 
-![image](20180307095606_Area-perimeter-surface-volume-of-shapes-Geometry_files/img_01.png)
+![image](20180307095606_Area-perimeter-surface-volume-of-shapes-Geometry_img_01.png)
 
 Areas:
 - Area of Equilateral Triangles: 
-![image](20180307095606_Area-perimeter-surface-volume-of-shapes-Geometry_files/img_02.png)
+![image](20180307095606_Area-perimeter-surface-volume-of-shapes-Geometry_img_02.png)
 - Isosceles Right Triangle:
-![image](20180307095606_Area-perimeter-surface-volume-of-shapes-Geometry_files/img_03.png)
+![image](20180307095606_Area-perimeter-surface-volume-of-shapes-Geometry_img_03.png)
 
 
 

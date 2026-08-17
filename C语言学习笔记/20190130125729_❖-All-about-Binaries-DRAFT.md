@@ -6,20 +6,20 @@
 ### 二进制加减法
 
 加法：
-![image](20190130125729_❖-All-about-Binaries-DRAFT_files/img_01.png)
+![image](20190130125729_❖-All-about-Binaries-DRAFT_img_01.png)
 
 减法：
-![image](20190130125729_❖-All-about-Binaries-DRAFT_files/img_02.png)
+![image](20190130125729_❖-All-about-Binaries-DRAFT_img_02.png)
 
 
 
 ### 二进制乘除法
 
 乘法：
-![image](20190130125729_❖-All-about-Binaries-DRAFT_files/img_03.png)
+![image](20190130125729_❖-All-about-Binaries-DRAFT_img_03.png)
 
 除法：
-![image](20190130125729_❖-All-about-Binaries-DRAFT_files/img_04.png)
+![image](20190130125729_❖-All-about-Binaries-DRAFT_img_04.png)
 
 
 
@@ -67,7 +67,7 @@ E * 2^0
 
 > 总之就是：**不断除以2来取余数的过程，所有的余数按倒序排列出来就是二进制的结果。**
 
-![image](20190130125729_❖-All-about-Binaries-DRAFT_files/img_05.png)
+![image](20190130125729_❖-All-about-Binaries-DRAFT_img_05.png)
 
 假设十进制数`43`，转换为二进制的过程就是：
 ```js

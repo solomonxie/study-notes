@@ -14,7 +14,7 @@ Two groups:
 - Control group is the group **without** taking affects.
 - Treatment group is the one will be having affects on.
 
-![image](20180810074438_❖-Experiment-Study_files/img_01.png)
+![image](20180810074438_❖-Experiment-Study_img_01.png)
 
 ## How to conduct a good Experiement
 
@@ -57,7 +57,7 @@ So for helping to adjust this situation well, we want to introduce some improvem
 
 With a randomized block design, the experimenter divides subjects into subgroups called blocks, such that the variability within blocks is less than the variability between blocks. Then, subjects within each block are randomly assigned to treatment conditions. Compared to a completely randomized design, this design reduces variability within treatment conditions and potential confounding, producing a better estimate of treatment effects.
 
-![image](20180810074438_❖-Experiment-Study_files/img_02.png)
+![image](20180810074438_❖-Experiment-Study_img_02.png)
 
 
 
@@ -68,7 +68,7 @@ It's simply just to "switch group", which after a period of time after the exper
 > Khan academy made the **wrong** video named "matched pairs design" which is actually "Crossover Design".
 [Refer to Khan academy: Crossover Design ~(Matched pairs experiment design)~](https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/modal/v/matched-pairs-experiment-design)
 
-![image](20180810074438_❖-Experiment-Study_files/img_03.png)
+![image](20180810074438_❖-Experiment-Study_img_03.png)
 
 
 
@@ -76,7 +76,7 @@ It's simply just to "switch group", which after a period of time after the exper
 
 In the matched-pair design, participants are first matched in pairs according to certain characteristics. Then, each member of a pair is randomly assigned to one of the two different study subgroups. This allows comparison between similar study participants who undergo different study procedures.
 
-![image](20180810074438_❖-Experiment-Study_files/img_04.png)
+![image](20180810074438_❖-Experiment-Study_img_04.png)
 
 
 

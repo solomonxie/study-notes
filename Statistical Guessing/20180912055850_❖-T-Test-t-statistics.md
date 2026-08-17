@@ -17,7 +17,7 @@ The procedure that calculates the test statistic compares your data to what is e
 The test statistic gives us an idea of how far away our sample result is from our null hypothesis. 
 
 For a one-sample t test for a mean, our test statistics is:
-![image](20180912055850_❖-T-Test-t-statistics_files/img_01.png)
+![image](20180912055850_❖-T-Test-t-statistics_img_01.png)
 (x⁻ is the _Sample Mean_, μ₀ is mean from _null hypothesis_, sx is the _Sample SD_, n is _Sample size_)
 
 > Understanding the formula:
@@ -28,28 +28,28 @@ Therefore, dividing the `Distance of mean` by `Distance of SD` will results in a
 ## Calculating the 「test statistic」 in a t test for a mean
 
 ### Example
-![image](20180912055850_❖-T-Test-t-statistics_files/img_02.png)
+![image](20180912055850_❖-T-Test-t-statistics_img_02.png)
 Solve:
-![image](20180912055850_❖-T-Test-t-statistics_files/img_03.png)
+![image](20180912055850_❖-T-Test-t-statistics_img_03.png)
 
 
 ## Calculating the 「P-value in a t test」 for a mean
 
 ### Example
-![image](20180912055850_❖-T-Test-t-statistics_files/img_04.png)
+![image](20180912055850_❖-T-Test-t-statistics_img_04.png)
 Solve:
 - Since the sample size = 11, so the degree of freedom is 10.
 - Take a T-table and look for a cross section of `df=10 & t=1.368`
-![image](20180912055850_❖-T-Test-t-statistics_files/img_05.png)
+![image](20180912055850_❖-T-Test-t-statistics_img_05.png)
 - Since our test statistic is slightly smaller than 1.372, the corresponding P-value will be slightly larger than 0.10
 - The P-value is approximately 0.101
 - Or another way is to use an online calculator: [SurfStat t-distribution calculator](https://surfstat.anu.edu.au/surfstat-home/tables/t.php)
-![image](20180912055850_❖-T-Test-t-statistics_files/img_06.png)
+![image](20180912055850_❖-T-Test-t-statistics_img_06.png)
 
 
 
 ### Example
-![image](20180912055850_❖-T-Test-t-statistics_files/img_07.png)
+![image](20180912055850_❖-T-Test-t-statistics_img_07.png)
 Solve:
-![image](20180912055850_❖-T-Test-t-statistics_files/img_08.png)
+![image](20180912055850_❖-T-Test-t-statistics_img_08.png)
 

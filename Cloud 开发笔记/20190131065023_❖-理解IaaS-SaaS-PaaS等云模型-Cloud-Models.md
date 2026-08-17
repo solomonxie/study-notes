@@ -19,7 +19,7 @@ IaaS, PaaS, Saas, 都是Cloud Models，即云端项目的模型。
 根据各个组件的提供和管理者的不同，就划分出了不同的`Cloud Models`。
 
 
-![image](20190131065023_❖-理解IaaS-SaaS-PaaS等云模型-Cloud-Models_files/img_01.png)
+![image](20190131065023_❖-理解IaaS-SaaS-PaaS等云模型-Cloud-Models_img_01.png)
 
 简单来说：
 - `On Premises`: 全部自己管。自己买电脑主机，集群，自己装系统装软件，自己更新运维所有Bug。

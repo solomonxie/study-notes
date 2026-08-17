@@ -3,7 +3,7 @@
 ## 「PRICING」
 
 ## 「OS」Choices
-![image](20181015103136_❖-「Google-Cloud-Platform」-GCP-Overview-DRAFT_files/img_01.png)
+![image](20181015103136_❖-「Google-Cloud-Platform」-GCP-Overview-DRAFT_img_01.png)
 
 ## 「PRICING」
 

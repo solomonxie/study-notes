@@ -8,7 +8,7 @@ Trying to fit a line as closely as possible, and as many of points as possible, 
 
 [Refer to Khan academy: Introduction to residuals and least-squares regression](https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/modal/v/regression-residual-intro)
 
-![image](20180808185031_❖-Least-square-Regression_files/img_01.png)
+![image](20180808185031_❖-Least-square-Regression_img_01.png)
 
 
 
@@ -16,26 +16,26 @@ Trying to fit a line as closely as possible, and as many of points as possible, 
 
 > Residuals are **errors**. More specifically, they are the differences between the actual value of the response variable and the value predicted by the least squares regression line.
 
-![image](20180808185031_❖-Least-square-Regression_files/img_02.png)
+![image](20180808185031_❖-Least-square-Regression_img_02.png)
 
 At a certain X-position, the value of _residual_ is the **VERTICAL DISTANCE** from the actual value to the Regression Line.
 
 - When the `residual` is **positive**, the **actual point** is **ABOVE** the `regression line`,
 - When the `residual` is **negative**, the **actual point** is **BELOW** the `regression line`.
 
-![image](20180808185031_❖-Least-square-Regression_files/img_03.png)
+![image](20180808185031_❖-Least-square-Regression_img_03.png)
 
 > The way that we calculate the `Regression Line` with `Least Square` method, is to **MINIMIZE** the **square of residuals**.
 
 
 ### Example
-![image](20180808185031_❖-Least-square-Regression_files/img_04.png)
+![image](20180808185031_❖-Least-square-Regression_img_04.png)
 Solve:
 - This dish's actual taste rating was 4 points higher than predicted **based on its appearance**
 
 
 ### Example
-![image](20180808185031_❖-Least-square-Regression_files/img_05.png)
+![image](20180808185031_❖-Least-square-Regression_img_05.png)
 Solve:
 - Recognize the **VARIABLES**: Y -> mass, X -> breadth
 - So the expected mass is `-47 + 2*40 = 33`
@@ -50,7 +50,7 @@ Solve:
 [Refer to Khan academy: Calculating the equation of a regression line](https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/modal/v/calculating-the-equation-of-a-regression-line)
 
 Formula of Regression line:
-![image](20180808185031_❖-Least-square-Regression_files/img_06.png)
+![image](20180808185031_❖-Least-square-Regression_img_06.png)
 
 1. As we said the `Correlation Coefficient r` is kind like the **`Unit Slope`** which is between `-1 to 1`, so we have to apply the `unit slope` in real case by multiply `r` with the **ratio** of Standard Deviation of `y` & `x`, which is `Sy/Sx`.
 2. A "must go through point" is the **MEAN** of the dataset, which is: `(Ẋ, Ẏ)`. At the mean, the `residual = actual`
@@ -60,7 +60,7 @@ With two informations above, we can easily calculate out the estimated Regressio
 
 ### 「Slope」 of Regression line
 
-![image](20180808185031_❖-Least-square-Regression_files/img_07.png)
+![image](20180808185031_❖-Least-square-Regression_img_07.png)
 
 
 ### 「Intercept」 of Regression line
@@ -68,7 +68,7 @@ With two informations above, we can easily calculate out the estimated Regressio
 
 
 ### Example
-![image](20180808185031_❖-Least-square-Regression_files/img_08.png)
+![image](20180808185031_❖-Least-square-Regression_img_08.png)
 Solve:
-![image](20180808185031_❖-Least-square-Regression_files/img_09.png)
+![image](20180808185031_❖-Least-square-Regression_img_09.png)
 

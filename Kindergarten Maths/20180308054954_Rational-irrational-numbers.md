@@ -7,7 +7,7 @@ vice versa, a irrational number cannot be expressed as a fraction of two integer
 
 `A square root of a non-perfect square` is an irrational number, because it cannot be expressed as the fraction of two integers.
 
-![image](20180308054954_Rational-irrational-numbers_files/img_01.png)
+![image](20180308054954_Rational-irrational-numbers_img_01.png)
 
-![image](20180308054954_Rational-irrational-numbers_files/img_02.png)
+![image](20180308054954_Rational-irrational-numbers_img_02.png)
 

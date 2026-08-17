@@ -26,7 +26,7 @@ $ axel -n 10 <URL>
 
 效果：
 
-![image](20190131162200_❖-Awesome-Linux-Lightweight-Programs-DRAFT_files/img_01.png)
+![image](20190131162200_❖-Awesome-Linux-Lightweight-Programs-DRAFT_img_01.png)
 
 
 如果遇到`SSL error: certificate verify failed`错误，解决方法是`-k`参数“禁止安全检查“，相当于wget的`--no-check-certificate`，方法如下：

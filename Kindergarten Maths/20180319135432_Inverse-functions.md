@@ -30,14 +30,14 @@ If not, then it is NOT invertible.
 ### `Horizontal line test`
 On the graph of function `f(x)`, if we can draw a `horizontal line` and ends up touches the graph **more than once**, we could say the function is **NOT INVERTIBLE**.
 
-![image](20180319135432_Inverse-functions_files/img_01.png)
+![image](20180319135432_Inverse-functions_img_01.png)
 
 
 
 ## Inverse trig function word problems
 
 ### EXAMPLE 
-![image](20180319135432_Inverse-functions_files/img_02.png)
+![image](20180319135432_Inverse-functions_img_02.png)
 Solve:
 - Set equation `Y(t) = −80`
 - Simplify equation and solve for all possible solutions:
@@ -58,7 +58,7 @@ Solve:
 
 
 ### EXAMPLE
-![image](20180319135432_Inverse-functions_files/img_03.png)
+![image](20180319135432_Inverse-functions_img_03.png)
 Solve:
 - Simplify and solve to get solutions:
     - `θ = 0.423 + 2πn`
@@ -76,18 +76,18 @@ Solve:
 
 
 ### EXAMPLE
-![image](20180319135432_Inverse-functions_files/img_04.png)
+![image](20180319135432_Inverse-functions_img_04.png)
 Solve:
 - Set equation to `I(t)=5.2`
 - Simplify equation to:
-![image](20180319135432_Inverse-functions_files/img_05.png)
+![image](20180319135432_Inverse-functions_img_05.png)
 - Get `θ ≃ 0.9273 Rad`
 - Get First solution:
-![image](20180319135432_Inverse-functions_files/img_06.png)
-![image](20180319135432_Inverse-functions_files/img_07.png)
+![image](20180319135432_Inverse-functions_img_06.png)
+![image](20180319135432_Inverse-functions_img_07.png)
 - Use the trig identity for second solution: `cos(θ) = cos(2π−θ)`.
-![image](20180319135432_Inverse-functions_files/img_08.png)
-![image](20180319135432_Inverse-functions_files/img_09.png)
+![image](20180319135432_Inverse-functions_img_08.png)
+![image](20180319135432_Inverse-functions_img_09.png)
 - The answer for SECOND TIME it hits 5.2 is `311 days`.
 
 
@@ -97,7 +97,7 @@ Solve:
 > Find all possible solutions: `cos(x)=0.15`
 
 Solve:
-![image](20180319135432_Inverse-functions_files/img_10.png)
-![image](20180319135432_Inverse-functions_files/img_11.png)
-![image](20180319135432_Inverse-functions_files/img_12.png)
+![image](20180319135432_Inverse-functions_img_10.png)
+![image](20180319135432_Inverse-functions_img_11.png)
+![image](20180319135432_Inverse-functions_img_12.png)
 

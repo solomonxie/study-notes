@@ -7,7 +7,7 @@
 [▶Refer to Khan academy: Partial fraction expansion to evaluate integral](https://www.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/modal/v/partial-fraction-expansion-to-integrate)
 
 ### Example
-![image](20180609074846_「Partial-fractions」-→-Log-Rule_files/img_01.png)
+![image](20180609074846_「Partial-fractions」-→-Log-Rule_img_01.png)
 This process is to break down the `Rational Function` to some simple fractions, 
 which assume there are `A & B`  leads to a system of equation:
 - `(A+B)·x + (B-A) = 1·x + (-4)`
@@ -24,15 +24,15 @@ Strategy:
 
 
 ### Example
-![image](20180609074846_「Partial-fractions」-→-Log-Rule_files/img_02.png)
+![image](20180609074846_「Partial-fractions」-→-Log-Rule_img_02.png)
 Solve:
-![image](20180609074846_「Partial-fractions」-→-Log-Rule_files/img_03.png)
+![image](20180609074846_「Partial-fractions」-→-Log-Rule_img_03.png)
 
 
 ### Example
-![image](20180609074846_「Partial-fractions」-→-Log-Rule_files/img_04.png)
+![image](20180609074846_「Partial-fractions」-→-Log-Rule_img_04.png)
 Solve:
 [Refer to Symbolab.](https://www.symbolab.com/solver/step-by-step/%5Cint%20%5Cfrac%7Bx-1%7D%7B2x%2B4%7Ddx)
-![image](20180609074846_「Partial-fractions」-→-Log-Rule_files/img_05.png)
+![image](20180609074846_「Partial-fractions」-→-Log-Rule_img_05.png)
 
 

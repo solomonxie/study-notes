@@ -57,7 +57,7 @@ sudo /etc/init.d/apache2 reload
 注意，`webdav`后面没有`/`斜杠。
 
 网页中如果正常显示目录中的文件结构，则可以正常访问：
-![image](20180914134411_❖-Ubuntu安装WebDav文件共享服务器（NAS）_files/img_01.png)
+![image](20180914134411_❖-Ubuntu安装WebDav文件共享服务器（NAS）_img_01.png)
 
 这一步完成，我们就可以开始把这个共享文件夹映射到Mac、Windows上的本地文件夹了。
 
@@ -76,7 +76,7 @@ sudo /etc/init.d/apache2 reload
     - 然后在文件夹菜单中找到`映射网络驱动器`，输入网址`http://树莓派IP地址/webdav`或`\\树莓派IP地址\webdav`，然后输入用户名密码，就能映射成功了。
 - 浏览器上：随便什么设备，只要是个浏览器就能支持。可以在线播放常用视频，直接打开图片浏览。但是不能上传。
 
-![image](20180914134411_❖-Ubuntu安装WebDav文件共享服务器（NAS）_files/img_02.png)
+![image](20180914134411_❖-Ubuntu安装WebDav文件共享服务器（NAS）_img_02.png)
 
 
 ## 挂载外部磁盘（移动硬盘、U盘）
@@ -104,7 +104,7 @@ Samba要等一秒以上，而WebDav几乎没有等待，或者说和本地打开
 ## 常见问题
 
 ### Apache2 Reload出错
-![image](20180914134411_❖-Ubuntu安装WebDav文件共享服务器（NAS）_files/img_03.png)
+![image](20180914134411_❖-Ubuntu安装WebDav文件共享服务器（NAS）_img_03.png)
 
 用命令`sudo /etc/init.d/apache2 reload`重启服务器没有反应，用命令`sudo /etc/init.d/apache2 reload`重新加载Apache2时也报错：
 ```sh
@@ -133,7 +133,7 @@ $ sudo systemctl restart apache2
 ```
 
 Reload后成功后就会显示：
-![image](20180914134411_❖-Ubuntu安装WebDav文件共享服务器（NAS）_files/img_04.png)
+![image](20180914134411_❖-Ubuntu安装WebDav文件共享服务器（NAS）_img_04.png)
 
 这样再用浏览器尝试访问webdav服务的网址，就OK了
 

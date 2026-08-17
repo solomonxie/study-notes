@@ -22,7 +22,7 @@
 
 [参考：Docker for Windows error: “Hardware assisted virtualization and data execution protection must be enabled in the BIOS” ](https://stackoverflow.com/questions/39684974/docker-for-windows-error-hardware-assisted-virtualization-and-data-execution-p)
 
-![image](20190123114237_Docker-for-Windows_files/img_01.png)
+![image](20190123114237_Docker-for-Windows_img_01.png)
 
 用管理员权限打开Powershell，输入命令：
 ```powershell

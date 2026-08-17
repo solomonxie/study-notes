@@ -14,9 +14,9 @@ That solved the problem of where Cain’s wife came from.
 According to genealogy in this chapter, `Adam certainly could have spoken to Nosh`, who walked with God. 
 And Nosh could have directed instruct Noah about everything. 
 
-![image](20180316030828_Patriarchs-from-Adam-to-Noah-Genesis-5_files/img_01.png)
+![image](20180316030828_Patriarchs-from-Adam-to-Noah-Genesis-5_img_01.png)
 
-![image](20180316030828_Patriarchs-from-Adam-to-Noah-Genesis-5_files/img_02.png)
+![image](20180316030828_Patriarchs-from-Adam-to-Noah-Genesis-5_img_02.png)
 
 
 

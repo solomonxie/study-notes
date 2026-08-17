@@ -2,7 +2,7 @@
 
 > It's easy but always confusing if you haven't yet totally understood it in the first place.
 
-![image](20180802100329_❖-Intro-to-Probability-DRAFT_files/img_01.png)
+![image](20180802100329_❖-Intro-to-Probability-DRAFT_img_01.png)
 
 
 The very first thing to do for solving a probability problem, is to CATEGORISE the problem and apply different formula.
@@ -13,7 +13,7 @@ The very first thing to do for solving a probability problem, is to CATEGORISE t
 
 ## 「Single Event」
 
-![image](20180802100329_❖-Intro-to-Probability-DRAFT_files/img_02.png)
+![image](20180802100329_❖-Intro-to-Probability-DRAFT_img_02.png)
 
 - The probability of an event can only be **0 to 1**  (or 0% to 100%).
 - The probability of event **`A`** is often written as **`P(A)`**.
@@ -69,13 +69,13 @@ A dummy method,  just to draw a table or a tree shows every outcome it could be,
 
 The sample space of an experiment is all the possible outcomes for that experiment. 
 
-![image](20180802100329_❖-Intro-to-Probability-DRAFT_files/img_03.png)
+![image](20180802100329_❖-Intro-to-Probability-DRAFT_img_03.png)
 (Rolling Two dice)
 
-![image](20180802100329_❖-Intro-to-Probability-DRAFT_files/img_04.png)
+![image](20180802100329_❖-Intro-to-Probability-DRAFT_img_04.png)
 (52 card deck)
 
-![image](20180802100329_❖-Intro-to-Probability-DRAFT_files/img_05.png)
+![image](20180802100329_❖-Intro-to-Probability-DRAFT_img_05.png)
 
 
 ### 「Sample Size」
@@ -90,14 +90,14 @@ All you need to do is multiply: 6 • 3 = 18 possible varieties of shoes.
 
 
 ### Example:
-![image](20180802100329_❖-Intro-to-Probability-DRAFT_files/img_06.png)
+![image](20180802100329_❖-Intro-to-Probability-DRAFT_img_06.png)
 First to notice that, it's **ONE** event. 
 
 
 ### Example:
-![image](20180802100329_❖-Intro-to-Probability-DRAFT_files/img_07.png)
+![image](20180802100329_❖-Intro-to-Probability-DRAFT_img_07.png)
 
 
 ### Example:
-![image](20180802100329_❖-Intro-to-Probability-DRAFT_files/img_08.png)
+![image](20180802100329_❖-Intro-to-Probability-DRAFT_img_08.png)
 
